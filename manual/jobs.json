@@ -1847,5 +1847,323 @@
   "apply_url": "https://www.linkedin.com/jobs/view/4480367908/",
   "ad_url": "https://www.linkedin.com/jobs/view/4480367908/",
   "source": "linkedin"
+ },
+ {
+  "id": "b4b580e8b2c8",
+  "company": "PIR",
+  "title": "Management Consultant",
+  "type": "Junior",
+  "areas": [
+   "Consulting"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=cc9788afd29439d5",
+  "ad_url": "https://se.indeed.com/viewjob?jk=cc9788afd29439d5",
+  "source": "indeed"
+ },
+ {
+  "id": "96eabbe4c31e",
+  "company": "Influence Tech",
+  "title": "Management Consultant – Technology Transformation",
+  "type": "Junior",
+  "areas": [
+   "Consulting",
+   "Strategy"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=003f52a799ff9c3b",
+  "ad_url": "https://se.indeed.com/viewjob?jk=003f52a799ff9c3b",
+  "source": "indeed"
+ },
+ {
+  "id": "54193a2c40a1",
+  "company": "PA Consulting",
+  "title": "Agile Consultant to PA Consulting",
+  "type": "Junior",
+  "areas": [
+   "Consulting"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=680aa013e018c491",
+  "ad_url": "https://se.indeed.com/viewjob?jk=680aa013e018c491",
+  "source": "indeed"
+ },
+ {
+  "id": "7b5053e8daca",
+  "company": "PA Consulting",
+  "title": "Management Consultant till Defence",
+  "type": "Junior",
+  "areas": [
+   "Consulting"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=7b259f854c82fb02",
+  "ad_url": "https://se.indeed.com/viewjob?jk=7b259f854c82fb02",
+  "source": "indeed"
+ },
+ {
+  "id": "338ef073785a",
+  "company": "Circulate",
+  "title": "Fundraising & CEO intern",
+  "type": "Internship",
+  "areas": [],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=94591b64526bf81e",
+  "ad_url": "https://se.indeed.com/viewjob?jk=94591b64526bf81e",
+  "source": "indeed"
+ },
+ {
+  "id": "084876223067",
+  "company": "Avanti",
+  "title": "Management Consultant - IT Advisory",
+  "type": "Junior",
+  "areas": [
+   "Consulting"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=0315a9f7f769b851",
+  "ad_url": "https://se.indeed.com/viewjob?jk=0315a9f7f769b851",
+  "source": "indeed"
+ },
+ {
+  "id": "88abbd0c835b",
+  "company": "Influence AB",
+  "title": "Managementkonsult - Make Change",
+  "type": "Junior",
+  "areas": [
+   "Consulting"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=88d154a3dd93b3b1",
+  "ad_url": "https://se.indeed.com/viewjob?jk=88d154a3dd93b3b1",
+  "source": "indeed"
+ },
+ {
+  "id": "c85a8453adcf",
+  "company": "Vaimo",
+  "title": "Business Solution Consultant (Digital Discovery)",
+  "type": "Junior",
+  "areas": [
+   "Consulting"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=a57433e17f8f1442",
+  "ad_url": "https://se.indeed.com/viewjob?jk=a57433e17f8f1442",
+  "source": "indeed"
+ },
+ {
+  "id": "bcae32c78467",
+  "company": "EFESO Consulting AB",
+  "title": "Data Scientist Intern (Industrial AI)",
+  "type": "Internship",
+  "areas": [],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=d72b38db4d8ee5df",
+  "ad_url": "https://se.indeed.com/viewjob?jk=d72b38db4d8ee5df",
+  "source": "indeed"
+ },
+ {
+  "id": "06aec9fc961c",
+  "company": "CAG MER Consulting",
+  "title": "Agil ledare inom Data and Analytics",
+  "type": "Junior",
+  "areas": [
+   "Analytics"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=87ba40c89088a038",
+  "ad_url": "https://se.indeed.com/viewjob?jk=87ba40c89088a038",
+  "source": "indeed"
+ },
+ {
+  "id": "a39d351c860e",
+  "company": "EFESO Consulting AB",
+  "title": "Data Scientist, Industrial AI & Advanced Analytics",
+  "type": "Junior",
+  "areas": [
+   "Analytics"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=fa739e06df633fc3",
+  "ad_url": "https://se.indeed.com/viewjob?jk=fa739e06df633fc3",
+  "source": "indeed"
+ },
+ {
+  "id": "b5677ba204c0",
+  "company": "Knowit Sweden",
+  "title": "Mentorship Program – Knowit Management Consulting 2027",
+  "type": "Junior",
+  "areas": [
+   "Consulting"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": "2027",
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=715d72b3d605d359",
+  "ad_url": "https://se.indeed.com/viewjob?jk=715d72b3d605d359",
+  "source": "indeed"
+ },
+ {
+  "id": "df984300ce9a",
+  "company": "CAG Clara Financial Consulting",
+  "title": "Business Analyst till Clara Financial Consulting",
+  "type": "Junior",
+  "areas": [
+   "Consulting",
+   "Analytics",
+   "Finance"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=ff4f6f729965fa2f",
+  "ad_url": "https://se.indeed.com/viewjob?jk=ff4f6f729965fa2f",
+  "source": "indeed"
+ },
+ {
+  "id": "20f8f196a8ed",
+  "company": "Ericsson",
+  "title": "Real Estate Portfolio Project Manager | Early Career Program",
+  "type": "Graduate",
+  "areas": [],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=0f266f5e1233e904",
+  "ad_url": "https://se.indeed.com/viewjob?jk=0f266f5e1233e904",
+  "source": "indeed"
+ },
+ {
+  "id": "83e1326ddd87",
+  "company": "Academic Work",
+  "title": "Analyst for a global company",
+  "type": "Junior",
+  "areas": [],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=83be80aa945da313",
+  "ad_url": "https://se.indeed.com/viewjob?jk=83be80aa945da313",
+  "source": "indeed"
+ },
+ {
+  "id": "ca94ff0934dd",
+  "company": "Applied Value",
+  "title": "Consultant / Senior Consultant (Stockholm)",
+  "type": "Junior",
+  "areas": [
+   "Consulting"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=fae89467219c2c70",
+  "ad_url": "https://se.indeed.com/viewjob?jk=fae89467219c2c70",
+  "source": "indeed"
+ },
+ {
+  "id": "e535e57d3aec",
+  "company": "Centigo",
+  "title": "Managementkonsult – Product & Tech",
+  "type": "Junior",
+  "areas": [
+   "Consulting"
+  ],
+  "cities": [
+   "Stockholm"
+  ],
+  "period": null,
+  "deadline": null,
+  "posted": null,
+  "first_seen": "2026-11-07",
+  "apply_url": "https://se.indeed.com/viewjob?jk=9aaf560d7091f4ee",
+  "ad_url": "https://se.indeed.com/viewjob?jk=9aaf560d7091f4ee",
+  "source": "indeed"
  }
 ]

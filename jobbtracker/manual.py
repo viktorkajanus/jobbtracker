@@ -81,6 +81,14 @@ def add_manual_jobs(raws: list[dict], manual: list[dict], existing: list[dict], 
     return added, skipped
 
 
+def still_relevant(jobs: list[dict]) -> list[dict]:
+    """Drop stored jobs that the current classification rules would reject."""
+    def ok(j):
+        raw = {"source": j["source"], "company": j["company"], "title": j["title"], "location": ", ".join(j["cities"])}
+        return _job_from_raw(raw, date.today())[0] is not None
+    return [j for j in jobs if ok(j)]
+
+
 def active_manual_jobs(jobs: list[dict], today: date) -> list[dict]:
     cutoff = (today - timedelta(days=MAX_AGE_DAYS)).isoformat()
     return [

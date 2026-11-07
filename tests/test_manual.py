@@ -87,3 +87,28 @@ def test_graduate_programme_with_manager_in_title():
     [job], _ = add_manual_jobs([raw(company="Volvo Group", title=title, location="Göteborg")],
                                manual=[], existing=[], today=TODAY)
     assert job["type"] == "Graduate"
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
+        "Management Consulting Conference Volunteer",
+        "GTM Account Executive",
+        "Chief of Staff",
+        "Managing Consultant - Sweden - C&M - Operations & Improvement",
+        "Executive Search-konsult till Stardust Search",
+    ],
+)
+def test_indeed_noise_is_skipped(title):
+    added, skipped = add_manual_jobs([raw(source="indeed", title=title)], manual=[], existing=[], today=TODAY)
+    assert added == []
+
+
+def test_still_relevant_drops_jobs_rejected_by_current_rules():
+    from jobbtracker.manual import still_relevant
+    keep, _ = add_manual_jobs([raw()], manual=[], existing=[], today=TODAY)
+    stale = {**keep[0], "id": "x", "title": "Chief of Staff"}
+    assert [j["id"] for j in still_relevant([*keep, stale])] == [keep[0]["id"]]

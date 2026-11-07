@@ -87,6 +87,34 @@ def parse_linkedin(page: str, today: date) -> list[dict]:
     return jobs
 
 
+INDEED_CARD = re.compile(r"<[^<]*class=\"[^\"]*job_seen_beacon")
+
+
+def _field(card: str, pattern: str) -> str:
+    m = re.search(pattern, card, re.S)
+    return " ".join(_text_lines(m.group(1))) if m else ""
+
+
+def parse_indeed(page: str) -> list[dict]:
+    starts = [m.start() for m in INDEED_CARD.finditer(page)]
+    jobs = []
+    for i, start in enumerate(starts):
+        card = page[start: starts[i + 1] if i + 1 < len(starts) else len(page)]
+        jk = re.search(r'data-jk="([0-9a-f]+)"', card)
+        title = re.search(r'<span title="([^"]+)" id="jobTitle-', card)
+        if not (jk and title):
+            continue
+        jobs.append({
+            "source": "indeed",
+            "company": _field(card, r'data-testid="company-name"[^>]*>(.*?)</span>'),
+            "title": htmllib.unescape(title.group(1)),
+            "location": _field(card, r'data-testid="text-location"[^>]*>(.*?)</div>'),
+            "url": f"https://se.indeed.com/viewjob?jk={jk.group(1)}",
+            "posted": None,
+        })
+    return jobs
+
+
 def read_page(path: Path) -> str:
     if path.suffix == ".webarchive":
         archive = plistlib.loads(path.read_bytes())
@@ -98,6 +126,8 @@ def parse_file(path: Path, today: date) -> list[dict]:
     page = read_page(path)
     if LINKEDIN_CARD.search(page):
         return parse_linkedin(page, today)
+    if INDEED_CARD.search(page):
+        return parse_indeed(page)
     raise ValueError("no job list found (in Safari, save with Format: Webbarkiv)")
 
 
@@ -110,7 +140,7 @@ def main() -> None:
         print("Inbox is empty.")
         return
     table = json.loads(TABLE.read_text()).get("jobs", []) if TABLE.exists() else []
-    saved = manual.active_manual_jobs(manual.load(MANUAL), today)
+    saved = manual.still_relevant(manual.active_manual_jobs(manual.load(MANUAL), today))
     done = INBOX / "processed"
     done.mkdir(exist_ok=True)
 

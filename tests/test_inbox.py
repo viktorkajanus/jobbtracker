@@ -39,3 +39,22 @@ def test_card_with_repeated_title():
     [job] = parse_linkedin(page, TODAY)
     assert (job["title"], job["company"], job["location"]) == (
         "Graduate & Junior Consulting Professionals", "Accenture Nordics", "Stockholm")
+
+
+def test_parse_indeed_search_results():
+    from jobbtracker.inbox import parse_indeed
+    jobs = parse_indeed((FIXTURES / "indeed_search.html").read_text())
+    assert [j["company"] for j in jobs] == ["Knowit Sweden", "CAG Clara Financial Consulting", "Ericsson"]
+    knowit = jobs[0]
+    assert knowit["title"] == "Mentorship Program – Knowit Management Consulting 2027"
+    assert knowit["location"] == "111 57 Stockholm"
+    assert knowit["url"] == "https://se.indeed.com/viewjob?jk=715d72b3d605d359"
+    assert knowit["source"] == "indeed"
+    assert jobs[2]["title"] == "Real Estate Portfolio Project Manager | Early Career Program"
+
+
+def test_parse_file_detects_indeed(tmp_path):
+    from jobbtracker.inbox import parse_file
+    path = tmp_path / "indeed.html"
+    path.write_text((FIXTURES / "indeed_search.html").read_text())
+    assert {j["source"] for j in parse_file(path, TODAY)} == {"indeed"}

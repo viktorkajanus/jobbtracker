@@ -82,7 +82,7 @@ def run(companies_paths, out_path: Path, today: date, fetch_company=fetch_compan
         failed = {source_key(j) for j in previous}
     jobs = merge_with_previous(jobs, previous, failed, today)
     if manual_path:
-        jobs += [m for m in manual.active_manual_jobs(manual.load(manual_path), today)
+        jobs += [m for m in manual.still_relevant(manual.active_manual_jobs(manual.load(manual_path), today))
                  if not any(_is_duplicate(m, j) for j in jobs)]
     jobs.sort(key=lambda j: (j["deadline"] or "9999", j["company"]))
 

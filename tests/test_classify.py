@@ -334,3 +334,7 @@ class TestInboxRoundTwo:
 
     def test_plain_senior_still_senior(self):
         assert SENIOR.search(strip_senior_alternatives("senior consultant, strategy"))
+
+
+def test_early_career_program_beats_manager():
+    assert classify_type("Real Estate Portfolio Project Manager | Early Career Program", "") == "Graduate"

@@ -13,7 +13,7 @@ from datetime import date
 
 SENIOR = re.compile(
     r"\b(senior|sr\.?|manager|director|head of|lead|principal|partner|"
-    r"vice president|vp|chef|experienced|expert)\b"
+    r"vice president|vp|chef|experienced|expert|managing|chief)\b"
 )
 # "Consultant & Senior Consultant", "Senior/Quantitative Analyst": the ad also covers a junior level.
 SENIOR_ALTERNATIVE = re.compile(r"(?:&|\band\b|/)\s*senior\b|\bsenior\s*/")
@@ -27,7 +27,8 @@ INTERNSHIP = re.compile(
     r"sommar\w*|praktik\w*|off[- ]cycle|placement|working student|werkstudent)\b"
 )
 GRADUATE = re.compile(
-    r"\b(graduate (programme|program|intake|scheme)|graduate\b|trainee\w*|traineeprogram\w*)"
+    r"\b(graduate (programme|program|intake|scheme)|graduate\b|trainee\w*|traineeprogram\w*|"
+    r"early careers? program\w*)"
 )
 JUNIOR_EXPLICIT = re.compile(r"\b(junior\w*|entry[- ]level|nyexaminerad\w*)\b")
 JUNIOR_AMBIGUOUS = re.compile(
@@ -101,7 +102,8 @@ HARD_OFF_TARGET = re.compile(
     r"receptionist|architect\w*|arkitekt\w*|hvac|acoustic\w*|akustik\w*|structural|konstruktion\w*|"
     r"geotechn\w*|electrical|mechanical|\bhr\b|human resources|employer brand\w*|marketing|"
     r"communicat\w*|kommunikat\w*|\bevents?\b|\bnetwork\b|cyber|designer|"
-    r"talent acquisition|talent brand|recruit(er|ment|ing)?\b|dinner|\bclub\b|tekniker|"
+    r"talent acquisition|talent brand|recruit(er|ment|ing)?\b|dinner|\bclub\b|tekniker|volunt\w*|"
+    r"account executive|executive search|"
     r"\bsales\b(?!,?\s*(and|&)?\s*trading)"
 )
 
