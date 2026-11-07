@@ -74,8 +74,15 @@ def add_manual_jobs(raws: list[dict], manual: list[dict], existing: list[dict], 
         job, reason = _job_from_raw(r, today)
         if job is None:
             skipped.append((r, reason))
-        elif any(_is_duplicate(job, other) for other in [*existing, *manual, *added]):
-            skipped.append((r, "already in table"))
+        elif dupes := [other for other in [*existing, *manual, *added] if _is_duplicate(job, other)]:
+            stored = next((d for d in dupes if d in manual), None)
+            if stored is not None and job["deadline"] and not stored.get("deadline"):
+                # Saving the page with this ad open gives us its description and deadline.
+                stored["deadline"] = job["deadline"]
+                stored["period"] = stored.get("period") or job["period"]
+                skipped.append((r, "already in table, deadline added"))
+            else:
+                skipped.append((r, "already in table"))
         else:
             added.append(job)
     return added, skipped

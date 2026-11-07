@@ -26,6 +26,10 @@ MANUAL = ROOT / "manual" / "jobs.json"
 LINKEDIN_CARD = re.compile(r'componentkey="job-card-component-ref-(\d+)"')
 LINKEDIN_END = re.compile(r"Är dessa resultat användbara|Are these results helpful")
 VERIFIED = re.compile(r"\((verifierat jobb|verified job)\)$")
+# The ad open in the right-hand pane: its id, and its description between these headings.
+LINKEDIN_OPEN_ID = re.compile(r"currentJobId=(\d+)")
+LINKEDIN_DESC_START = re.compile(r">\s*(Om jobbet|About the job)\s*<")
+LINKEDIN_DESC_END = re.compile(r">\s*(Om företaget|About the company)\s*<")
 
 UNITS = {
     "timme": "hours", "timmar": "hours", "hour": "hours", "hours": "hours", "minut": "hours", "minuter": "hours",
@@ -66,6 +70,7 @@ def parse_linkedin(page: str, today: date) -> list[dict]:
     end_match = LINKEDIN_END.search(page)
     page_end = end_match.start() if end_match else len(page)
 
+    open_id, open_text = _linkedin_open_ad(page)
     jobs = []
     for i, (job_id, pos) in enumerate(cards):
         start = page.rfind("<", 0, pos)
@@ -84,7 +89,18 @@ def parse_linkedin(page: str, today: date) -> list[dict]:
             "url": f"https://www.linkedin.com/jobs/view/{job_id}/",
             "posted": posted.isoformat() if posted else None,
         })
+        if job_id == open_id and open_text:
+            jobs[-1]["text"] = open_text
     return jobs
+
+
+def _linkedin_open_ad(page: str) -> tuple[str | None, str]:
+    start = LINKEDIN_DESC_START.search(page)
+    if not start:
+        return None, ""
+    ids = LINKEDIN_OPEN_ID.findall(page, 0, start.start())
+    end = LINKEDIN_DESC_END.search(page, start.end())
+    return (ids[-1] if ids else None), " ".join(_text_lines(page[start.end(): end.start() if end else None]))
 
 
 INDEED_CARD = re.compile(r"<[^<]*class=\"[^\"]*job_seen_beacon")
@@ -95,7 +111,20 @@ def _field(card: str, pattern: str) -> str:
     return " ".join(_text_lines(m.group(1))) if m else ""
 
 
+def _indeed_open_ad(page: str) -> tuple[str | None, str]:
+    pane = page.find("jobsearch-RightPane")
+    desc = page.find("simple-job-description-html", pane)
+    if pane < 0 or desc < 0:
+        return None, ""
+    end = page.find("jobDescriptionSeen", desc)
+    end = page.rfind("<", desc, end) if end > 0 else len(page)
+    jk = re.search(r"jk=([0-9a-f]+)", page[pane:end])
+    body = page[page.find(">", desc) + 1: end]
+    return (jk.group(1) if jk else None), " ".join(_text_lines(body))
+
+
 def parse_indeed(page: str) -> list[dict]:
+    open_jk, open_text = _indeed_open_ad(page)
     starts = [m.start() for m in INDEED_CARD.finditer(page)]
     jobs = []
     for i, start in enumerate(starts):
@@ -112,6 +141,8 @@ def parse_indeed(page: str) -> list[dict]:
             "url": f"https://se.indeed.com/viewjob?jk={jk.group(1)}",
             "posted": None,
         })
+        if jk.group(1) == open_jk and open_text:
+            jobs[-1]["text"] = open_text
     return jobs
 
 

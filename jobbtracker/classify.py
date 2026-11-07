@@ -254,10 +254,11 @@ def extract_period(title: str, text: str, today: date) -> str | None:
 
 
 DEADLINE_KEYWORD = re.compile(
-    r"(deadline|apply by|apply before|apply no later than|last day (?:to|of) appl\w*|"
+    r"(deadline|apply by|apply before|no later than|last day (?:to|of) appl\w*|"
     r"closing date|applications? close\w*|sista ansökningsdag\w*|ansök senast|senast den|senast)"
 )
 ISO_DATE = re.compile(r"\b(20\d\d)-(\d{2})-(\d{2})\b")
+NUMERIC_DMY = re.compile(r"\b(\d{1,2})[./](\d{1,2})[./](20\d\d)\b")
 DAY_MONTH = re.compile(rf"\b(\d{{1,2}})(?:st|nd|rd|th)?\s+(?:of\s+)?{MONTH_RE}(?:\s*,?\s*{YEAR})?")
 MONTH_DAY = re.compile(rf"\b{MONTH_RE}\s+(\d{{1,2}})(?:st|nd|rd|th)?(?:\s*,?\s*{YEAR})?")
 
@@ -266,6 +267,8 @@ def _parse_date(s: str, today: date) -> date | None:
     candidates = []
     if m := ISO_DATE.search(s):
         candidates.append((m.start(), (int(m.group(1)), int(m.group(2)), int(m.group(3))), True))
+    if m := NUMERIC_DMY.search(s):
+        candidates.append((m.start(), (int(m.group(3)), int(m.group(2)), int(m.group(1))), True))
     if m := DAY_MONTH.search(s):
         y = m.group(3)
         candidates.append((m.start(), (int(y) if y else None, _month_num(m.group(2)), int(m.group(1))), bool(y)))

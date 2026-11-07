@@ -338,3 +338,9 @@ class TestInboxRoundTwo:
 
 def test_early_career_program_beats_manager():
     assert classify_type("Real Estate Portfolio Project Manager | Early Career Program", "") == "Graduate"
+
+
+def test_deadline_numeric_day_month_year():
+    today = date(2026, 11, 7)
+    assert extract_deadline("Submit your application no later than 19/11/2026.", today) == date(2026, 11, 19)
+    assert extract_deadline("Sista ansökningsdag 30.11.2026", today) == date(2026, 11, 30)

@@ -112,3 +112,18 @@ def test_still_relevant_drops_jobs_rejected_by_current_rules():
     keep, _ = add_manual_jobs([raw()], manual=[], existing=[], today=TODAY)
     stale = {**keep[0], "id": "x", "title": "Chief of Staff"}
     assert [j["id"] for j in still_relevant([*keep, stale])] == [keep[0]["id"]]
+
+
+def test_deadline_and_period_come_from_ad_text():
+    text = "Start in August 2027. Application deadline: 23:59 (CET) 22nd of November 2026"
+    [job], _ = add_manual_jobs([raw(text=text)], manual=[], existing=[], today=TODAY)
+    assert job["deadline"] == "2026-11-22"
+
+
+def test_saving_an_ad_again_fills_in_a_missing_deadline():
+    first, _ = add_manual_jobs([raw()], manual=[], existing=[], today=TODAY)
+    assert first[0]["deadline"] is None
+    added, skipped = add_manual_jobs([raw(text="Sista ansökningsdag 30 november 2026")], manual=first, existing=[], today=TODAY)
+    assert added == []
+    assert skipped[0][1] == "already in table, deadline added"
+    assert first[0]["deadline"] == "2026-11-30"
