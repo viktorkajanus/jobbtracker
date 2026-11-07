@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:tt="https://teamtailor.com/locations">
+  <channel>
+    <title>Fortos</title>
+    <item>
+      <title>Associate Consultant</title>
+      <description>&lt;p&gt;Vi söker dig som är nyexaminerad civilingenjör.&lt;/p&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 19:37:57 +0100</pubDate>
+      <link>https://career.fortos.se/jobs/123-associate-consultant</link>
+      <guid>7b9dec76</guid>
+      <tt:locations>
+        <tt:location><tt:name>Stockholm HQ</tt:name><tt:city>Stockholm</tt:city><tt:country>Sweden</tt:country></tt:location>
+      </tt:locations>
+    </item>
+  </channel>
+</rss>

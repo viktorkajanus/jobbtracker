@@ -1,0 +1,7 @@
+[
+ {"id": "abc-1", "text": "Graduate Programme - Finance",
+  "categories": {"location": "Stockholm", "allLocations": ["Stockholm", "Gothenburg"], "commitment": "Permanent"},
+  "createdAt": 1792767640768, "hostedUrl": "https://jobs.lever.co/acme/abc-1",
+  "applyUrl": "https://jobs.lever.co/acme/abc-1/apply",
+  "descriptionPlain": "The programme starts in September 2027.", "additionalPlain": "Apply by 15 December 2026."}
+]

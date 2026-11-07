@@ -1,0 +1,511 @@
+# Banking / IB / M&A segment. Feeds verified with curl on 2026-11-07.
+
+# ---------------- Global investment banks ----------------
+
+[[company]]
+name = "Goldman Sachs"
+segment = "IB"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://higher.gs.com/"
+ats = "unsupported"
+feed = ""
+notes = "Custom site (higher.gs.com), Avature-backed campus recruiting"
+
+[[company]]
+name = "Morgan Stanley"
+segment = "IB"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://www.morganstanley.com/careers"
+ats = "unsupported"
+feed = ""
+notes = "Custom/Taleo-backed site, no public JSON found"
+
+[[company]]
+name = "J.P. Morgan"
+segment = "IB"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://careers.jpmorgan.com/"
+ats = "unsupported"
+feed = ""
+notes = "Oracle HCM (jpmc.fa.oraclecloud.com)"
+
+[[company]]
+name = "Citi"
+segment = "IB"
+cities = ["London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://jobs.citi.com/"
+ats = "workday"
+feed = "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs"
+notes = "Global board (~2000+ jobs), filter by location; no separate campus Workday site found"
+
+[[company]]
+name = "Bank of America"
+segment = "IB"
+cities = ["London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://careers.bankofamerica.com/"
+ats = "workday"
+feed = "https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/Lateral-US/jobs"
+notes = "Global lateral board, heavily US; filter by location. Campus/early careers run on Avature (bac.avature.net), not covered"
+
+[[company]]
+name = "Barclays"
+segment = "IB"
+cities = ["London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://search.jobs.barclays/"
+ats = "workday"
+feed = "https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs"
+notes = "Global board, filter by location"
+
+[[company]]
+name = "Deutsche Bank"
+segment = "IB"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://careers.db.com/"
+ats = "workday"
+feed = "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebSite/jobs"
+notes = "Global board (~1100 jobs), filter by location; includes graduate/intern postings"
+
+[[company]]
+name = "UBS"
+segment = "IB"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://www.ubs.com/global/en/careers.html"
+ats = "unsupported"
+feed = ""
+notes = "Site blocks curl (403); Workday site name not identified"
+
+[[company]]
+name = "BNP Paribas"
+segment = "IB"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://group.bnpparibas/en/careers/all-job-offers"
+ats = "unsupported"
+feed = ""
+notes = "Custom site, blocks curl (403)"
+
+[[company]]
+name = "HSBC"
+segment = "IB"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://mycareer.hsbc.com/"
+ats = "unsupported"
+feed = ""
+notes = "Custom portal (mycareer.hsbc.com); Workday site name not identified"
+
+[[company]]
+name = "Lazard"
+segment = "M&A"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://www.lazard.com/careers/"
+ats = "unsupported"
+feed = ""
+notes = "Oracle HCM (icbpjb.fa.ocs.oraclecloud.com)"
+
+[[company]]
+name = "Rothschild & Co"
+segment = "M&A"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Copenhagen", "Helsinki"]
+careers_url = "https://www.rothschildandco.com/en/careers/"
+ats = "workday"
+feed = "https://rothschildandco.wd3.myworkdayjobs.com/wday/cxs/rothschildandco/Rothschildandco_Lateral/jobs"
+notes = "Global lateral board incl. some internships, filter by location; graduate/intern programmes run on tal.net, not covered"
+
+[[company]]
+name = "Evercore"
+segment = "M&A"
+cities = ["London", "Frankfurt"]
+careers_url = "https://www.evercore.com/careers/"
+ats = "unsupported"
+feed = ""
+notes = "Workday tenant evercore.wd1 exists but site name not found; returns 401"
+
+[[company]]
+name = "Moelis & Company"
+segment = "M&A"
+cities = ["London", "Frankfurt"]
+careers_url = "https://www.moelis.com/careers/"
+ats = "workday"
+feed = "https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Experienced-Hires/jobs"
+notes = "Experienced hires only, global, filter by location; campus runs on moelis-careers.tal.net (not covered)"
+
+[[company]]
+name = "PJT Partners"
+segment = "M&A"
+cities = ["London"]
+careers_url = "https://www.pjtpartners.com/careers"
+ats = "workday"
+feed = "https://pjtpartners.wd1.myworkdayjobs.com/wday/cxs/pjtpartners/Careers/jobs"
+notes = "Global board, filter by location"
+
+[[company]]
+name = "Houlihan Lokey"
+segment = "M&A"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://hl.com/careers/"
+ats = "workday"
+feed = "https://hl.wd1.myworkdayjobs.com/wday/cxs/hl/Campus/jobs"
+notes = "Campus/early-careers board, global, filter by location. Lateral board also exists: https://hl.wd1.myworkdayjobs.com/wday/cxs/hl/External/jobs"
+
+[[company]]
+name = "Jefferies"
+segment = "IB"
+cities = ["London", "Frankfurt", "Amsterdam", "Zurich", "Stockholm"]
+careers_url = "https://www.jefferies.com/careers/"
+ats = "unsupported"
+feed = ""
+notes = "Oracle HCM for experienced hires, tal.net for campus"
+
+[[company]]
+name = "Centerview Partners"
+segment = "M&A"
+cities = ["London"]
+careers_url = "https://www.centerviewpartners.com/"
+ats = "unsupported"
+feed = ""
+notes = "No ATS found in page; custom"
+
+[[company]]
+name = "Perella Weinberg Partners"
+segment = "M&A"
+cities = ["London"]
+careers_url = "https://pwpartners.com/careers/"
+ats = "unsupported"
+feed = ""
+notes = "Site blocks curl (403); ATS not identified"
+
+[[company]]
+name = "Nomura"
+segment = "IB"
+cities = ["London", "Frankfurt"]
+careers_url = "https://careers.nomura.com/"
+ats = "unsupported"
+feed = ""
+notes = "SuccessFactors RMK"
+
+[[company]]
+name = "Alantra"
+segment = "M&A"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Copenhagen"]
+careers_url = "https://www.alantra.com/careers/"
+ats = "workday"
+feed = "https://alantra.wd3.myworkdayjobs.com/wday/cxs/alantra/alantra/jobs"
+notes = "Global board incl. internships, filter by location"
+
+[[company]]
+name = "Clearwater International"
+segment = "M&A"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Copenhagen"]
+careers_url = "https://www.clearwatercf.com/careers"
+ats = "unsupported"
+feed = ""
+notes = "Site blocks curl (403). Note: greenhouse 'clearwater' and teamtailor 'clearwater' boards belong to other companies"
+
+[[company]]
+name = "Oaklins"
+segment = "M&A"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Copenhagen", "Helsinki"]
+careers_url = "https://www.oaklins.com/se/en/careers/"
+ats = "unsupported"
+feed = ""
+notes = "No job listings/ATS on page; per-country member firms"
+
+[[company]]
+name = "Eight Advisory"
+segment = "M&A"
+cities = ["London", "Frankfurt", "Amsterdam"]
+careers_url = "https://www.8advisory.com/en"
+ats = "unsupported"
+feed = ""
+notes = "ATS not identified"
+
+# ---------------- Nordic IB / brokers / boutiques ----------------
+
+[[company]]
+name = "DNB Carnegie"
+segment = "IB"
+cities = ["Stockholm", "Gothenburg", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://www.carnegie.se/karriar/"
+ats = "unsupported"
+feed = ""
+notes = "SuccessFactors RMK (jobs.carnegie.se; DNB group at jobb.dnb.no)"
+
+[[company]]
+name = "ABG Sundal Collier"
+segment = "IB"
+cities = ["Stockholm", "Oslo", "Copenhagen", "London", "Frankfurt"]
+careers_url = "https://www.abgsc.com/working-at-abgsc/"
+ats = "teamtailor"
+feed = "https://abgsc.teamtailor.com/jobs.rss"
+notes = ""
+
+[[company]]
+name = "Pareto Securities"
+segment = "IB"
+cities = ["Stockholm", "Oslo", "Copenhagen", "Helsinki", "Frankfurt", "London"]
+careers_url = "https://paretosec.com/our-firm/career"
+ats = "teamtailor"
+feed = "https://paretosecurities.teamtailor.com/jobs.rss"
+notes = "Includes IB internship open application"
+
+[[company]]
+name = "Arctic Securities"
+segment = "IB"
+cities = ["Stockholm", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://www.arctic.com/career/open-positions"
+ats = "unsupported"
+feed = ""
+notes = "Custom listings on arctic.com"
+
+[[company]]
+name = "SEB"
+segment = "Bank"
+cities = ["Stockholm", "Gothenburg", "Oslo", "Copenhagen", "Helsinki", "London", "Frankfurt"]
+careers_url = "https://sebgroup.com/career/find-your-new-job/our-vacant-positions"
+ats = "lever"
+feed = "https://api.eu.lever.co/v0/postings/seb?mode=json"
+notes = "EU Lever, ~120 jobs incl. CIB summer internships and Corporate Finance graduate analysts; filter by location (also Warsaw/Vilnius)"
+
+[[company]]
+name = "Handelsbanken"
+segment = "Bank"
+cities = ["Stockholm", "Gothenburg", "Oslo", "Copenhagen", "Helsinki", "London", "Amsterdam"]
+careers_url = "https://www.handelsbanken.com/en/vacancies"
+ats = "unsupported"
+feed = ""
+notes = "JS-rendered custom listing, links to LinkedIn"
+
+[[company]]
+name = "Swedbank"
+segment = "Bank"
+cities = ["Stockholm", "Gothenburg", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://jobs.swedbank.com/"
+ats = "teamtailor"
+feed = "https://jobs.swedbank.com/jobs.rss"
+notes = "Group-wide Teamtailor (incl. Baltics), filter by location"
+
+[[company]]
+name = "Nordea"
+segment = "Bank"
+cities = ["Stockholm", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://careers.nordea.com/"
+ats = "unsupported"
+feed = ""
+notes = "SuccessFactors RMK"
+
+[[company]]
+name = "Danske Bank"
+segment = "Bank"
+cities = ["Stockholm", "Gothenburg", "Oslo", "Copenhagen", "Helsinki", "London"]
+careers_url = "https://danskebank.com/careers"
+ats = "unsupported"
+feed = ""
+notes = "Oracle HCM (ejqi.fa.ocs.oraclecloud.eu)"
+
+[[company]]
+name = "Erik Penser Bank"
+segment = "IB"
+cities = ["Stockholm"]
+careers_url = "https://www.penser.se/"
+ats = "unsupported"
+feed = ""
+notes = "Site unreachable from curl; ATS not identified"
+
+[[company]]
+name = "Redeye"
+segment = "IB"
+cities = ["Stockholm"]
+careers_url = "https://www.redeye.se/"
+ats = "unsupported"
+feed = ""
+notes = "Site blocks curl (403)"
+
+[[company]]
+name = "Mangold Fondkommission"
+segment = "IB"
+cities = ["Stockholm"]
+careers_url = "https://mangold.teamtailor.com/jobs"
+ats = "teamtailor"
+feed = "https://mangold.teamtailor.com/jobs.rss"
+notes = "Added; small Stockholm broker/corporate finance house"
+
+[[company]]
+name = "Translink Corporate Finance"
+segment = "M&A"
+cities = ["Stockholm", "Copenhagen", "Helsinki", "Oslo", "London", "Frankfurt", "Amsterdam"]
+careers_url = "https://translinkcf.com/"
+ats = "unsupported"
+feed = ""
+notes = "No ATS found on site"
+
+[[company]]
+name = "Lenner & Partners"
+segment = "M&A"
+cities = ["Stockholm"]
+careers_url = "https://www.lennerpartners.com/"
+ats = "unsupported"
+feed = ""
+notes = "No careers listing/ATS found"
+
+[[company]]
+name = "Pangea Property Partners"
+segment = "M&A"
+cities = ["Stockholm", "Gothenburg", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://pangeapp.se/"
+ats = "unsupported"
+feed = ""
+notes = "Site unreachable from curl; teamtailor slug 'pangea' is a different company"
+
+[[company]]
+name = "Carlsquare"
+segment = "M&A"
+cities = ["Stockholm", "Frankfurt", "London"]
+careers_url = "https://carlsquare.com/career/"
+ats = "unsupported"
+feed = ""
+notes = "Added; Personio (carlsquare-gmbh.jobs.personio.com), Stockholm M&A analyst roles"
+
+[[company]]
+name = "MCF Corporate Finance"
+segment = "M&A"
+cities = ["Stockholm", "Frankfurt", "Helsinki"]
+careers_url = "https://www.mcfcorpfin.com/careers/"
+ats = "unsupported"
+feed = ""
+notes = "Added; Personio (mcfcorpfin.jobs.personio.com)"
+
+[[company]]
+name = "Livingstone Partners"
+segment = "M&A"
+cities = ["Stockholm", "London", "Frankfurt"]
+careers_url = "https://livingstonepartners.com/"
+ats = "unsupported"
+feed = ""
+notes = "Added; Stockholm office hires analysts, ATS not identified"
+
+[[company]]
+name = "Augment Partners"
+segment = "M&A"
+cities = ["Stockholm"]
+careers_url = "https://www.augment.se/career/"
+ats = "unsupported"
+feed = ""
+notes = "Added; listings on own WordPress site"
+
+# ---------------- Retail brokers, pension & insurance ----------------
+
+[[company]]
+name = "Avanza"
+segment = "Bank"
+cities = ["Stockholm"]
+careers_url = "https://career.avanza.se/"
+ats = "teamtailor"
+feed = "https://career.avanza.se/jobs.rss"
+notes = ""
+
+[[company]]
+name = "Nordnet"
+segment = "Bank"
+cities = ["Stockholm", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://career.nordnetab.com/"
+ats = "teamtailor"
+feed = "https://career.nordnetab.com/jobs.rss"
+notes = ""
+
+[[company]]
+name = "SBAB"
+segment = "Bank"
+cities = ["Stockholm"]
+careers_url = "https://sbab.teamtailor.com/jobs"
+ats = "teamtailor"
+feed = "https://sbab.teamtailor.com/jobs.rss"
+notes = "Added; includes treasury/risk analyst roles"
+
+[[company]]
+name = "Kommuninvest"
+segment = "Bank"
+cities = ["Stockholm"]
+careers_url = "https://kommuninvest.se/"
+ats = "unsupported"
+feed = ""
+notes = "No ATS found on site"
+
+[[company]]
+name = "AP4 (incl. former AP1)"
+segment = "Bank"
+cities = ["Stockholm"]
+careers_url = "https://www.ap4.se/karriar/lediga-tjanster/"
+ats = "unsupported"
+feed = ""
+notes = "ap1.se now redirects to AP4; listings on own site"
+
+[[company]]
+name = "AP2"
+segment = "Bank"
+cities = ["Gothenburg"]
+careers_url = "https://ap2.se/om/jobba-hos-ap2/"
+ats = "unsupported"
+feed = ""
+notes = "Heartpace (jobs.hiring.heartpace.com)"
+
+[[company]]
+name = "AP3"
+segment = "Bank"
+cities = ["Stockholm"]
+careers_url = "https://karriar.ap3.se/"
+ats = "teamtailor"
+feed = "https://karriar.ap3.se/jobs.rss"
+notes = "Valid feed, currently 0 jobs"
+
+[[company]]
+name = "AP7"
+segment = "Bank"
+cities = ["Stockholm"]
+careers_url = "https://www.ap7.se/kontakt/lediga-tjanster/"
+ats = "unsupported"
+feed = ""
+notes = "Amendo (jobb.amendo.se)"
+
+[[company]]
+name = "Länsförsäkringar"
+segment = "Bank"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://jobb.lansforsakringar.se/"
+ats = "unsupported"
+feed = ""
+notes = "Jobylon"
+
+[[company]]
+name = "Skandia"
+segment = "Bank"
+cities = ["Stockholm"]
+careers_url = "https://skandia.teamtailor.com/jobs"
+ats = "teamtailor"
+feed = "https://skandia.teamtailor.com/jobs.rss"
+notes = ""
+
+[[company]]
+name = "Folksam"
+segment = "Bank"
+cities = ["Stockholm"]
+careers_url = "https://www.folksam.se/jobb-och-karriar/lediga-jobb/lediga-jobb-hos-oss"
+ats = "unsupported"
+feed = ""
+notes = "ReachMee"
+
+[[company]]
+name = "Alecta"
+segment = "Bank"
+cities = ["Stockholm"]
+careers_url = "https://www.alecta.se/om-alecta/jobba-hos-oss/lediga-tjanster"
+ats = "unsupported"
+feed = ""
+notes = "ReachMee"
+
+[[company]]
+name = "AMF"
+segment = "Bank"
+cities = ["Stockholm"]
+careers_url = "https://www.amf.se/om-amf/det-har-ar-amf/jobba-hos-amf/"
+ats = "unsupported"
+feed = ""
+notes = "Jobylon (company group 210)"

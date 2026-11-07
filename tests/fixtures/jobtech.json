@@ -1,0 +1,16 @@
+{"total": {"value": 2}, "hits": [
+ {"id": "31633599", "headline": "Examensarbete inom inköp och supply chain",
+  "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31633599",
+  "application_deadline": "2026-11-19T23:59:59", "publication_date": "2026-10-22T16:10:13",
+  "employer": {"name": "Scania CV AB", "workplace": "Scania"},
+  "workplace_address": {"municipality": "Södertälje", "region": "Stockholms län", "region_code": "01", "city": null},
+  "application_details": {"url": "https://scania.com/apply/123", "via_af": false},
+  "description": {"text": "Examensarbetet utförs under våren 2027."}},
+ {"id": "999", "headline": "Trainee ekonomi",
+  "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/999",
+  "application_deadline": null, "publication_date": "2026-11-01T08:00:00",
+  "employer": {"name": "Okänd AB", "workplace": null},
+  "workplace_address": {"municipality": "Göteborg", "region": "Västra Götalands län", "region_code": "14", "city": "Göteborg"},
+  "application_details": {"url": null, "via_af": true},
+  "description": {"text": "Programmet startar i augusti 2027."}}
+]}

@@ -1,0 +1,5 @@
+{"totalFound": 1, "offset": 0, "limit": 100, "content": [
+ {"id": "744000", "name": "Summer Internship Procurement", "releasedDate": "2026-10-20T09:00:00.000Z",
+  "location": {"city": "Stockholm", "country": "se", "fullLocation": "Stockholm, Sweden"},
+  "company": {"identifier": "Acme"}}
+]}

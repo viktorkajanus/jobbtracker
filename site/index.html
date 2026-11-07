@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jobbtracker</title>
+  <meta name="description" content="Internships, graduate programmes, theses and junior roles for industrial engineering and management students.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>Jobbtracker</h1>
+      <p class="sub">Internships, graduate programmes, theses and junior roles in IB, PE, M&amp;A, consulting, audit and more.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="filters" aria-label="Filters">
+      <div class="filter-group" role="group" aria-label="Location">
+        <span class="label">Location</span>
+        <div class="chips" id="city-chips"></div>
+      </div>
+      <div class="filter-group" role="group" aria-label="Type">
+        <span class="label">Type</span>
+        <div class="chips" id="type-chips"></div>
+      </div>
+      <div class="filter-group" role="group" aria-label="Area">
+        <span class="label">Area</span>
+        <div class="chips" id="area-chips"></div>
+      </div>
+      <div class="filter-row">
+        <label class="field">
+          <span class="label">Period</span>
+          <select id="period"></select>
+        </label>
+        <label class="field">
+          <span class="label">Status</span>
+          <select id="status-filter">
+            <option value="active">All except hidden</option>
+            <option value="Interested">Interested</option>
+            <option value="Applied">Applied</option>
+            <option value="none">Not marked</option>
+            <option value="Hidden">Hidden</option>
+            <option value="all">Everything</option>
+          </select>
+        </label>
+        <label class="field grow">
+          <span class="label">Search</span>
+          <input id="search" type="search" placeholder="Company or role" autocomplete="off">
+        </label>
+        <button id="reset" class="ghost" type="button">Reset filters</button>
+      </div>
+    </section>
+
+    <p class="summary" id="summary" aria-live="polite"></p>
+
+    <div class="table-wrap">
+      <table id="jobs">
+        <thead>
+          <tr>
+            <th data-sort="company">Company</th>
+            <th data-sort="title">Role</th>
+            <th data-sort="type">Type</th>
+            <th data-sort="areas">Area</th>
+            <th data-sort="cities">Location</th>
+            <th data-sort="period">Period</th>
+            <th data-sort="deadline">Deadline</th>
+            <th data-sort="posted">Posted</th>
+            <th>Links</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="empty" id="empty" hidden>No jobs match these filters.</p>
+
+    <details class="manual">
+      <summary>Companies not tracked automatically</summary>
+      <p>These career sites have no public job feed we can read. Check them directly.</p>
+      <ul id="manual-list"></ul>
+    </details>
+  </main>
+
+  <footer class="wrap foot" id="foot"></footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

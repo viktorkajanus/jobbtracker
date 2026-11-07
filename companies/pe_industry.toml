@@ -1,0 +1,683 @@
+[[company]]
+name = "EQT"
+segment = "PE"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://eqtgroup.com/about/careers"
+ats = "greenhouse"
+feed = "https://boards-api.greenhouse.io/v1/boards/eqtpartners/jobs?content=true"
+notes = "global board (EU Greenhouse instance, token eqtpartners; US API host works), filter by location"
+
+[[company]]
+name = "Nordic Capital"
+segment = "PE"
+cities = ["Stockholm", "London", "Frankfurt", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://career.nordiccapital.com"
+ats = "teamtailor"
+feed = "https://career.nordiccapital.com/jobs.rss"
+notes = ""
+
+[[company]]
+name = "Triton Partners"
+segment = "PE"
+cities = ["Stockholm", "London", "Frankfurt", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://www.triton-partners.com/careers"
+ats = "workday"
+feed = "https://tritonpartners.wd3.myworkdayjobs.com/wday/cxs/tritonpartners/External/jobs"
+notes = "global board, filter by location"
+
+[[company]]
+name = "Altor"
+segment = "PE"
+cities = ["Stockholm", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://careers.altor.com"
+ats = "teamtailor"
+feed = "https://careers.altor.com/jobs.rss"
+notes = "valid but currently empty"
+
+[[company]]
+name = "IK Partners"
+segment = "PE"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://ikpartners.com/careers/"
+ats = "recruitee"
+feed = "https://ikpartners.recruitee.com/api/offers/"
+notes = "Recruitee (JSON at https://ikpartners.recruitee.com/api/offers/)"
+
+[[company]]
+name = "Summa Equity"
+segment = "PE"
+cities = ["Stockholm", "London", "Oslo", "Copenhagen", "Helsinki", "Amsterdam"]
+careers_url = "https://summaequity.com/company/careers/"
+ats = "unsupported"
+feed = ""
+notes = "BambooHR (summaequity.bamboohr.com) + recruiter ads"
+
+[[company]]
+name = "Adelis Equity"
+segment = "PE"
+cities = ["Stockholm", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://adelisequity.com/"
+ats = "unsupported"
+feed = ""
+notes = "no ATS found; site blocks curl"
+
+[[company]]
+name = "Polaris Private Equity"
+segment = "PE"
+cities = ["Copenhagen", "Stockholm"]
+careers_url = "https://polarisequity.dk/careers"
+ats = "unsupported"
+feed = ""
+notes = "Emply (polaris.career.emply.com)"
+
+[[company]]
+name = "Verdane"
+segment = "PE"
+cities = ["Stockholm", "Oslo", "Copenhagen", "Helsinki", "London"]
+careers_url = "https://verdane.com/careers/"
+ats = "unsupported"
+feed = ""
+notes = "site returns 403 to curl; ATS not identified"
+
+[[company]]
+name = "CapMan"
+segment = "PE"
+cities = ["Helsinki", "Stockholm", "Copenhagen", "London"]
+careers_url = "https://careers.capman.com"
+ats = "teamtailor"
+feed = "https://careers.capman.com/jobs.rss"
+notes = ""
+
+[[company]]
+name = "FSN Capital"
+segment = "PE"
+cities = ["Oslo", "Stockholm", "Copenhagen", "Frankfurt"]
+careers_url = "https://www.fsncapital.com/en/careers/"
+ats = "unsupported"
+feed = ""
+notes = "site returns 403 to curl; ATS not identified"
+
+[[company]]
+name = "Litorina"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://litorina.se/career/"
+ats = "unsupported"
+feed = ""
+notes = "no ATS; ad-hoc/email recruiting"
+
+[[company]]
+name = "Valedo Partners"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://www.valedopartners.com/"
+ats = "unsupported"
+feed = ""
+notes = "no ATS found"
+
+[[company]]
+name = "Accent Equity"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://www.accentequity.se/"
+ats = "unsupported"
+feed = ""
+notes = "no ATS found"
+
+[[company]]
+name = "Procuritas"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://www.procuritas.com/people#joinus"
+ats = "unsupported"
+feed = ""
+notes = "no ATS; email applications"
+
+[[company]]
+name = "Northzone"
+segment = "PE"
+cities = ["Stockholm", "London", "Oslo"]
+careers_url = "https://northzone.com/"
+ats = "unsupported"
+feed = ""
+notes = "VC; no ATS found"
+
+[[company]]
+name = "Creandum"
+segment = "PE"
+cities = ["Stockholm", "London"]
+careers_url = "https://creandum.com/"
+ats = "recruitee"
+feed = "https://creandum.recruitee.com/api/offers/"
+notes = "VC; Recruitee board creandum.recruitee.com (own roles); careers.creandum.com is a portfolio job board"
+
+[[company]]
+name = "Kinnevik"
+segment = "PE"
+cities = ["Stockholm", "London"]
+careers_url = "https://www.kinnevik.com/working-at-kinnevik/career/"
+ats = "unsupported"
+feed = ""
+notes = "no ATS found on careers page"
+
+[[company]]
+name = "Investor AB"
+segment = "PE"
+cities = ["Stockholm", "London"]
+careers_url = "https://career.investorab.com"
+ats = "teamtailor"
+feed = "https://career.investorab.com/jobs.rss"
+notes = ""
+
+[[company]]
+name = "Patricia Industries"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://www.patriciaindustries.com/"
+ats = "unsupported"
+feed = ""
+notes = "part of Investor AB; roles may appear on Investor AB Teamtailor board (not verified)"
+
+[[company]]
+name = "Industrivarden"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://www.industrivarden.se/"
+ats = "unsupported"
+feed = ""
+notes = "no ATS found"
+
+[[company]]
+name = "Investment AB Latour"
+segment = "PE"
+cities = ["Gothenburg", "Stockholm"]
+careers_url = "https://karriar.latour.se"
+ats = "teamtailor"
+feed = "https://karriar.latour.se/jobs.rss"
+notes = "Gothenburg HQ; board includes Latour group companies"
+
+[[company]]
+name = "Ratos"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://www.ratos.com/"
+ats = "unsupported"
+feed = ""
+notes = "no ATS found"
+
+[[company]]
+name = "Bure Equity"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://www.bure.se/"
+ats = "unsupported"
+feed = ""
+notes = "no ATS found"
+
+[[company]]
+name = "L E Lundbergforetagen"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://www.lundbergforetagen.se/"
+ats = "unsupported"
+feed = ""
+notes = "no ATS found"
+
+[[company]]
+name = "Axel Johnson"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://axeljohnson.teamtailor.com"
+ats = "teamtailor"
+feed = "https://axeljohnson.teamtailor.com/jobs.rss"
+notes = "valid but currently empty; axeljohnson.com unreachable from curl"
+
+[[company]]
+name = "Nordstjernan"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://nordstjernan.se/team-career/"
+ats = "unsupported"
+feed = ""
+notes = "no ATS; email recruiting@nordstjernan.se"
+
+[[company]]
+name = "Vargas Holding"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://vargas.se/"
+ats = "unsupported"
+feed = ""
+notes = "no ATS found; see Stegra for portfolio"
+
+[[company]]
+name = "Volati"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://jobb.volati.se"
+ats = "teamtailor"
+feed = "https://jobb.volati.se/jobs.rss"
+notes = "serial acquirer"
+
+[[company]]
+name = "Indutrade"
+segment = "PE"
+cities = ["Stockholm"]
+careers_url = "https://career.indutrade.com"
+ats = "teamtailor"
+feed = "https://career.indutrade.com/jobs.rss"
+notes = "serial acquirer"
+
+[[company]]
+name = "Blackstone"
+segment = "PE"
+cities = ["London", "Frankfurt"]
+careers_url = "https://www.blackstone.com/careers/"
+ats = "workday"
+feed = "https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Careers/jobs"
+notes = "global board, filter by location"
+
+[[company]]
+name = "Blackstone Campus"
+segment = "PE"
+cities = ["London", "Frankfurt"]
+careers_url = "https://www.blackstone.com/careers/"
+ats = "workday"
+feed = "https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs"
+notes = "campus/intern board, global, filter by location"
+
+[[company]]
+name = "Carlyle"
+segment = "PE"
+cities = ["London", "Frankfurt", "Stockholm"]
+careers_url = "https://www.carlyle.com/careers"
+ats = "workday"
+feed = "https://carlyle.wd1.myworkdayjobs.com/wday/cxs/carlyle/Carlyle/jobs"
+notes = "global board, filter by location"
+
+[[company]]
+name = "Ardian"
+segment = "PE"
+cities = ["London", "Frankfurt", "Zurich"]
+careers_url = "https://www.ardian.com/join-us"
+ats = "workday"
+feed = "https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/jobs"
+notes = "global board, filter by location"
+
+[[company]]
+name = "KKR"
+segment = "PE"
+cities = ["London", "Frankfurt", "Stockholm"]
+careers_url = "https://www.kkr.com/careers"
+ats = "unsupported"
+feed = ""
+notes = "Workday tenant kkr.wd5 exists but site name not found"
+
+[[company]]
+name = "Volvo Group"
+segment = "Industry"
+cities = ["Gothenburg", "Stockholm"]
+careers_url = "https://jobs.volvogroup.com/"
+ats = "unsupported"
+feed = ""
+notes = "SuccessFactors"
+
+[[company]]
+name = "Volvo Cars"
+segment = "Industry"
+cities = ["Gothenburg", "Stockholm"]
+careers_url = "https://jobs.volvocars.com/"
+ats = "unsupported"
+feed = ""
+notes = "SuccessFactors"
+
+[[company]]
+name = "Polestar"
+segment = "Industry"
+cities = ["Gothenburg", "London", "Frankfurt"]
+careers_url = "https://polestar.teamtailor.com"
+ats = "teamtailor"
+feed = "https://polestar.teamtailor.com/jobs.rss"
+notes = ""
+
+[[company]]
+name = "SKF"
+segment = "Industry"
+cities = ["Gothenburg"]
+careers_url = "https://www.skf.com/group/careers/job-search"
+ats = "unsupported"
+feed = ""
+notes = "ATS not identified (JS search)"
+
+[[company]]
+name = "Stena"
+segment = "Industry"
+cities = ["Gothenburg"]
+careers_url = "https://career.stena.com"
+ats = "teamtailor"
+feed = "https://career.stena.com/jobs.rss"
+notes = "Stena AB; few roles (Stena Line etc. may have separate boards)"
+
+[[company]]
+name = "Zenseact"
+segment = "Tech"
+cities = ["Gothenburg"]
+careers_url = "https://career.zenseact.com"
+ats = "teamtailor"
+feed = "https://career.zenseact.com/jobs.rss"
+notes = ""
+
+[[company]]
+name = "Scania"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://www.scania.com/group/en/home/career.html"
+ats = "unsupported"
+feed = ""
+notes = "ATS not identified"
+
+[[company]]
+name = "Ericsson"
+segment = "Tech"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://jobs.ericsson.com/careers"
+ats = "unsupported"
+feed = ""
+notes = "Eightfold front end over SuccessFactors"
+
+[[company]]
+name = "ABB"
+segment = "Industry"
+cities = ["Stockholm", "Zurich", "Frankfurt", "Helsinki", "Oslo"]
+careers_url = "https://careers.abb/global/en"
+ats = "workday"
+feed = "https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+notes = "global board (Phenom front end), filter by location"
+
+[[company]]
+name = "Atlas Copco"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://www.jobs.atlascopcogroup.com/"
+ats = "unsupported"
+feed = ""
+notes = "SuccessFactors"
+
+[[company]]
+name = "Epiroc"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://www.epirocgroup.com/en/careers"
+ats = "unsupported"
+feed = ""
+notes = "site returns 403 to curl; ATS not identified"
+
+[[company]]
+name = "Sandvik"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://www.home.sandvik/en/careers/"
+ats = "workday"
+feed = "https://sandvik.wd3.myworkdayjobs.com/wday/cxs/sandvik/sandvik-jobs/jobs"
+notes = "global board, filter by location"
+
+[[company]]
+name = "Alfa Laval"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://career.alfalaval.com/"
+ats = "unsupported"
+feed = ""
+notes = "Clinch career site; backend ATS not exposed"
+
+[[company]]
+name = "Essity"
+segment = "Industry"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://www.essity.com/careers/job-opportunities/"
+ats = "workday"
+feed = "https://essity.wd3.myworkdayjobs.com/wday/cxs/essity/Job_opportunities/jobs"
+notes = "global board, filter by location; Molndal site near Gothenburg"
+
+[[company]]
+name = "SCA"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://jobs.sca.com/"
+ats = "unsupported"
+feed = ""
+notes = "SuccessFactors"
+
+[[company]]
+name = "Assa Abloy"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://www.assaabloy.com/"
+ats = "unsupported"
+feed = ""
+notes = "ATS not identified"
+
+[[company]]
+name = "Electrolux"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://career.electroluxgroup.com/"
+ats = "unsupported"
+feed = ""
+notes = "Workday tenant electrolux.wd3 exists but site name not found; career site unreachable from curl"
+
+[[company]]
+name = "Husqvarna Group"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://www.husqvarnagroup.com/en/careers"
+ats = "workday"
+feed = "https://husqvarnagroup.wd3.myworkdayjobs.com/wday/cxs/husqvarnagroup/External_Career_Site/jobs"
+notes = "global board, filter by location"
+
+[[company]]
+name = "Saab"
+segment = "Industry"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://www.saab.com/career/job-opportunities"
+ats = "unsupported"
+feed = ""
+notes = "custom listing in saab.com HTML"
+
+[[company]]
+name = "Hexagon"
+segment = "Tech"
+cities = ["Stockholm"]
+careers_url = "https://hexagon.com/company/careers"
+ats = "unsupported"
+feed = ""
+notes = "site returns 403 to curl; ATS not identified"
+
+[[company]]
+name = "Vattenfall"
+segment = "Industry"
+cities = ["Stockholm", "Gothenburg", "Amsterdam", "Frankfurt"]
+careers_url = "https://careers.vattenfall.com/"
+ats = "smartrecruiters"
+feed = "https://api.smartrecruiters.com/v1/companies/vattenfall/postings"
+notes = "global board, filter by location"
+
+[[company]]
+name = "H&M Group"
+segment = "Industry"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Oslo", "Copenhagen", "Helsinki", "Zurich"]
+careers_url = "https://career.hm.com/"
+ats = "smartrecruiters"
+feed = "https://api.smartrecruiters.com/v1/companies/HMGroup/postings"
+notes = "global board (2000+), filter by location and level"
+
+[[company]]
+name = "IKEA (Ingka)"
+segment = "Industry"
+cities = ["Stockholm", "Amsterdam", "London", "Copenhagen"]
+careers_url = "https://jobs.ikea.com/"
+ats = "unsupported"
+feed = ""
+notes = "custom career site"
+
+[[company]]
+name = "Spotify"
+segment = "Tech"
+cities = ["Stockholm", "London"]
+careers_url = "https://www.lifeatspotify.com/jobs"
+ats = "lever"
+feed = "https://api.lever.co/v0/postings/spotify?mode=json"
+notes = "global board, filter by location"
+
+[[company]]
+name = "Klarna"
+segment = "Tech"
+cities = ["Stockholm", "London", "Amsterdam", "Frankfurt"]
+careers_url = "https://www.klarna.com/careers/"
+ats = "unsupported"
+feed = ""
+notes = "Deel job board (jobs.deel.com/job-boards/klarna)"
+
+[[company]]
+name = "Einride"
+segment = "Tech"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://careers.einride.tech/"
+ats = "unsupported"
+feed = ""
+notes = "Jobylon"
+
+[[company]]
+name = "Northvolt"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://northvolt.com/career/"
+ats = "unsupported"
+feed = ""
+notes = "bankrupt 2025; no ATS found on remaining site"
+
+[[company]]
+name = "Stegra"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://career.stegra.com"
+ats = "teamtailor"
+feed = "https://career.stegra.com/jobs.rss"
+notes = "formerly H2 Green Steel (Vargas portfolio)"
+
+[[company]]
+name = "Autoliv"
+segment = "Industry"
+cities = ["Stockholm"]
+careers_url = "https://career.autoliv.com"
+ats = "teamtailor"
+feed = "https://career.autoliv.com/jobs.rss"
+notes = "global board, filter by location"
+
+[[company]]
+name = "Aurobay"
+segment = "Industry"
+cities = ["Gothenburg"]
+careers_url = "https://aurobay.teamtailor.com"
+ats = "teamtailor"
+feed = "https://aurobay.teamtailor.com/jobs.rss"
+notes = "Gothenburg powertrain (Volvo Cars/Geely); valid but currently empty"
+
+[[company]]
+name = "Molnlycke Health Care"
+segment = "Industry"
+cities = ["Gothenburg"]
+careers_url = "https://www.molnlycke.com/corporate/careers/"
+ats = "unsupported"
+feed = ""
+notes = "ATS not identified"
+
+[[company]]
+name = "Nokia"
+segment = "Tech"
+cities = ["Helsinki", "Stockholm"]
+careers_url = "https://jobs.nokia.com/"
+ats = "unsupported"
+feed = ""
+notes = "Oracle HCM"
+
+[[company]]
+name = "Novo Nordisk"
+segment = "Industry"
+cities = ["Copenhagen"]
+careers_url = "https://www.novonordisk.com/careers/find-a-job.html"
+ats = "unsupported"
+feed = ""
+notes = "SuccessFactors"
+
+[[company]]
+name = "Maersk"
+segment = "Industry"
+cities = ["Copenhagen", "Gothenburg", "London", "Amsterdam"]
+careers_url = "https://www.maersk.com/careers"
+ats = "workday"
+feed = "https://maersk.wd3.myworkdayjobs.com/wday/cxs/maersk/Maersk_Careers/jobs"
+notes = "global board, filter by location"
+
+[[company]]
+name = "Equinor"
+segment = "Industry"
+cities = ["Oslo", "London", "Stockholm"]
+careers_url = "https://www.equinor.com/careers"
+ats = "workday"
+feed = "https://equinor.wd3.myworkdayjobs.com/wday/cxs/equinor/EQNR/jobs"
+notes = "global board, filter by location"
+
+[[company]]
+name = "AstraZeneca"
+segment = "Industry"
+cities = ["Gothenburg", "Stockholm", "London"]
+careers_url = "https://careers.astrazeneca.com/"
+ats = "workday"
+feed = "https://astrazeneca.wd3.myworkdayjobs.com/wday/cxs/astrazeneca/Careers/jobs"
+notes = "global board (Eightfold front end), filter by location; big Molndal/Gothenburg site"
+
+[[company]]
+name = "Unilever"
+segment = "Industry"
+cities = ["London", "Amsterdam", "Stockholm", "Frankfurt", "Zurich"]
+careers_url = "https://careers.unilever.com/"
+ats = "workday"
+feed = "https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs"
+notes = "global board, filter by location; graduate (UFLP) roles may sit on a separate site"
+
+[[company]]
+name = "Procter & Gamble"
+segment = "Industry"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich"]
+careers_url = "https://www.pgcareers.com/"
+ats = "workday"
+feed = "https://pg.wd5.myworkdayjobs.com/wday/cxs/pg/1000/jobs"
+notes = "global board (Phenom front end), filter by location"
+
+[[company]]
+name = "Voi"
+segment = "Tech"
+cities = ["Stockholm"]
+careers_url = "https://careers.voi.com"
+ats = "teamtailor"
+feed = "https://careers.voi.com/jobs.rss"
+notes = ""
+
+[[company]]
+name = "Kry"
+segment = "Tech"
+cities = ["Stockholm"]
+careers_url = "https://career.kry.se"
+ats = "teamtailor"
+feed = "https://career.kry.se/jobs.rss"
+notes = ""
+
+[[company]]
+name = "Trustly"
+segment = "Tech"
+cities = ["Stockholm"]
+careers_url = "https://jobs.ashbyhq.com/trustly"
+ats = "ashby"
+feed = "https://api.ashbyhq.com/posting-api/job-board/trustly"
+notes = ""

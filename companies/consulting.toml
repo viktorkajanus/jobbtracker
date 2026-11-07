@@ -1,0 +1,394 @@
+# Consulting & Audit segment. All non-empty feeds verified with curl on 2026-11-07.
+
+# ---------- Global strategy / management consulting ----------
+
+[[company]]
+name = "McKinsey & Company"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://www.mckinsey.com/careers/search-jobs"
+ats = "unsupported"
+feed = ""
+notes = "custom in-house job search; site timed out/blocked for curl"
+
+[[company]]
+name = "Boston Consulting Group (BCG)"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://careers.bcg.com/global/en/"
+ats = "unsupported"
+feed = ""
+notes = "Phenom People career site; no public Workday/GH board found"
+
+[[company]]
+name = "Bain & Company"
+segment = "Consulting"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://www.bain.com/careers/find-a-role/"
+ats = "unsupported"
+feed = ""
+notes = "custom job search; Bain-QVARTZ merged into Bain (no separate board)"
+
+[[company]]
+name = "Kearney"
+segment = "Consulting"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://kearney.recsolu.com/job_boards/1"
+ats = "unsupported"
+feed = ""
+notes = "Yello (recsolu) job board"
+
+[[company]]
+name = "Oliver Wyman"
+segment = "Consulting"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://careers.marsh.com/global/en/oliver-wyman-search"
+ats = "workday"
+feed = "https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc/MMC/jobs"
+notes = "Marsh McLennan global Workday board (~2000 jobs); filter titles starting 'Oliver Wyman' (searchText 'Oliver Wyman' gives ~384) + location. Lever 'oliverwyman' board exists but only 2 US jobs"
+
+[[company]]
+name = "Roland Berger"
+segment = "Consulting"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://www.rolandberger.com/en/Join/Join-Us/Overview/"
+ats = "smartrecruiters"
+feed = "https://api.smartrecruiters.com/v1/companies/rolandberger/postings"
+notes = "global board (~205 jobs, many Munich/Amsterdam), filter by location"
+
+[[company]]
+name = "Arthur D. Little"
+segment = "Consulting"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Helsinki"]
+careers_url = "https://www.adlittle.com/en/careers"
+ats = "unsupported"
+feed = ""
+notes = "site returns 403 to curl; ATS not identified"
+
+[[company]]
+name = "Strategy& (PwC)"
+segment = "Consulting"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://www.strategyand.pwc.com/gx/en/careers.html"
+ats = "workday"
+feed = "https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/Global_Campus_Careers/jobs"
+notes = "PwC global Workday (campus board; experienced = Global_Experienced_Careers). Filter 'Strategy&' + location. Swedish PwC/Strategy& roles NOT present in this board"
+
+[[company]]
+name = "Accenture (incl. Accenture Strategy, Northstream)"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://www.accenture.com/se-en/careers"
+ats = "workday"
+feed = "https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs"
+notes = "global board (2000+), filter by location (searchText 'Stockholm' gives ~39). Northstream acquired by Accenture: northstream.se redirects to accenture.com"
+
+[[company]]
+name = "Simon-Kucher"
+segment = "Consulting"
+cities = ["Stockholm", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen"]
+careers_url = "https://www.simon-kucher.com/en/careers"
+ats = "unsupported"
+feed = ""
+notes = "Cornerstone OnDemand (simon-kucher.csod.com)"
+
+[[company]]
+name = "Implement Consulting Group"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg", "Copenhagen", "Oslo", "Zurich", "Frankfurt"]
+careers_url = "https://implementconsultinggroup.com/"
+ats = "smartrecruiters"
+feed = "https://api.smartrecruiters.com/v1/companies/implementconsultinggroup/postings"
+notes = "global board (~64), filter by location (has Stockholm/Göteborg). An older Teamtailor board (implementconsultinggroup.teamtailor.com) also exists with 12 legacy items"
+
+[[company]]
+name = "PA Consulting"
+segment = "Consulting"
+cities = ["Stockholm", "London", "Copenhagen", "Oslo", "Amsterdam"]
+careers_url = "https://www.paconsulting.com/careers"
+ats = "smartrecruiters"
+feed = "https://api.smartrecruiters.com/v1/companies/paconsulting/postings"
+notes = "global board (~191, mostly UK), filter by location"
+
+[[company]]
+name = "Alvarez & Marsal"
+segment = "Consulting"
+cities = ["London", "Frankfurt", "Amsterdam", "Zurich", "Stockholm"]
+careers_url = "https://www.alvarezandmarsal.com/careers"
+ats = "unsupported"
+feed = ""
+notes = "site returns 403 to curl; ATS not identified"
+
+[[company]]
+name = "FTI Consulting"
+segment = "Consulting"
+cities = ["London", "Frankfurt", "Amsterdam", "Copenhagen"]
+careers_url = "https://www.fticonsulting.com/careers"
+ats = "unsupported"
+feed = ""
+notes = "custom careers site; ATS not identified"
+
+[[company]]
+name = "Capgemini Invent"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg", "London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://www.capgemini.com/se-en/careers/join-capgemini/job-search/"
+ats = "unsupported"
+feed = ""
+notes = "custom job search backed by private API (cg-jobstream-api.azurewebsites.net)"
+
+[[company]]
+name = "BearingPoint"
+segment = "Consulting"
+cities = ["Stockholm", "Oslo", "Copenhagen", "Helsinki", "Frankfurt", "Amsterdam", "Zurich", "London"]
+careers_url = "https://nordiccareers.bearingpoint.com/"
+ats = "teamtailor"
+feed = "https://nordiccareers.bearingpoint.com/jobs.rss"
+notes = "Nordic Teamtailor board (titled 'BearingPoint Norway'); currently all items Oslo"
+
+[[company]]
+name = "Ramboll Management Consulting"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg", "Copenhagen", "Oslo", "Helsinki", "Frankfurt", "London"]
+careers_url = "https://www.ramboll.com/careers"
+ats = "smartrecruiters"
+feed = "https://api.smartrecruiters.com/v1/companies/Ramboll3/postings"
+notes = "global Ramboll group board (~1040, mostly engineering), filter by location + 'management consulting'"
+
+[[company]]
+name = "Sopra Steria (Business Consulting)"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg", "Oslo", "Copenhagen", "Frankfurt", "London"]
+careers_url = "https://careers.soprasteria.se/"
+ats = "unsupported"
+feed = ""
+notes = "Attrax/Sfxway career site"
+
+[[company]]
+name = "Knowit (incl. Knowit Insight/Experience)"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://careersweden.knowit.se/"
+ats = "teamtailor"
+feed = "https://careersweden.knowit.se/jobs.rss"
+notes = "Knowit Sweden board (~100 items, mostly IT); filter for management/insight roles"
+
+[[company]]
+name = "Valcon"
+segment = "Consulting"
+cities = ["Stockholm", "Copenhagen", "Oslo", "London", "Frankfurt"]
+careers_url = "https://valcon.com/careers/"
+ats = "unsupported"
+feed = ""
+notes = "jobs listed directly on WordPress site; ops/supply chain consulting"
+
+[[company]]
+name = "AFRY Management Consulting"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg", "Oslo", "Helsinki", "Zurich", "Frankfurt", "London"]
+careers_url = "https://afry.com/en/careers/available-jobs"
+ats = "unsupported"
+feed = ""
+notes = "Yello-based job listing"
+
+# ---------- Nordic / Stockholm / Gothenburg boutiques ----------
+
+[[company]]
+name = "Fortos"
+segment = "Consulting"
+cities = ["Stockholm"]
+careers_url = "https://www.fortos.se/open-positions"
+ats = "unsupported"
+feed = ""
+notes = "Squarespace site, applications via career@fortos.se; career.fortos.se does not resolve (no Teamtailor feed found)"
+
+[[company]]
+name = "Opticos"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://career.opticos.se/"
+ats = "teamtailor"
+feed = "https://career.opticos.se/jobs.rss"
+notes = ""
+
+[[company]]
+name = "Centigo"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://karriar.centigo.se/"
+ats = "teamtailor"
+feed = "https://karriar.centigo.se/jobs.rss"
+notes = "has talent/graduate program"
+
+[[company]]
+name = "Optilon"
+segment = "Consulting"
+cities = ["Stockholm"]
+careers_url = "https://careers.optilon.com/"
+ats = "teamtailor"
+feed = "https://careers.optilon.com/jobs.rss"
+notes = "supply chain planning consultancy"
+
+[[company]]
+name = "Influence AB"
+segment = "Consulting"
+cities = ["Stockholm"]
+careers_url = "https://influence.teamtailor.com/"
+ats = "teamtailor"
+feed = "https://influence.teamtailor.com/jobs.rss"
+notes = "management consultancy (verksamhetsutveckling)"
+
+[[company]]
+name = "Arkwright Consulting"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg", "Oslo", "Copenhagen"]
+careers_url = "https://www.arkwright.com/careers"
+ats = "unsupported"
+feed = ""
+notes = "Jobylon embedded widget"
+
+[[company]]
+name = "Applied Value Group"
+segment = "Consulting"
+cities = ["Stockholm"]
+careers_url = "https://appliedvalue.recruitee.com/"
+ats = "recruitee"
+feed = "https://appliedvalue.recruitee.com/api/offers/"
+notes = "Recruitee (has public API https://appliedvalue.recruitee.com/api/offers/ if support is added; not verified)"
+
+[[company]]
+name = "Effso"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://www.effso.se/jobba-hos-oss/"
+ats = "unsupported"
+feed = ""
+notes = "procurement/supply chain consultancy; jobs on WordPress site (incl. Effso Grow program)"
+
+[[company]]
+name = "Isaberg Rapp & Co"
+segment = "Consulting"
+cities = ["Stockholm"]
+careers_url = "https://www.isabergrapp.se/"
+ats = "unsupported"
+feed = ""
+notes = "isabergrapp.se / .com did not resolve from curl; could not verify"
+
+[[company]]
+name = "Kairos Future"
+segment = "Consulting"
+cities = ["Stockholm"]
+careers_url = "https://www.kairosfuture.com/se/om-oss/lediga-jobb/"
+ats = "unsupported"
+feed = ""
+notes = "jobs listed on own site"
+
+[[company]]
+name = "Nepa"
+segment = "Consulting"
+cities = ["Stockholm"]
+careers_url = "https://nepa.com/"
+ats = "unsupported"
+feed = ""
+notes = "site returns 403 to curl; ATS not identified"
+
+[[company]]
+name = "Novare"
+segment = "Consulting"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://novare.se/jobba-hos-oss/"
+ats = "unsupported"
+feed = ""
+notes = "own WordPress site; lediga-jobb page mostly client interim/executive-search roles"
+
+# ---------- Audit / advisory (Sweden) ----------
+
+[[company]]
+name = "PwC Sweden"
+segment = "Audit"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://www.pwc.se/sv/karriar.html"
+ats = "unsupported"
+feed = ""
+notes = "pwc.se returns 403 to curl; Swedish roles not found in PwC global Workday boards"
+
+[[company]]
+name = "EY Sweden (incl. EY-Parthenon)"
+segment = "Audit"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://www.ey.com/sv_se/careers/job-search"
+ats = "unsupported"
+feed = ""
+notes = "careers.ey.com (SuccessFactors) + Yello student board"
+
+[[company]]
+name = "KPMG Sweden"
+segment = "Audit"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://kpmg.com/se/en/career/job-openings.html"
+ats = "unsupported"
+feed = ""
+notes = "Jobylon embedded widget"
+
+[[company]]
+name = "Deloitte Sweden"
+segment = "Audit"
+cities = ["Stockholm", "Gothenburg", "Oslo", "Copenhagen", "Helsinki"]
+careers_url = "https://www.deloitte.com/se/sv/careers/content/search-jobs.html"
+ats = "smartrecruiters"
+feed = "https://api.smartrecruiters.com/v1/companies/DeloitteNordic/postings"
+notes = "Nordic board (~134: SE/DK/NO/FI), filter by location"
+
+[[company]]
+name = "Grant Thornton Sweden"
+segment = "Audit"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://karriar.grantthornton.se/jobs"
+ats = "teamtailor"
+feed = "https://karriar.grantthornton.se/jobs.rss"
+notes = ""
+
+[[company]]
+name = "BDO Sweden"
+segment = "Audit"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://www.bdo.se/sv-se/karriar/lediga-tjanster"
+ats = "unsupported"
+feed = ""
+notes = "Onecruiter; note bdo.teamtailor.com is BDO Norway, not Sweden"
+
+[[company]]
+name = "Forvis Mazars Sweden"
+segment = "Audit"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://careers-se.forvismazars.com/ledigatjanster/"
+ats = "unsupported"
+feed = ""
+notes = "Varbi; other Forvis Mazars feeds (GH forvismazars = Germany, SR mazars = France, TT forvismazars = Portugal) are not Sweden"
+
+[[company]]
+name = "Baker Tilly Sweden"
+segment = "Audit"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://www.bakertilly.se/karriar"
+ats = "unsupported"
+feed = ""
+notes = "links to bakertilly.teamtailor.com but that site and its jobs.rss return 404"
+
+[[company]]
+name = "RSM Sweden"
+segment = "Audit"
+cities = ["Stockholm", "Gothenburg"]
+careers_url = "https://rsm.careers.haileyhr.app"
+ats = "unsupported"
+feed = ""
+notes = "HaileyHR"
+
+[[company]]
+name = "Moore KLN"
+segment = "Audit"
+cities = ["Stockholm"]
+careers_url = ""
+ats = "unsupported"
+feed = ""
+notes = "could not find a resolving domain (moorekln.se, moore-kln.se, moore.se checked)"
