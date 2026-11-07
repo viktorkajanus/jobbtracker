@@ -4,7 +4,6 @@ const CITIES = ["Stockholm", "Gothenburg", "Malmö"];
 const ABROAD = ["London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"];
 const TYPES = ["Internship", "Graduate", "Thesis", "Junior"];
 const AREAS = ["IB", "PE", "M&A", "Consulting", "Audit", "Supply chain", "Strategy", "Analytics", "Finance", "General"];
-const STATUSES = ["", "Interested", "Applied", "Hidden"];
 const NEW_DAYS = 3;
 const SOON_DAYS = 7;
 
@@ -156,7 +155,6 @@ function row(job) {
   const isNew = job.first_seen && daysBetween(job.first_seen, today) < NEW_DAYS;
   const soon = job.deadline && daysBetween(today, job.deadline) <= SOON_DAYS;
   const status = statusOf(job);
-  const options = STATUSES.map((s) => `<option value="${s}" ${s === status ? "selected" : ""}>${s || "-"}</option>`).join("");
   const sameLink = job.apply_url === job.ad_url;
   return `<tr class="status-${esc(status) || "none"}" data-id="${esc(job.id)}">
     <td class="company" data-label="Company">${esc(job.company)}${isNew ? '<span class="badge new">New</span>' : ""}</td>
@@ -171,7 +169,12 @@ function row(job) {
       <a href="${esc(job.apply_url)}" target="_blank" rel="noopener">Apply</a>${sameLink ? "" :
       `<a href="${esc(job.ad_url)}" target="_blank" rel="noopener">Original ad</a>`}
     </td>
-    <td data-label="Status"><select aria-label="Status for ${esc(job.title)}">${options}</select></td>
+    <td data-label="Status">
+      <button type="button" class="dd-trigger dd-compact status-${esc(status) || "none"}" data-status-trigger
+        aria-haspopup="listbox" aria-expanded="false" aria-label="Status for ${esc(job.title)}: ${esc(status || "not marked")}">
+        <span class="dd-value">${esc(status || "Set status")}</span>${CHEVRON}
+      </button>
+    </td>
   </tr>`;
 }
 
@@ -300,6 +303,85 @@ function dropdown(root, { searchable = false, searchPlaceholder = "Search...", o
   return api;
 }
 
+// One shared menu for the status button on every row.
+const ROW_STATUSES = [
+  { value: "", label: "Not marked" },
+  { value: "Interested", label: "Interested" },
+  { value: "Applied", label: "Applied" },
+  { value: "Hidden", label: "Hidden" },
+];
+
+const statusMenu = (() => {
+  const menu = document.createElement("div");
+  menu.className = "dd-menu row-menu";
+  menu.hidden = true;
+  menu.innerHTML = `<ul class="dd-list" role="listbox" aria-label="Status"></ul>`;
+  const list = menu.querySelector("ul");
+  let trigger = null;
+  let job = null;
+  let active = 0;
+
+  function paint() {
+    const current = statusOf(job);
+    list.innerHTML = ROW_STATUSES.map((o, i) => `<li role="option" data-value="${o.value}"
+      aria-selected="${o.value === current}" class="${i === active ? "is-active" : ""}">
+      <span class="status-dot status-${o.value || "none"}"></span><span class="grow">${o.label}</span>${o.value === current ? CHECK : ""}</li>`).join("");
+  }
+
+  function place() {
+    const r = trigger.getBoundingClientRect();
+    const below = window.innerHeight - r.bottom > 200;
+    menu.style.left = `${Math.min(r.left, window.innerWidth - menu.offsetWidth - 8)}px`;
+    menu.style.top = below ? `${r.bottom + 6}px` : `${r.top - menu.offsetHeight - 6}px`;
+  }
+
+  function open(t, j) {
+    trigger = t;
+    job = j;
+    active = Math.max(ROW_STATUSES.findIndex((o) => o.value === statusOf(j)), 0);
+    paint();
+    menu.hidden = false;
+    trigger.setAttribute("aria-expanded", "true");
+    place();
+  }
+
+  function close(refocus = false) {
+    if (menu.hidden) return;
+    menu.hidden = true;
+    trigger.setAttribute("aria-expanded", "false");
+    if (refocus) trigger.focus();
+  }
+
+  function choose(value) {
+    const id = job.id;
+    close();
+    setStatus(job, value);
+    render();
+    // render() replaced the row, so return focus to the new button.
+    document.querySelector(`tr[data-id="${CSS.escape(id)}"] [data-status-trigger]`)?.focus();
+  }
+
+  list.addEventListener("click", (e) => {
+    const li = e.target.closest("li[data-value]");
+    if (li) choose(li.dataset.value);
+  });
+  document.addEventListener("click", (e) => {
+    if (!menu.contains(e.target) && !e.target.closest("[data-status-trigger]")) close();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (menu.hidden) return;
+    if (e.key === "ArrowDown") { e.preventDefault(); active = Math.min(active + 1, ROW_STATUSES.length - 1); paint(); }
+    else if (e.key === "ArrowUp") { e.preventDefault(); active = Math.max(active - 1, 0); paint(); }
+    else if (e.key === "Enter") { e.preventDefault(); choose(ROW_STATUSES[active].value); }
+    else if (e.key === "Escape" || e.key === "Tab") close(e.key === "Escape");
+  });
+  window.addEventListener("scroll", () => close(), { passive: true });
+  window.addEventListener("resize", () => close());
+  document.body.appendChild(menu);
+
+  return { toggle: (t, j) => (!menu.hidden && trigger === t ? close() : open(t, j)) };
+})();
+
 // --- Events -----------------------------------------------------------------
 
 function toggle(list, value) {
@@ -340,12 +422,11 @@ function bind() {
     state.filters.sort = { key, dir: s.key === key ? -s.dir : 1 };
     render();
   });
-  $("#jobs tbody").addEventListener("change", (e) => {
-    if (e.target.tagName !== "SELECT") return;
-    const id = e.target.closest("tr").dataset.id;
-    const job = state.data.jobs.find((j) => j.id === id);
-    setStatus(job, e.target.value);
-    render();
+  $("#jobs tbody").addEventListener("click", (e) => {
+    const trigger = e.target.closest("[data-status-trigger]");
+    if (!trigger) return;
+    const job = state.data.jobs.find((j) => j.id === trigger.closest("tr").dataset.id);
+    statusMenu.toggle(trigger, job);
   });
 }
 

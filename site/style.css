@@ -286,3 +286,25 @@ body { overflow-x: hidden; }
   }
   td.company { white-space: normal; }
 }
+
+/* Status button on each row */
+.dd-trigger.dd-compact {
+  height: 34px;
+  min-width: 132px;
+  padding: 0 8px 0 12px;
+  font-size: 14px;
+  border-radius: 6px;
+}
+.dd-compact.status-none .dd-value { color: var(--muted); }
+.dd-compact.status-Interested { background: var(--accent-soft); border-color: #d9b8d9; color: var(--accent-strong); }
+.dd-compact.status-Applied { background: #e8f4ec; border-color: #b9dcc4; color: #24683c; }
+.dd-compact.status-Hidden { background: #f0f0f0; border-color: #dcdcdc; color: #6b6b6b; }
+.dd-compact[aria-expanded="true"] { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+
+.row-menu { position: fixed; top: 0; left: 0; min-width: 180px; width: auto; }
+.row-menu .grow { flex: 1; }
+.row-menu li { justify-content: flex-start; gap: 10px; }
+.status-dot { width: 8px; height: 8px; border-radius: 50%; flex: none; background: #cfcfcf; }
+.status-dot.status-Interested { background: var(--accent); }
+.status-dot.status-Applied { background: #2e8b57; }
+.status-dot.status-Hidden { background: #9a9a9a; }
