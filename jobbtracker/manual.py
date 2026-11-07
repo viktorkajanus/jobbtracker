@@ -75,7 +75,7 @@ def add_manual_jobs(raws: list[dict], manual: list[dict], existing: list[dict], 
         if job is None:
             skipped.append((r, reason))
         elif dupes := [other for other in [*existing, *manual, *added] if _is_duplicate(job, other)]:
-            stored = next((d for d in dupes if d in manual), None)
+            stored = next((d for d in dupes if any(d is m for m in manual)), None)
             if stored is not None and job["deadline"] and not stored.get("deadline"):
                 # Saving the page with this ad open gives us its description and deadline.
                 stored["deadline"] = job["deadline"]

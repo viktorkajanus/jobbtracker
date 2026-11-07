@@ -127,3 +127,10 @@ def test_saving_an_ad_again_fills_in_a_missing_deadline():
     assert added == []
     assert skipped[0][1] == "already in table, deadline added"
     assert first[0]["deadline"] == "2026-11-30"
+
+
+def test_deadline_is_added_to_the_stored_job_not_the_table_copy():
+    stored, _ = add_manual_jobs([raw()], manual=[], existing=[], today=TODAY)
+    table = [dict(stored[0])]
+    add_manual_jobs([raw(text="Deadline 30 November 2026")], manual=stored, existing=table, today=TODAY)
+    assert stored[0]["deadline"] == "2026-11-30"

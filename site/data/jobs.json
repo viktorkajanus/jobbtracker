@@ -303,6 +303,25 @@
    "source": "workday"
   },
   {
+   "id": "b5677ba204c0",
+   "company": "Knowit Sweden",
+   "title": "Mentorship Program – Knowit Management Consulting 2027",
+   "type": "Junior",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "2027",
+   "deadline": "2026-11-22",
+   "posted": null,
+   "first_seen": "2026-11-07",
+   "apply_url": "https://se.indeed.com/viewjob?jk=715d72b3d605d359",
+   "ad_url": "https://se.indeed.com/viewjob?jk=715d72b3d605d359",
+   "source": "indeed"
+  },
+  {
    "id": "e83a256d302f",
    "company": "Volvo Business Services Aktiebolag",
    "title": "Volvo Group Graduate Program - Business Dev. & Digitalization Engineer",
@@ -4173,25 +4192,6 @@
    "apply_url": "https://careersweden.knowit.se/jobs/8650413-knowit-thesis-opportunities-2027",
    "ad_url": "https://careersweden.knowit.se/jobs/8650413-knowit-thesis-opportunities-2027",
    "source": "teamtailor"
-  },
-  {
-   "id": "b5677ba204c0",
-   "company": "Knowit Sweden",
-   "title": "Mentorship Program – Knowit Management Consulting 2027",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": null,
-   "first_seen": "2026-11-07",
-   "apply_url": "https://se.indeed.com/viewjob?jk=715d72b3d605d359",
-   "ad_url": "https://se.indeed.com/viewjob?jk=715d72b3d605d359",
-   "source": "indeed"
   },
   {
    "id": "6629d533e450",
