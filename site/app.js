@@ -139,11 +139,12 @@ function renderPeriods() {
     const ya = a.match(/\d{4}/)?.[0] || "", yb = b.match(/\d{4}/)?.[0] || "";
     return ya.localeCompare(yb) || a.localeCompare(b);
   });
-  const sel = $("#period");
-  sel.innerHTML = `<option value="">Any period</option>` +
-    periods.map((p) => `<option>${esc(p)}</option>`).join("") +
-    `<option value="none">Not specified</option>`;
-  sel.value = state.filters.period;
+  periodDropdown.setOptions([
+    { value: "", label: "Any period" },
+    ...periods.map((p) => ({ value: p, label: p })),
+    { value: "none", label: "Not specified" },
+  ]);
+  periodDropdown.setValue(state.filters.period);
 }
 
 function fmtDate(d) {
@@ -185,7 +186,7 @@ function render() {
     th.setAttribute("aria-sort", th.dataset.sort === f.sort.key ? (f.sort.dir > 0 ? "ascending" : "descending") : "none");
   });
   $("#search").value = f.q;
-  $("#status-filter").value = f.status;
+  statusDropdown.setValue(f.status);
   saveFilters();
 }
 
@@ -199,6 +200,104 @@ function renderStatic() {
   $("#foot").innerHTML = `Updated ${esc(generated || "never")} · ${ok} of ${sources.length} sources fetched` +
     (failed.length ? ` · Unavailable this run: ${esc(failed.join(", "))}` : "") +
     ` · Sources: Arbetsförmedlingen JobTech and company career sites.`;
+}
+
+// --- Dropdown ---------------------------------------------------------------
+
+const CHEVRON = '<svg class="dd-chevron" viewBox="0 0 16 16" aria-hidden="true"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+const CHECK = '<svg class="dd-check" viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+function dropdown(root, { searchable = false, searchPlaceholder = "Search...", onChange }) {
+  let options = [];
+  let value = "";
+  let active = 0;
+  const id = root.id;
+  root.innerHTML = `
+    <button type="button" class="dd-trigger" aria-haspopup="listbox" aria-expanded="false"
+      aria-labelledby="${root.dataset.labelledby} ${id}-value">
+      <span class="dd-value" id="${id}-value"></span>${CHEVRON}
+    </button>
+    <div class="dd-menu" hidden>
+      ${searchable ? `<input class="dd-search" type="text" placeholder="${esc(searchPlaceholder)}" aria-label="${esc(searchPlaceholder)}">` : ""}
+      <ul class="dd-list" role="listbox" id="${id}-list"></ul>
+    </div>`;
+  const trigger = root.querySelector(".dd-trigger");
+  const menu = root.querySelector(".dd-menu");
+  const search = root.querySelector(".dd-search");
+  const list = root.querySelector(".dd-list");
+
+  const visible = () => {
+    const q = search ? search.value.trim().toLowerCase() : "";
+    return options.filter((o) => !q || o.label.toLowerCase().includes(q));
+  };
+
+  function paint() {
+    const items = visible();
+    active = Math.min(active, Math.max(items.length - 1, 0));
+    list.innerHTML = items.length
+      ? items.map((o, i) => `<li role="option" data-value="${esc(o.value)}" aria-selected="${o.value === value}"
+          class="${i === active ? "is-active" : ""}"><span>${esc(o.label)}</span>${o.value === value ? CHECK : ""}</li>`).join("")
+      : `<li class="dd-empty">No matches</li>`;
+    list.querySelector(".is-active")?.scrollIntoView({ block: "nearest" });
+  }
+
+  function open() {
+    menu.hidden = false;
+    trigger.setAttribute("aria-expanded", "true");
+    if (search) search.value = "";
+    active = Math.max(visible().findIndex((o) => o.value === value), 0);
+    paint();
+    search?.focus();
+  }
+
+  function close(refocus = false) {
+    menu.hidden = true;
+    trigger.setAttribute("aria-expanded", "false");
+    if (refocus) trigger.focus();
+  }
+
+  function choose(v) {
+    close(true);
+    if (v !== value) {
+      api.setValue(v);
+      onChange(v);
+    }
+  }
+
+  trigger.addEventListener("click", () => (menu.hidden ? open() : close()));
+  list.addEventListener("mousedown", (e) => e.preventDefault()); // keep focus in the search box
+  list.addEventListener("click", (e) => {
+    const li = e.target.closest("li[data-value]");
+    if (li) choose(li.dataset.value);
+  });
+  search?.addEventListener("input", () => { active = 0; paint(); });
+  root.addEventListener("keydown", (e) => {
+    if (menu.hidden) {
+      if (["ArrowDown", "ArrowUp"].includes(e.key)) { e.preventDefault(); open(); }
+      return;
+    }
+    const items = visible();
+    if (e.key === "ArrowDown") { e.preventDefault(); active = Math.min(active + 1, items.length - 1); paint(); }
+    else if (e.key === "ArrowUp") { e.preventDefault(); active = Math.max(active - 1, 0); paint(); }
+    else if (e.key === "Enter") { e.preventDefault(); if (items[active]) choose(items[active].value); }
+    else if (e.key === "Escape") { e.preventDefault(); close(true); }
+    else if (e.key === "Tab") close();
+  });
+  document.addEventListener("click", (e) => { if (!root.contains(e.target)) close(); });
+
+  const api = {
+    setOptions(opts) {
+      options = opts;
+      if (!menu.hidden) paint();
+      api.setValue(value);
+    },
+    setValue(v) {
+      value = v;
+      const o = options.find((x) => x.value === v);
+      root.querySelector(".dd-value").textContent = o ? o.label : "";
+    },
+  };
+  return api;
 }
 
 // --- Events -----------------------------------------------------------------
@@ -228,8 +327,6 @@ function bind() {
       render();
     });
   }
-  $("#period").addEventListener("change", (e) => { state.filters.period = e.target.value; render(); });
-  $("#status-filter").addEventListener("change", (e) => { state.filters.status = e.target.value; render(); });
   $("#search").addEventListener("input", (e) => { state.filters.q = e.target.value.trim(); render(); });
   $("#reset").addEventListener("click", () => {
     state.filters = defaultFilters();
@@ -252,7 +349,27 @@ function bind() {
   });
 }
 
+const STATUS_FILTERS = [
+  { value: "active", label: "All except hidden" },
+  { value: "Interested", label: "Interested" },
+  { value: "Applied", label: "Applied" },
+  { value: "none", label: "Not marked" },
+  { value: "Hidden", label: "Hidden" },
+  { value: "all", label: "Everything" },
+];
+
+let periodDropdown, statusDropdown;
+
 async function init() {
+  periodDropdown = dropdown($("#period"), {
+    searchable: true,
+    searchPlaceholder: "Search periods...",
+    onChange: (v) => { state.filters.period = v; render(); },
+  });
+  statusDropdown = dropdown($("#status-filter"), {
+    onChange: (v) => { state.filters.status = v; render(); },
+  });
+  statusDropdown.setOptions(STATUS_FILTERS);
   bind();
   try {
     const res = await fetch("data/jobs.json", { cache: "no-cache" });

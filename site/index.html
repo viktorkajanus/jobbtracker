@@ -34,21 +34,14 @@
         <div class="chips" id="area-chips"></div>
       </div>
       <div class="filter-row">
-        <label class="field">
-          <span class="label">Period</span>
-          <select id="period"></select>
-        </label>
-        <label class="field">
-          <span class="label">Status</span>
-          <select id="status-filter">
-            <option value="active">All except hidden</option>
-            <option value="Interested">Interested</option>
-            <option value="Applied">Applied</option>
-            <option value="none">Not marked</option>
-            <option value="Hidden">Hidden</option>
-            <option value="all">Everything</option>
-          </select>
-        </label>
+        <div class="field">
+          <span class="label" id="period-label">Period</span>
+          <div class="dropdown" id="period" data-labelledby="period-label"></div>
+        </div>
+        <div class="field">
+          <span class="label" id="status-label">Status</span>
+          <div class="dropdown" id="status-filter" data-labelledby="status-label"></div>
+        </div>
         <label class="field grow">
           <span class="label">Search</span>
           <input id="search" type="search" placeholder="Company or role" autocomplete="off">
