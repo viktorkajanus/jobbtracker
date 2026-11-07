@@ -3,6 +3,8 @@ from datetime import date
 import pytest
 
 from jobbtracker.classify import (
+    SENIOR,
+    strip_senior_alternatives,
     classify_areas,
     classify_type,
     extract_deadline,
@@ -314,3 +316,19 @@ class TestLinkedInImportMisses:
 
     def test_engineering_internship_still_excluded(self):
         assert classify_areas("Digital Engineering Internship", "", segment="Consulting") == []
+
+
+class TestInboxRoundTwo:
+    @pytest.mark.parametrize(
+        "title",
+        [
+            "Financial Analyst / Treasury Specialist, Business & Retail Banking",
+            "Portfolio, Data & Analytics Specialist",
+            "Consultant & Senior Consultant | Strategy Consulting at Monitor Deloitte",
+        ],
+    )
+    def test_not_treated_as_senior(self, title):
+        assert not SENIOR.search(strip_senior_alternatives(title.lower()))
+
+    def test_plain_senior_still_senior(self):
+        assert SENIOR.search(strip_senior_alternatives("senior consultant, strategy"))

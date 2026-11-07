@@ -30,3 +30,12 @@ def test_parse_relative_date():
     assert parse_relative_date("Posted 1 week ago", TODAY) == date(2026, 10, 31)
     assert parse_relative_date("3 days ago", TODAY) == date(2026, 11, 4)
     assert parse_relative_date("Marknadsfört", TODAY) is None
+
+
+def test_card_with_repeated_title():
+    page = ('<div componentkey="job-card-component-ref-4477291471"><p>Graduate &amp; Junior Consulting Professionals</p>'
+            '<p>Graduate &amp; Junior Consulting Professionals</p><p>Accenture Nordics</p><p>Stockholm</p>'
+            '<p>Lade upp för 3 veckor sedan</p></div>')
+    [job] = parse_linkedin(page, TODAY)
+    assert (job["title"], job["company"], job["location"]) == (
+        "Graduate & Junior Consulting Professionals", "Accenture Nordics", "Stockholm")

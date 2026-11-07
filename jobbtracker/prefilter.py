@@ -8,12 +8,13 @@ from .classify import (
     SENIOR,
     THESIS,
     is_off_target,
+    strip_senior_alternatives,
 )
 
 
 def title_is_candidate(title: str) -> bool:
     """Cheap check on the title alone, used before fetching full descriptions."""
     t = title.lower()
-    if SENIOR.search(t) or is_off_target(t):
+    if SENIOR.search(strip_senior_alternatives(t)) or is_off_target(t):
         return False
     return any(p.search(t) for p in (THESIS, INTERNSHIP, GRADUATE, JUNIOR_EXPLICIT, JUNIOR_AMBIGUOUS))

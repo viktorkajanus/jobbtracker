@@ -13,8 +13,14 @@ from datetime import date
 
 SENIOR = re.compile(
     r"\b(senior|sr\.?|manager|director|head of|lead|principal|partner|"
-    r"vice president|vp|chef|experienced|expert|specialist)\b"
+    r"vice president|vp|chef|experienced|expert)\b"
 )
+# "Consultant & Senior Consultant", "Senior/Quantitative Analyst": the ad also covers a junior level.
+SENIOR_ALTERNATIVE = re.compile(r"(?:&|\band\b|/)\s*senior\b|\bsenior\s*/")
+
+
+def strip_senior_alternatives(title: str) -> str:
+    return SENIOR_ALTERNATIVE.sub(" ", title)
 THESIS = re.compile(r"\b(thesis|examensarbete\w*|exjobb\w*|master'?s project)\b")
 INTERNSHIP = re.compile(
     r"\b(intern|interns|internship\w*|summer (analyst|associate|programme|program|job)|"
@@ -56,7 +62,7 @@ def classify_type(title: str, text: str) -> str | None:
         return "Internship"
     if GRADUATE.search(t):
         return "Graduate"
-    if SENIOR.search(t):
+    if SENIOR.search(strip_senior_alternatives(t)):
         return None
     required = _min_years_required(body)
     if required is not None and required >= 3:

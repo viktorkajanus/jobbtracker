@@ -14,6 +14,7 @@ from urllib.parse import urlencode
 
 from .classify import (
     SENIOR,
+    strip_senior_alternatives,
     classify_areas,
     classify_type,
     extract_deadline,
@@ -41,7 +42,7 @@ def _job_from_raw(r: dict, today: date) -> tuple[dict | None, str | None]:
     if job_type is None:
         # Search results show no description, so trust that a plain title was picked on purpose,
         # unless it is senior or the text we do have rules it out.
-        if SENIOR.search(title.lower()) or classify_type(title, "") is not None:
+        if SENIOR.search(strip_senior_alternatives(title.lower())) or classify_type(title, "") is not None:
             return None, "not a student role"
         job_type = "Junior"
     cities = normalize_cities(r.get("location", ""))

@@ -71,6 +71,8 @@ def parse_linkedin(page: str, today: date) -> list[dict]:
         start = page.rfind("<", 0, pos)
         end = page.rfind("<", 0, cards[i + 1][1]) if i + 1 < len(cards) else page_end
         lines = [l for l in _text_lines(page[start:end]) if not VERIFIED.search(l)]
+        # The selected card repeats its title.
+        lines = [l for k, l in enumerate(lines) if k == 0 or l != lines[k - 1]]
         if len(lines) < 3:
             continue
         posted = next((d for l in lines[3:] if (d := parse_relative_date(l, today))), None)
