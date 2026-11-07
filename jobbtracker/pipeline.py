@@ -33,7 +33,8 @@ def build_job(p: Posting, today: date) -> dict | None:
     use_text = p.source == "jobtech" and job_type == "Graduate"
     areas = classify_areas(p.title, p.text, p.segment, use_text=use_text)
     # JobTech covers every employer in Sweden, so without a matching area it is noise.
-    if p.source == "jobtech" and not areas:
+    # Theses and junior roles without a business area are almost always technical.
+    if not areas and (p.source == "jobtech" or job_type in ("Thesis", "Junior")):
         return None
     deadline = p.deadline or extract_deadline(p.text, today)
     if deadline and deadline < today:

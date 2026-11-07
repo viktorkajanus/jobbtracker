@@ -23,7 +23,7 @@ INTERNSHIP = re.compile(
 GRADUATE = re.compile(
     r"\b(graduate (programme|program|intake|scheme)|graduate\b|trainee\w*|traineeprogram\w*)"
 )
-JUNIOR_EXPLICIT = re.compile(r"\b(junior|entry[- ]level|nyexaminerad\w*)\b")
+JUNIOR_EXPLICIT = re.compile(r"\b(junior\w*|entry[- ]level|nyexaminerad\w*)\b")
 JUNIOR_AMBIGUOUS = re.compile(
     r"\b(analyst|associate|consultant|konsult|auditor|revisorsassistent|"
     r"revisor|controller|ekonom|advisor|investment professional)\b"
@@ -49,14 +49,15 @@ def classify_type(title: str, text: str) -> str | None:
     """Return Internship, Graduate, Thesis, Junior, or None for non-student roles."""
     t = title.lower()
     body = text.lower()
-    if SENIOR.search(t):
-        return None
+    # Programme words win over seniority words ("Graduate Program - Exploration Manager").
     if THESIS.search(t):
         return "Thesis"
     if INTERNSHIP.search(t):
         return "Internship"
     if GRADUATE.search(t):
         return "Graduate"
+    if SENIOR.search(t):
+        return None
     required = _min_years_required(body)
     if required is not None and required >= 3:
         return None
@@ -70,13 +71,14 @@ def classify_type(title: str, text: str) -> str | None:
 # --- Area -------------------------------------------------------------------
 
 AREAS: list[tuple[str, re.Pattern]] = [
-    ("IB", re.compile(r"investment bank\w*|\bibd\b|capital markets|\becm\b|\bdcm\b|leveraged finance")),
+    ("IB", re.compile(r"investment bank\w*|\bibd\b|capital markets|\becm\b|\bdcm\b|leveraged finance|"
+                     r"sales,?\s*(and|&)?\s*trading")),
     ("M&A", re.compile(r"\bm&a\b|merger|acquisition|corporate finance|transaction|deal advisory|valuation")),
     ("PE", re.compile(r"private equity|buy-?out|venture capital")),
     ("Consulting", re.compile(r"consult\w*|konsult\w*")),
     ("Audit", re.compile(r"audit\w*|revision|revisor\w*|assurance")),
-    ("Supply chain", re.compile(r"supply chain|procurement|purchas\w*|inköp\w*|upphandl\w*|logisti\w*|sourcing")),
-    ("Strategy", re.compile(r"strateg\w*|business dev\w*|affärsutveckl\w*|verksamhetsutveckl\w*|corporate development")),
+    ("Supply chain", re.compile(r"supply chain|procurement|purchas\w*|\bbuyer|inköp\w*|upphandl\w*|logisti\w*|sourcing")),
+    ("Strategy", re.compile(r"strateg\w*|business dev\w*|affärsutveckl\w*|verksamhetsutveckl\w*|corporate development|transformation")),
     ("Analytics", re.compile(r"analytics|data analy\w*|business intelligence|\bbi\b|business analyst")),
     ("Finance", re.compile(r"financ\w*|finans\w*|controller|treasury|\bekonom\w*|accounting|redovisning")),
 ]
@@ -85,14 +87,16 @@ AREAS: list[tuple[str, re.Pattern]] = [
 # ("Supply Chain Developer", "Business Developer").
 SOFT_OFF_TARGET = re.compile(
     r"software|developer|utvecklare|\bengineer\b|devops|frontend|backend|full[- ]?stack|"
-    r"\bit[- ]|cyber|machine learning"
+    r"\bit[- ]|machine learning|\bengineering\b"
 )
 # Roles that stay excluded whatever else the title says.
 HARD_OFF_TARGET = re.compile(
     r"nurse|sjuksköt|lager|warehouse|driver|chaufför|säljare|telemarket|kundtjänst|customer service|"
     r"receptionist|architect\w*|arkitekt\w*|hvac|acoustic\w*|akustik\w*|structural|konstruktion\w*|"
     r"geotechn\w*|electrical|mechanical|\bhr\b|human resources|employer brand\w*|marketing|"
-    r"communicat\w*|kommunikat\w*|\bevents?\b|\bnetwork\b"
+    r"communicat\w*|kommunikat\w*|\bevents?\b|\bnetwork\b|cyber|designer|"
+    r"talent acquisition|talent brand|recruit(er|ment|ing)?\b|dinner|\bclub\b|tekniker|"
+    r"\bsales\b(?!,?\s*(and|&)?\s*trading)"
 )
 
 SEGMENT_AREAS = {"IB": "IB", "PE": "PE", "M&A": "M&A", "Consulting": "Consulting", "Audit": "Audit"}

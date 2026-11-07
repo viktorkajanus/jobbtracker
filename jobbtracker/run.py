@@ -13,7 +13,8 @@ from pathlib import Path
 
 from .http import Http
 from .models import Company
-from .pipeline import build_job, dedupe, merge_with_previous
+from . import manual
+from .pipeline import _is_duplicate, build_job, dedupe, merge_with_previous, source_key
 from .sources import ADAPTERS, jobtech
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -32,9 +33,8 @@ def fetch_company(company: Company, http):
     return ADAPTERS[company.ats](company, http)
 
 
-def run(companies_paths, out_path: Path, today: date, fetch_company=fetch_company,
-        fetch_jobtech=jobtech.fetch, http=None) -> dict:
-    companies = load_companies(companies_paths)
+def fetch_all(companies, today, fetch_company, fetch_jobtech, http):
+    """Fetch every source; returns (jobs, source status, names of failed sources)."""
     postings, status, failed = [], [], set()
 
     def fetch_one(company):
@@ -64,13 +64,30 @@ def run(companies_paths, out_path: Path, today: date, fetch_company=fetch_compan
         failed.add("JobTech")
         status.append({"name": "JobTech", "ok": False, "count": 0, "error": f"{type(e).__name__}: {e}"})
 
-    jobs = dedupe([j for p in postings if (j := build_job(p, today))])
-    previous = json.loads(out_path.read_text()).get("jobs", []) if out_path.exists() else []
+    return dedupe([j for p in postings if (j := build_job(p, today))]), status, failed
+
+
+def run(companies_paths, out_path: Path, today: date, fetch_company=fetch_company,
+        fetch_jobtech=jobtech.fetch, http=None, manual_path: Path | None = None, fetch: bool = True) -> dict:
+    """Write the table. With fetch=False, only re-merge manual jobs into the last fetched data."""
+    companies = load_companies(companies_paths)
+    previous_data = json.loads(out_path.read_text()) if out_path.exists() else {}
+    previous = [j for j in previous_data.get("jobs", []) if j["source"] not in manual.SOURCES]
+
+    if fetch:
+        jobs, status, failed = fetch_all(companies, today, fetch_company, fetch_jobtech, http)
+        generated = today.isoformat()
+    else:
+        jobs, status, generated = [], previous_data.get("sources", []), previous_data.get("generated", today.isoformat())
+        failed = {source_key(j) for j in previous}
     jobs = merge_with_previous(jobs, previous, failed, today)
+    if manual_path:
+        jobs += [m for m in manual.active_manual_jobs(manual.load(manual_path), today)
+                 if not any(_is_duplicate(m, j) for j in jobs)]
     jobs.sort(key=lambda j: (j["deadline"] or "9999", j["company"]))
 
     data = {
-        "generated": today.isoformat(),
+        "generated": generated,
         "jobs": jobs,
         "sources": status,
         "manual": [{"name": c.name, "segment": c.segment, "careers_url": c.careers_url}
@@ -85,9 +102,11 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--companies", nargs="*", type=Path, default=sorted((ROOT / "companies").glob("*.toml")))
     parser.add_argument("--out", type=Path, default=ROOT / "site" / "data" / "jobs.json")
+    parser.add_argument("--no-fetch", action="store_true", help="Only merge manual jobs into the existing data")
     args = parser.parse_args(argv)
 
-    data = run(args.companies, args.out, date.today(), http=Http())
+    data = run(args.companies, args.out, date.today(), http=Http(), manual_path=ROOT / "manual" / "jobs.json",
+               fetch=not args.no_fetch)
     types = Counter(j["type"] for j in data["jobs"])
     broken = [s for s in data["sources"] if not s["ok"]]
     print(f"{len(data['jobs'])} jobs: " + ", ".join(f"{k} {v}" for k, v in types.most_common()))

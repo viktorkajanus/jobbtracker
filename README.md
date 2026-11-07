@@ -46,3 +46,14 @@ automatically".
 
 Interested / Applied / Hidden marks are stored in your browser (localStorage) only. Each mark
 keeps a snapshot of the job and a status history, ready for a future application-pipeline view.
+
+## Adding jobs from LinkedIn
+
+LinkedIn and Indeed are never scraped. Instead:
+
+1. Search on LinkedIn Jobs in Safari and scroll so the ads you want are loaded.
+2. Cmd+S, Format **Webbarkiv**, save into `inbox/` (not committed).
+3. Run `python3 -m jobbtracker.inbox`, or ask Claude Code to "process the inbox".
+
+New ads are added to `manual/jobs.json` with direct links, duplicates of jobs already in the
+table are skipped, and imported jobs expire at their deadline or after 45 days.

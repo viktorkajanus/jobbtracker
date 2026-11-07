@@ -123,3 +123,13 @@ def test_jobtech_graduate_programme_area_from_text():
     p = posting(source="jobtech", segment=None, title="F15 Graduate Programme 2027",
                 text="Rotations within procurement and logistics.")
     assert build_job(p, TODAY)["areas"] == ["Supply chain"]
+
+
+def test_industry_thesis_without_business_area_is_dropped():
+    p = posting(segment="Industry", title="Master Thesis – R&D Nonwoven Linting Analysis")
+    assert build_job(p, TODAY) is None
+
+
+def test_industry_graduate_programme_without_area_is_kept():
+    p = posting(segment="Industry", title="Global Graduate Programme 2027")
+    assert build_job(p, TODAY) is not None

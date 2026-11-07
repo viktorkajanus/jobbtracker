@@ -392,3 +392,12 @@ careers_url = ""
 ats = "unsupported"
 feed = ""
 notes = "could not find a resolving domain (moorekln.se, moore-kln.se, moore.se checked)"
+
+[[company]]
+name = "CHORD Management Consulting"
+segment = "Consulting"
+cities = ["Gothenburg", "Stockholm"]
+careers_url = "https://chordconsulting.com/career/"
+ats = "unsupported"
+feed = ""
+notes = "Gothenburg boutique (strategy, operations, value chain). HaileyHR career site, no public feed; mostly open applications."

@@ -264,3 +264,53 @@ class TestConsultingFeedMisses:
 
     def test_quarter(self):
         assert extract_period("Intern - Q3 2027 (start date July, August or September)", "", TODAY) == "Q3 2027"
+
+
+class TestFullRunMisses:
+    """Regressions from the first full run across all company feeds."""
+
+    @pytest.mark.parametrize(
+        "title",
+        [
+            "AI Engineering Internship",
+            "Engineering (Manufacturing) Summer Internship 2027",
+            "Junior Consultant Cyber Security (Dutch speaker)",
+            "Junior Creative Designer",
+            "Junior Fashion Designer - Women's Jersey",
+            "Talent Acquisition Intern (Early Careers)",
+            "Talent Brand & Acquisition Trainee",
+            "Werkstudent Recruitment",
+            "Deloitte SAP Graduate Dinner 2026",
+            "Boost Your Consulting Skills: Graduate Consulting Club x Roland Berger",
+            "Sales Summer Internship 2027",
+            "Praktik/LIA – Underhållstekniker",
+        ],
+    )
+    def test_excluded(self, title):
+        assert classify_areas(title, "", segment="Consulting") == []
+
+    def test_sales_and_trading_is_ib(self):
+        areas = classify_areas("Sales, Trading and Structuring Off Cycle Internship Programme 2027", "", segment="Bank")
+        assert areas == ["IB"]
+
+    def test_buyer_is_supply_chain(self):
+        assert classify_areas("Junior Buyer - Womenswear", "") == ["Supply chain"]
+
+
+class TestLinkedInImportMisses:
+    def test_programme_title_beats_senior_word(self):
+        title = "Volvo Group Graduate Program 2027 - Technology Exploration Manager"
+        assert classify_type(title, "") == "Graduate"
+
+    def test_product_manager_intern(self):
+        assert classify_type("Product Manager Intern", "") == "Internship"
+
+    def test_swedish_plural_junior(self):
+        assert classify_type("Juniora Analysts till Deloitte Digital (Stockholm) - Aug 2027", "") == "Junior"
+
+    def test_transformation_role_with_engineering_word(self):
+        title = "Juniora Analysts till Operations Transformation, Engineering, AI & Data (Stockholm) – Aug 2027"
+        assert "Strategy" in classify_areas(title, "")
+
+    def test_engineering_internship_still_excluded(self):
+        assert classify_areas("Digital Engineering Internship", "", segment="Consulting") == []

@@ -34,8 +34,14 @@ jobs:
           pip install pytest
           python -m pytest -q
 
+      # Pushes (e.g. jobs imported from LinkedIn) only re-merge, so the page updates in a minute.
       - name: Fetch jobs
-        run: python -m jobbtracker.run
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            python -m jobbtracker.run --no-fetch
+          else
+            python -m jobbtracker.run
+          fi
 
       - name: Commit data
         run: |
@@ -43,6 +49,7 @@ jobs:
           git config user.email "jobbtracker-bot@users.noreply.github.com"
           git add site/data/jobs.json
           git diff --cached --quiet || git commit -m "Update jobs $(date -u +%F)"
+          git pull --rebase
           git push
 
       - uses: actions/configure-pages@v5
