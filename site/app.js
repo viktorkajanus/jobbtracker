@@ -1,6 +1,6 @@
 "use strict";
 
-const CITIES = ["Stockholm", "Gothenburg"];
+const CITIES = ["Stockholm", "Gothenburg", "Malmö"];
 const ABROAD = ["London", "Frankfurt", "Amsterdam", "Zurich", "Oslo", "Copenhagen", "Helsinki"];
 const TYPES = ["Internship", "Graduate", "Thesis", "Junior"];
 const AREAS = ["IB", "PE", "M&A", "Consulting", "Audit", "Supply chain", "Strategy", "Analytics", "Finance", "General"];

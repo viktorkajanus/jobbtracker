@@ -138,6 +138,8 @@ class TestNormalizeCity:
             ("Mölndal", "Gothenburg"),
             ("Partille, Västra Götalands län", "Gothenburg"),
             ("Kungälv", "Gothenburg"),
+            ("Malmö (Hybrid)", "Malmö"),
+            ("Malmo, Skåne", "Malmö"),
             ("London, United Kingdom", "London"),
             ("Frankfurt am Main", "Frankfurt"),
             ("Amsterdam, NL", "Amsterdam"),
@@ -150,7 +152,7 @@ class TestNormalizeCity:
     def test_known(self, raw, expected):
         assert normalize_city(raw) == expected
 
-    @pytest.mark.parametrize("raw", ["New York", "Malmö", "", "Remote"])
+    @pytest.mark.parametrize("raw", ["New York", "Helsingborg", "", "Remote"])
     def test_unknown(self, raw):
         assert normalize_city(raw) is None
 

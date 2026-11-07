@@ -141,6 +141,7 @@ CITY_ALIASES = {
     "Gothenburg": ["göteborg", "goteborg", "gothenburg", "mölndal", "molndal", "torslanda",
                    "lindholmen", "hisings", "partille", "kungälv", "lerum", "härryda", "ale kommun",
                    "öckerö", "kungsbacka", "landvetter"],
+    "Malmö": ["malmö", "malmo", "hyllie"],
     "London": ["london"],
     "Frankfurt": ["frankfurt"],
     "Amsterdam": ["amsterdam"],
@@ -151,7 +152,7 @@ CITY_ALIASES = {
 }
 
 CITIES = list(CITY_ALIASES)
-ABROAD = [c for c in CITIES if c not in ("Stockholm", "Gothenburg")]
+ABROAD = [c for c in CITIES if c not in ("Stockholm", "Gothenburg", "Malmö")]
 
 
 def normalize_city(raw: str) -> str | None:

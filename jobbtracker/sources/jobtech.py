@@ -8,7 +8,7 @@ from ..models import Posting
 from ..text import parse_date
 
 API = "https://jobsearch.api.jobtechdev.se/search"
-REGIONS = {"01": "Stockholm", "14": "Gothenburg"}
+REGIONS = {"01": "Stockholm", "14": "Gothenburg", "12": "Malmö"}
 QUERIES = [
     "praktik", "praktikant", "internship", "intern", "sommarjobb", "summer", "trainee",
     "traineeprogram", "graduate", "examensarbete", "exjobb", "thesis", "nyexaminerad",

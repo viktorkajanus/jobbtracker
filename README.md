@@ -1,7 +1,7 @@
 # Jobbtracker
 
 Internships, graduate programmes, theses and junior roles for industrial engineering and
-management students, in Stockholm, Gothenburg and selected cities abroad (London, Frankfurt,
+management students, in Stockholm, Gothenburg, Malmö and selected cities abroad (London, Frankfurt,
 Amsterdam, Zurich, Oslo, Copenhagen, Helsinki).
 
 Every night a GitHub Action fetches ads from:
