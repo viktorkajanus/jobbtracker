@@ -1,6 +1,26 @@
 {
- "generated": "2026-11-07",
+ "generated": "2026-11-08",
  "jobs": [
+  {
+   "id": "88229f18bc03",
+   "company": "Ernst & Young Aktiebolag",
+   "title": "Juniora Treasuryspecialister Advisory | Assurance | Stockholm",
+   "type": "Junior",
+   "areas": [
+    "Audit",
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": "2026-11-08",
+   "posted": "2026-10-06",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://eyglobal.yello.co/jobs/-xm1OKAJ-fZGq6KwIHANNw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31561259",
+   "source": "jobtech"
+  },
   {
    "id": "5370dcc44e0b",
    "company": "Grant Thornton Sweden",
@@ -20,6 +40,46 @@
    "apply_url": "https://karriar.grantthornton.se/jobs/8552566-junior-redovisningskonsult-stockholm",
    "ad_url": "https://karriar.grantthornton.se/jobs/8552566-junior-redovisningskonsult-stockholm",
    "source": "teamtailor"
+  },
+  {
+   "id": "851b463aa35f",
+   "company": "Grant Thornton Sweden",
+   "title": "Junior redovisningskonsult | Malmö",
+   "type": "Junior",
+   "areas": [
+    "Consulting",
+    "Finance"
+   ],
+   "cities": [
+    "Malmö"
+   ],
+   "period": "Start Jan 2027",
+   "deadline": "2026-11-08",
+   "posted": "2026-10-12",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://karriar.grantthornton.se/jobs/8532198-junior-redovisningskonsult-malmo",
+   "ad_url": "https://karriar.grantthornton.se/jobs/8532198-junior-redovisningskonsult-malmo",
+   "source": "teamtailor"
+  },
+  {
+   "id": "5f2cf4aba156",
+   "company": "Ernst & Young Aktiebolag",
+   "title": "Juniora revisionskonsulter | Assurance | Göteborg",
+   "type": "Junior",
+   "areas": [
+    "Consulting",
+    "Audit"
+   ],
+   "cities": [
+    "Gothenburg"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": "2026-11-09",
+   "posted": "2026-10-27",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://eyglobal.yello.co/jobs/2lGvRDF-PqcS25aZivvyQQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31651520",
+   "source": "jobtech"
   },
   {
    "id": "929c63c38d7e",
@@ -42,38 +102,43 @@
    "source": "jobtech"
   },
   {
-   "id": "c56bcf097ee6",
-   "company": "Procter & Gamble",
-   "title": "Engineering (Manufacturing) Summer Internship 2027",
-   "type": "Internship",
-   "areas": [],
-   "cities": [
-    "London"
+   "id": "3cc2b10c013d",
+   "company": "Ericsson AB",
+   "title": "Strategic Product Manager, Transport | Early Career Program",
+   "type": "Graduate",
+   "areas": [
+    "Strategy"
    ],
-   "period": "Summer 2027",
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
    "deadline": "2026-11-13",
-   "posted": "2026-10-06",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://pg.wd5.myworkdayjobs.com/1000/job/LONDON-PLANT-W-THURROCK/Engineering--Manufacturing--Summer-Internship-2027_R000160388/apply",
-   "ad_url": "https://pg.wd5.myworkdayjobs.com/1000/job/LONDON-PLANT-W-THURROCK/Engineering--Manufacturing--Summer-Internship-2027_R000160388",
-   "source": "workday"
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://ericsson-ab.contactrh.com/jobs/9669/44541642",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31663855",
+   "source": "jobtech"
   },
   {
-   "id": "b8b851dce772",
-   "company": "Procter & Gamble",
-   "title": "Engineering (Manufacturing) Industrial Placement 2027",
-   "type": "Internship",
-   "areas": [],
-   "cities": [
-    "London"
+   "id": "4f0d02b2445f",
+   "company": "Ericsson AB",
+   "title": "Account Manager | Early Career Program",
+   "type": "Graduate",
+   "areas": [
+    "Strategy",
+    "Finance"
    ],
-   "period": "2027",
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
    "deadline": "2026-11-13",
-   "posted": "2026-10-01",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://pg.wd5.myworkdayjobs.com/1000/job/LONDON-PLANT-W-THURROCK/Engineering--Manufacturing--Industrial-Placement-2027_R000160044/apply",
-   "ad_url": "https://pg.wd5.myworkdayjobs.com/1000/job/LONDON-PLANT-W-THURROCK/Engineering--Manufacturing--Industrial-Placement-2027_R000160044",
-   "source": "workday"
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://ericsson-ab.contactrh.com/jobs/9669/44542852",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31666224",
+   "source": "jobtech"
   },
   {
    "id": "fb04eb822e81",
@@ -286,23 +351,6 @@
    "source": "jobtech"
   },
   {
-   "id": "3403cb753c1c",
-   "company": "Procter & Gamble",
-   "title": "Sales Summer Internship 2027",
-   "type": "Internship",
-   "areas": [],
-   "cities": [
-    "London"
-   ],
-   "period": "Oct–Dec 2026",
-   "deadline": "2026-11-20",
-   "posted": "2026-11-03",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://pg.wd5.myworkdayjobs.com/1000/job/BROOKLANDS-GO/Sales-Summer-Internship-2027_R000160319/apply",
-   "ad_url": "https://pg.wd5.myworkdayjobs.com/1000/job/BROOKLANDS-GO/Sales-Summer-Internship-2027_R000160319",
-   "source": "workday"
-  },
-  {
    "id": "b5677ba204c0",
    "company": "Knowit Sweden",
    "title": "Mentorship Program – Knowit Management Consulting 2027",
@@ -346,9 +394,7 @@
    "title": "Volvo Group Graduate Program 2027 - Associate Buyer",
    "type": "Graduate",
    "areas": [
-    "Supply chain",
-    "Strategy",
-    "Analytics"
+    "Supply chain"
    ],
    "cities": [
     "Gothenburg"
@@ -400,6 +446,26 @@
    "source": "jobtech"
   },
   {
+   "id": "fa1da7e734f5",
+   "company": "Volvo Business Services Aktiebolag",
+   "title": "Volvo Group Graduate Program 2027 - Technology Exploration Manager",
+   "type": "Graduate",
+   "areas": [
+    "Supply chain",
+    "Strategy"
+   ],
+   "cities": [
+    "Gothenburg"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": "2026-11-22",
+   "posted": "2026-10-23",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44528674",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31636638",
+   "source": "jobtech"
+  },
+  {
    "id": "23a6edb0802c",
    "company": "Volvo Business Services Aktiebolag",
    "title": "Volvo Group Graduate Program 2027 - Strategic Product Planner",
@@ -424,9 +490,7 @@
    "title": "Volvo Group Graduate Program 2027 - Associate Project & Commodity Buyer",
    "type": "Graduate",
    "areas": [
-    "Supply chain",
-    "Strategy",
-    "Analytics"
+    "Supply chain"
    ],
    "cities": [
     "Gothenburg"
@@ -438,23 +502,6 @@
    "apply_url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44529204",
    "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31638214",
    "source": "jobtech"
-  },
-  {
-   "id": "79c4861db9ef",
-   "company": "Procter & Gamble",
-   "title": "Sales Graduate Role 2027",
-   "type": "Graduate",
-   "areas": [],
-   "cities": [
-    "London"
-   ],
-   "period": "Summer 2027",
-   "deadline": "2026-11-23",
-   "posted": "2026-11-02",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Sales-Graduate-Role-2027_R000159964/apply",
-   "ad_url": "https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Sales-Graduate-Role-2027_R000159964",
-   "source": "workday"
   },
   {
    "id": "0332cfcecddd",
@@ -610,40 +657,6 @@
    "source": "jobtech"
   },
   {
-   "id": "f2f114551647",
-   "company": "Procter & Gamble",
-   "title": "Sales Summer Internship 2027",
-   "type": "Internship",
-   "areas": [],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Summer 2027",
-   "deadline": "2026-12-01",
-   "posted": "2026-10-02",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://pg.wd5.myworkdayjobs.com/1000/job/STOCKHOLM-GENERAL-OFFICE/Sales-Summer-Internship-2027_R000159973/apply",
-   "ad_url": "https://pg.wd5.myworkdayjobs.com/1000/job/STOCKHOLM-GENERAL-OFFICE/Sales-Summer-Internship-2027_R000159973",
-   "source": "workday"
-  },
-  {
-   "id": "5bcec6a0acda",
-   "company": "Procter & Gamble",
-   "title": "Sales Summer Internship 2027",
-   "type": "Internship",
-   "areas": [],
-   "cities": [
-    "Copenhagen"
-   ],
-   "period": "Summer 2027",
-   "deadline": "2026-12-01",
-   "posted": "2026-10-22",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://pg.wd5.myworkdayjobs.com/1000/job/COPENHAGEN-GENERAL-OFFICE/Sales-Summer-Internship-2027_R000161359/apply",
-   "ad_url": "https://pg.wd5.myworkdayjobs.com/1000/job/COPENHAGEN-GENERAL-OFFICE/Sales-Summer-Internship-2027_R000161359",
-   "source": "workday"
-  },
-  {
    "id": "6983fccecfc7",
    "company": "Procter & Gamble",
    "title": "Brand Management Summer Internship 2027",
@@ -795,6 +808,86 @@
    "source": "jobtech"
   },
   {
+   "id": "ee63bceccd5b",
+   "company": "Houlihan Lokey",
+   "title": "2027 Graduate Financial Analyst - Corporate Finance (IT Services)",
+   "type": "Graduate",
+   "areas": [
+    "M&A",
+    "Finance"
+   ],
+   "cities": [
+    "Frankfurt"
+   ],
+   "period": "Summer 2027",
+   "deadline": "2027-07-20",
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-07",
+   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--IT-Services-_R3719/apply",
+   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--IT-Services-_R3719",
+   "source": "workday"
+  },
+  {
+   "id": "6779a4bba25e",
+   "company": "Houlihan Lokey",
+   "title": "2027 Graduate Financial Analyst - Corporate Finance (Consumer Group)",
+   "type": "Graduate",
+   "areas": [
+    "M&A",
+    "Finance"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": "Summer 2027",
+   "deadline": "2027-07-20",
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-07",
+   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Zurich-Switzerland/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Consumer-Group-_R3717/apply",
+   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Zurich-Switzerland/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Consumer-Group-_R3717",
+   "source": "workday"
+  },
+  {
+   "id": "d9614b3a9966",
+   "company": "Houlihan Lokey",
+   "title": "2027 Graduate Financial Analyst - Corporate Finance (Industrials)",
+   "type": "Graduate",
+   "areas": [
+    "M&A",
+    "Finance"
+   ],
+   "cities": [
+    "Frankfurt"
+   ],
+   "period": "Summer 2027",
+   "deadline": "2027-07-20",
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-07",
+   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Industrials-_R3716/apply",
+   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Industrials-_R3716",
+   "source": "workday"
+  },
+  {
+   "id": "06899a81c1db",
+   "company": "Houlihan Lokey",
+   "title": "2027 Graduate Financial Analyst - Corporate Finance (Technology)",
+   "type": "Graduate",
+   "areas": [
+    "M&A",
+    "Finance"
+   ],
+   "cities": [
+    "Frankfurt"
+   ],
+   "period": "Summer 2027",
+   "deadline": "2027-07-20",
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-07",
+   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Technology-_R3718/apply",
+   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Technology-_R3718",
+   "source": "workday"
+  },
+  {
    "id": "26c5a90824ff",
    "company": "3Search",
    "title": "Solutions Consultant - Data & Analytics",
@@ -851,25 +944,6 @@
    "source": "workday"
   },
   {
-   "id": "a83341958221",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "Digital Engineering Internship",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-09-10",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505",
-   "source": "workday"
-  },
-  {
    "id": "3b489e3f515b",
    "company": "Accenture (incl. Accenture Strategy, Northstream)",
    "title": "Health Technology Internship",
@@ -908,30 +982,12 @@
    "source": "workday"
   },
   {
-   "id": "75405094d346",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "AI Engineering Internship",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-03",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/AI-Engineering-Internship_R00367336/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/AI-Engineering-Internship_R00367336",
-   "source": "workday"
-  },
-  {
    "id": "275644ea3f09",
    "company": "Accenture (incl. Accenture Strategy, Northstream)",
    "title": "Finance Transformation - Working Internship",
    "type": "Internship",
    "areas": [
+    "Strategy",
     "Finance"
    ],
    "cities": [
@@ -1176,25 +1232,6 @@
    "source": "workday"
   },
   {
-   "id": "6c7229bc5781",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "AI & Data – Data Science/ML Engineering Thesis Internship",
-   "type": "Thesis",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-03",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/XMLNAME---Data---AI---Data-Science-ML-Engineering-Graduation-Internship-_R00368686/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/XMLNAME---Data---AI---Data-Science-ML-Engineering-Graduation-Internship-_R00368686",
-   "source": "workday"
-  },
-  {
    "id": "bdae93910178",
    "company": "Accenture (incl. Accenture Strategy, Northstream)",
    "title": "Thesis Internship Energy & Utilities Industry - Marktgebaseerde vs. gereguleerde ontsluiting van flexibiliteit in het elektriciteitsnet",
@@ -1242,7 +1279,8 @@
    ],
    "cities": [
     "Stockholm",
-    "Gothenburg"
+    "Gothenburg",
+    "Malmö"
    ],
    "period": "Autumn 2027",
    "deadline": null,
@@ -1262,7 +1300,8 @@
    ],
    "cities": [
     "Stockholm",
-    "Gothenburg"
+    "Gothenburg",
+    "Malmö"
    ],
    "period": "Autumn 2027",
    "deadline": null,
@@ -1292,25 +1331,6 @@
    "source": "workday"
   },
   {
-   "id": "b0a482d5c8ff",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "Junior Content Designer",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-29",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Junior-Content-Designer_R00348802/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Junior-Content-Designer_R00348802",
-   "source": "workday"
-  },
-  {
    "id": "bbf0fab126ef",
    "company": "Accenture (incl. Accenture Strategy, Northstream)",
    "title": "Junior Consultant - Financial Services",
@@ -1328,25 +1348,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Junior-Consultant---Financial-Services_R00354432/apply",
    "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Junior-Consultant---Financial-Services_R00354432",
-   "source": "workday"
-  },
-  {
-   "id": "28ad5b8a6065",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "Junior Consultant Cyber Security (Dutch speaker)",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-28",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Security-Transformation-Analyst_R00355694/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Security-Transformation-Analyst_R00355694",
    "source": "workday"
   },
   {
@@ -3064,95 +3065,6 @@
    "source": "linkedin"
   },
   {
-   "id": "f94efe45b062",
-   "company": "Deloitte",
-   "title": "Juniora Analysts till Deloitte Digital (Stockholm) - Aug 2027",
-   "type": "Junior",
-   "areas": [],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": null,
-   "posted": "2026-10-17",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://www.linkedin.com/jobs/view/4480828707/",
-   "ad_url": "https://www.linkedin.com/jobs/view/4480828707/",
-   "source": "linkedin"
-  },
-  {
-   "id": "68955a3028c9",
-   "company": "Deloitte",
-   "title": "Juniora Analysts till Operations Transformation, Engineering, AI & Data (Stockholm) – Aug 2027",
-   "type": "Junior",
-   "areas": [
-    "Strategy"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": null,
-   "posted": "2026-11-02",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://www.linkedin.com/jobs/view/4486125744/",
-   "ad_url": "https://www.linkedin.com/jobs/view/4486125744/",
-   "source": "linkedin"
-  },
-  {
-   "id": "34f2c0a7bc43",
-   "company": "Deloitte",
-   "title": "Juniora Analysts till Operations Transformation, Engineering, AI & Data (Stockholm) – Jan 2027",
-   "type": "Junior",
-   "areas": [
-    "Strategy"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Jan 2027",
-   "deadline": null,
-   "posted": "2026-10-24",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://www.linkedin.com/jobs/view/4481596760/",
-   "ad_url": "https://www.linkedin.com/jobs/view/4481596760/",
-   "source": "linkedin"
-  },
-  {
-   "id": "899c9387ca3a",
-   "company": "Deloitte",
-   "title": "Juniora Analysts till Deloitte Digital (Stockholm) - Jan 2027",
-   "type": "Junior",
-   "areas": [],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Jan 2027",
-   "deadline": null,
-   "posted": "2026-11-04",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://www.linkedin.com/jobs/view/4487229818/",
-   "ad_url": "https://www.linkedin.com/jobs/view/4487229818/",
-   "source": "linkedin"
-  },
-  {
-   "id": "0940e7f2da96",
-   "company": "Deloitte",
-   "title": "Juniora Analysts till Enterprise Technology & Performance (Stockholm) - Aug 2027",
-   "type": "Junior",
-   "areas": [],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": null,
-   "posted": "2026-10-24",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://www.linkedin.com/jobs/view/4481589685/",
-   "ad_url": "https://www.linkedin.com/jobs/view/4481589685/",
-   "source": "linkedin"
-  },
-  {
    "id": "02694572e543",
    "company": "Deloitte",
    "title": "Consultant & Senior Consultant | Strategy Consulting at Monitor Deloitte | Stockholm",
@@ -3173,42 +3085,100 @@
    "source": "linkedin"
   },
   {
-   "id": "6c99e379cebc",
-   "company": "Deloitte",
-   "title": "Junior Consultant to M&A Transaction Services (Malmö) - Aug 2027",
+   "id": "c7cd42ca56e5",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Deloitte Digital (Stockholm) - Jan 2027",
    "type": "Junior",
    "areas": [
-    "M&A",
-    "Consulting"
+    "Audit"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Jan 2027",
+   "deadline": null,
+   "posted": "2026-11-04",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159578609",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159578609",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "4aeccd05741e",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Operations Transformation, Engineering, AI & Data (Stockholm) – Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "Strategy"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-11-02",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159072588",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159072588",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "f6251b9d72e1",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Finance Transformation (Malmö) – Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "Strategy",
+    "Finance"
    ],
    "cities": [
     "Malmö"
    ],
    "period": "Start Aug 2027",
    "deadline": null,
-   "posted": "2026-10-17",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://www.linkedin.com/jobs/view/4480367908/",
-   "ad_url": "https://www.linkedin.com/jobs/view/4480367908/",
-   "source": "linkedin"
+   "posted": "2026-11-02",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159056048",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159056048",
+   "source": "smartrecruiters"
   },
   {
-   "id": "6e25624381e7",
+   "id": "aed78153b656",
    "company": "Deloitte Sweden",
-   "title": "Talent Brand & Acquisition Trainee",
-   "type": "Graduate",
+   "title": "Juniora Analysts till Finance Transformation (Stockholm) – Jan 2027",
+   "type": "Junior",
    "areas": [
-    "M&A"
+    "Strategy",
+    "Finance"
    ],
    "cities": [
-    "Helsinki"
+    "Stockholm"
    ],
-   "period": null,
+   "period": "Start Jan 2027",
    "deadline": null,
-   "posted": "2026-10-28",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000158321719",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000158321719",
+   "posted": "2026-11-02",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159055342",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159055342",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "635554468d45",
+   "company": "Deloitte Sweden",
+   "title": "Summer Internship - Deloitte Tax & Legal 2027 (Malmö)",
+   "type": "Internship",
+   "areas": [
+    "Audit"
+   ],
+   "cities": [
+    "Malmö"
+   ],
+   "period": "Summer 2027",
+   "deadline": null,
+   "posted": "2026-10-26",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000157824118",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000157824118",
    "source": "smartrecruiters"
   },
   {
@@ -3269,6 +3239,26 @@
    "source": "smartrecruiters"
   },
   {
+   "id": "92189cbc8703",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Finance Transformation (Stockholm) – Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "Strategy",
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-10-21",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156878486",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156878486",
+   "source": "smartrecruiters"
+  },
+  {
    "id": "d18f3b012381",
    "company": "Deloitte Sweden",
    "title": "Junior Consultant till Monitor Deloitte (Stockholm) - Aug 2027",
@@ -3307,22 +3297,118 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "cc8930aaa636",
+   "id": "e70605942833",
    "company": "Deloitte Sweden",
-   "title": "Deloitte SAP Graduate Dinner 2026 — December 3rd",
-   "type": "Graduate",
+   "title": "Juniora Analysts till Operations Transformation, Engineering, AI & Data (Stockholm) – Jan 2027",
+   "type": "Junior",
+   "areas": [
+    "Strategy"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Jan 2027",
+   "deadline": null,
+   "posted": "2026-10-20",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156593628",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156593628",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "f66c6e140ee2",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Enterprise Technology & Performance (Stockholm) - Aug 2027",
+   "type": "Junior",
    "areas": [
     "Audit"
    ],
    "cities": [
-    "Copenhagen"
+    "Stockholm"
    ],
-   "period": "2026",
+   "period": "Start Aug 2027",
    "deadline": null,
-   "posted": "2026-10-01",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000152940719",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000152940719",
+   "posted": "2026-10-20",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156573804",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156573804",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "42bf155b8ea5",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Deloitte Digital (Stockholm) - Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "Audit"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-10-17",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156132258",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156132258",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "be8217496f87",
+   "company": "Deloitte Sweden",
+   "title": "Junior Consultant to M&A Transaction Services (Malmö) - Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "M&A",
+    "Consulting"
+   ],
+   "cities": [
+    "Malmö"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-10-16",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156005872",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156005872",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "7ac4a585eea9",
+   "company": "Deloitte Sweden",
+   "title": "Praktikvecka T5 – Lunds Universitet (HT 2026)",
+   "type": "Internship",
+   "areas": [
+    "Audit"
+   ],
+   "cities": [
+    "Malmö"
+   ],
+   "period": "Autumn 2026",
+   "deadline": null,
+   "posted": "2026-10-14",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000155495348",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000155495348",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "e25ee38a5fcf",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Revisorsassistenter till Audit & Assurance (Göteborg) – Jan 2027",
+   "type": "Junior",
+   "areas": [
+    "Audit"
+   ],
+   "cities": [
+    "Gothenburg"
+   ],
+   "period": "Start Jan 2027",
+   "deadline": null,
+   "posted": "2026-10-14",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000155486523",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000155486523",
    "source": "smartrecruiters"
   },
   {
@@ -3361,6 +3447,45 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000145217301",
    "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000145217301",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "37e4cbfae3e3",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Finance Transformation (Göteborg) – Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "Strategy",
+    "Finance"
+   ],
+   "cities": [
+    "Gothenburg"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-08-18",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000143997750",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000143997750",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "499459bbcebf",
+   "company": "Deloitte Sweden",
+   "title": "Juniora konsulter till Risk, Regulatory & Forensic – Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-08-10",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000142619649",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000142619649",
    "source": "smartrecruiters"
   },
   {
@@ -3571,142 +3696,6 @@
    "source": "indeed"
   },
   {
-   "id": "7b9559a04e62",
-   "company": "Essity",
-   "title": "Master Thesis - Evaluating Agile Design in Practice",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-15",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---Evaluating-Agile-Design-in-Practice_Essity266197/apply",
-   "ad_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---Evaluating-Agile-Design-in-Practice_Essity266197",
-   "source": "workday"
-  },
-  {
-   "id": "8f1c5abea0b0",
-   "company": "Essity",
-   "title": "Master Thesis - Benchmarking Professional Education Offerings in Healthcare",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-20",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---Benchmarking-Professional-Education-Offerings-in-Healthcare_Essity266353-1/apply",
-   "ad_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---Benchmarking-Professional-Education-Offerings-in-Healthcare_Essity266353-1",
-   "source": "workday"
-  },
-  {
-   "id": "780d9b590de0",
-   "company": "Essity",
-   "title": "Master Thesis - Comparative LCA of product systems",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Spring 2027",
-   "deadline": null,
-   "posted": "2026-10-15",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---Comparative-LCA-of-product-systems_Essity266188/apply",
-   "ad_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---Comparative-LCA-of-product-systems_Essity266188",
-   "source": "workday"
-  },
-  {
-   "id": "03ecacc2582c",
-   "company": "Essity",
-   "title": "Master Thesis - Water footprint in LCA",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Spring 2027",
-   "deadline": null,
-   "posted": "2026-10-15",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---Water-footprint-in-LCA_Essity266189/apply",
-   "ad_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---Water-footprint-in-LCA_Essity266189",
-   "source": "workday"
-  },
-  {
-   "id": "8c107f28fc17",
-   "company": "Essity",
-   "title": "Master Thesis - Human Body Model Fidelity for Product–Human Interaction Simulations",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-15",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---Human-Body-Model-Fidelity-for-Product-Human-Interaction-Simulations_Essity266251/apply",
-   "ad_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---Human-Body-Model-Fidelity-for-Product-Human-Interaction-Simulations_Essity266251",
-   "source": "workday"
-  },
-  {
-   "id": "5304ad97b962",
-   "company": "Essity",
-   "title": "Master Thesis – R&D Nonwoven Linting Analysis",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-15",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---R-D-Nonwoven-Linting-Analysis_Essity266238/apply",
-   "ad_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---R-D-Nonwoven-Linting-Analysis_Essity266238",
-   "source": "workday"
-  },
-  {
-   "id": "1183b7158356",
-   "company": "Essity",
-   "title": "Master Thesis - AI-Assisted PCB Development",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-15",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---AI-Assisted-PCB-Development_Essity266195/apply",
-   "ad_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---AI-Assisted-PCB-Development_Essity266195",
-   "source": "workday"
-  },
-  {
-   "id": "56f5ccdb460c",
-   "company": "Essity",
-   "title": "Master Thesis - AI Personas for Innovation Decision-Making",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Spring 2027",
-   "deadline": null,
-   "posted": "2026-10-15",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---AI-Personas-for-Innovation-Decision-Making_Essity266193/apply",
-   "ad_url": "https://essity.wd3.myworkdayjobs.com/Job_opportunities/job/Gothenburg-Sweden/Master-Thesis---AI-Personas-for-Innovation-Decision-Making_Essity266193",
-   "source": "workday"
-  },
-  {
    "id": "368ec0cf7db3",
    "company": "Gilion",
    "title": "Junior Analyst",
@@ -3722,6 +3711,25 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4486071055/",
    "ad_url": "https://www.linkedin.com/jobs/view/4486071055/",
    "source": "linkedin"
+  },
+  {
+   "id": "fe30a977a999",
+   "company": "Grant Thornton Sweden",
+   "title": "Junior revisor | Malmö | September 2027",
+   "type": "Junior",
+   "areas": [
+    "Audit"
+   ],
+   "cities": [
+    "Malmö"
+   ],
+   "period": "Start Sep 2027",
+   "deadline": null,
+   "posted": "2026-10-19",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://karriar.grantthornton.se/jobs/8569597-junior-revisor-malmo-september-2027",
+   "ad_url": "https://karriar.grantthornton.se/jobs/8569597-junior-revisor-malmo-september-2027",
+   "source": "teamtailor"
   },
   {
    "id": "beb2acb4712b",
@@ -3766,7 +3774,9 @@
    "company": "H&M Group",
    "title": "Junior Buyer - Womenswear",
    "type": "Junior",
-   "areas": [],
+   "areas": [
+    "Supply chain"
+   ],
    "cities": [
     "Stockholm"
    ],
@@ -3779,37 +3789,37 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "375017e58d63",
+   "id": "a156cd0fa06a",
    "company": "H&M Group",
-   "title": "Junior Womenswear Designer - Open Applications",
-   "type": "Junior",
+   "title": "Store Manager Trainee – Amsterdam (38 uur)",
+   "type": "Graduate",
    "areas": [],
    "cities": [
-    "Stockholm"
+    "Amsterdam"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/HMGroup/744000158701700",
+   "ad_url": "https://jobs.smartrecruiters.com/HMGroup/744000158701700",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "68d993a62563",
+   "company": "H&M Group",
+   "title": "Department Manager Trainee – Amsterdam (35 uur)",
+   "type": "Graduate",
+   "areas": [],
+   "cities": [
+    "Amsterdam"
    ],
    "period": null,
    "deadline": null,
    "posted": "2026-10-22",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/HMGroup/744000157122847",
-   "ad_url": "https://jobs.smartrecruiters.com/HMGroup/744000157122847",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "498b3ba1c08e",
-   "company": "H&M Group",
-   "title": "Junior Fashion Designer - Women's Jersey (Temp Contract)",
-   "type": "Junior",
-   "areas": [],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-15",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/HMGroup/744000155705699",
-   "ad_url": "https://jobs.smartrecruiters.com/HMGroup/744000155705699",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/HMGroup/744000157062979",
+   "ad_url": "https://jobs.smartrecruiters.com/HMGroup/744000157062979",
    "source": "smartrecruiters"
   },
   {
@@ -3828,86 +3838,6 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4482884829/",
    "ad_url": "https://www.linkedin.com/jobs/view/4482884829/",
    "source": "linkedin"
-  },
-  {
-   "id": "ee63bceccd5b",
-   "company": "Houlihan Lokey",
-   "title": "2027 Graduate Financial Analyst - Corporate Finance (IT Services)",
-   "type": "Graduate",
-   "areas": [
-    "M&A",
-    "Finance"
-   ],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": "Summer 2027",
-   "deadline": null,
-   "posted": "2026-10-30",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--IT-Services-_R3719/apply",
-   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--IT-Services-_R3719",
-   "source": "workday"
-  },
-  {
-   "id": "6779a4bba25e",
-   "company": "Houlihan Lokey",
-   "title": "2027 Graduate Financial Analyst - Corporate Finance (Consumer Group)",
-   "type": "Graduate",
-   "areas": [
-    "M&A",
-    "Finance"
-   ],
-   "cities": [
-    "Zurich"
-   ],
-   "period": "Summer 2027",
-   "deadline": null,
-   "posted": "2026-10-30",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Zurich-Switzerland/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Consumer-Group-_R3717/apply",
-   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Zurich-Switzerland/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Consumer-Group-_R3717",
-   "source": "workday"
-  },
-  {
-   "id": "d9614b3a9966",
-   "company": "Houlihan Lokey",
-   "title": "2027 Graduate Financial Analyst - Corporate Finance (Industrials)",
-   "type": "Graduate",
-   "areas": [
-    "M&A",
-    "Finance"
-   ],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": "Summer 2027",
-   "deadline": null,
-   "posted": "2026-10-30",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Industrials-_R3716/apply",
-   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Industrials-_R3716",
-   "source": "workday"
-  },
-  {
-   "id": "06899a81c1db",
-   "company": "Houlihan Lokey",
-   "title": "2027 Graduate Financial Analyst - Corporate Finance (Technology)",
-   "type": "Graduate",
-   "areas": [
-    "M&A",
-    "Finance"
-   ],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": "Summer 2027",
-   "deadline": null,
-   "posted": "2026-10-30",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Technology-_R3718/apply",
-   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-2027-Graduate-Financial-Analyst---Corporate-Finance--Technology-_R3718",
-   "source": "workday"
   },
   {
    "id": "2bb526fd16db",
@@ -4022,6 +3952,26 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4486369333/",
    "ad_url": "https://www.linkedin.com/jobs/view/4486369333/",
    "source": "linkedin"
+  },
+  {
+   "id": "5a49d7b6a275",
+   "company": "Implement Consulting Group",
+   "title": "Junior Consultants (Supply Chain & Operations)",
+   "type": "Junior",
+   "areas": [
+    "Consulting",
+    "Supply chain"
+   ],
+   "cities": [
+    "Malmö"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-02",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/implementconsultinggroup/744000159065764",
+   "ad_url": "https://jobs.smartrecruiters.com/implementconsultinggroup/744000159065764",
+   "source": "smartrecruiters"
   },
   {
    "id": "c5286a0ad252",
@@ -4266,25 +4216,6 @@
    "source": "linkedin"
   },
   {
-   "id": "7ce6c458f8fa",
-   "company": "Maersk",
-   "title": "Talent Acquisition Intern ( Early Careers)",
-   "type": "Internship",
-   "areas": [
-    "M&A"
-   ],
-   "cities": [
-    "Copenhagen"
-   ],
-   "period": "Start Jan 2027",
-   "deadline": null,
-   "posted": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Denmark-Copenhagen-1098/Talent-Acquisition-Intern---Early-Careers-_R199126/apply",
-   "ad_url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Denmark-Copenhagen-1098/Talent-Acquisition-Intern---Early-Careers-_R199126",
-   "source": "workday"
-  },
-  {
    "id": "cd94be4c6f23",
    "company": "Maersk",
    "title": "Global Public Affairs Intern – European & Nordic Policy (Early Careers)",
@@ -4299,23 +4230,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Denmark-Copenhagen-1098/Global-Public-Affairs-Intern---European---Nordic-Policy--Early-Careers-_R198408-1/apply",
    "ad_url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Denmark-Copenhagen-1098/Global-Public-Affairs-Intern---European---Nordic-Policy--Early-Careers-_R198408-1",
-   "source": "workday"
-  },
-  {
-   "id": "8ea2bd69d3bc",
-   "company": "Maersk",
-   "title": "Praktik/LIA – Underhållstekniker",
-   "type": "Internship",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Autumn 2026",
-   "deadline": null,
-   "posted": "2026-06-18",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Sweden-Gothenburg-S-403-13/Praktik-LIA---Underhllstekniker_R184704-1/apply",
-   "ad_url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Sweden-Gothenburg-S-403-13/Praktik-LIA---Underhllstekniker_R184704-1",
    "source": "workday"
   },
   {
@@ -4745,25 +4659,6 @@
    "source": "workday"
   },
   {
-   "id": "465540bbca42",
-   "company": "Oliver Wyman",
-   "title": "Oliver Wyman - Core Consulting Group - Intern  (m/f/d) - Zurich",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Zurich"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-04-30",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1/apply",
-   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1",
-   "source": "workday"
-  },
-  {
    "id": "58ee4c1a1491",
    "company": "Oliver Wyman",
    "title": "NERA Summer Internship 2027 - London",
@@ -4780,6 +4675,25 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208/apply",
    "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208",
+   "source": "workday"
+  },
+  {
+   "id": "465540bbca42",
+   "company": "Oliver Wyman",
+   "title": "Oliver Wyman - Core Consulting Group - Intern  (m/f/d) - Zurich",
+   "type": "Internship",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-04-30",
+   "first_seen": "2026-11-07",
+   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1/apply",
+   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1",
    "source": "workday"
   },
   {
@@ -4821,44 +4735,6 @@
    "source": "workday"
   },
   {
-   "id": "ce147dc81348",
-   "company": "Oliver Wyman",
-   "title": "Graduate Program – Sales Talent Program (m/w/d)",
-   "type": "Graduate",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-04",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Dsseldorf---Carl-Theodor/Graduate-Program---Sales-Talent-Program--m-w-d-_R_364864/apply",
-   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Dsseldorf---Carl-Theodor/Graduate-Program---Sales-Talent-Program--m-w-d-_R_364864",
-   "source": "workday"
-  },
-  {
-   "id": "6824f9b19177",
-   "company": "Oliver Wyman",
-   "title": "Junior Creative Designer",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-20",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Tower-Place-West/Creative-Artworker_R_338200/apply",
-   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Tower-Place-West/Creative-Artworker_R_338200",
-   "source": "workday"
-  },
-  {
    "id": "06101472a69c",
    "company": "Oliver Wyman",
    "title": "Junior Broker / Technical Assistant - Space Insurance Broking Team",
@@ -4894,6 +4770,44 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Dsseldorf---Peter-Mller/XMLNAME--Junior--Mathematiker-in---Aktuar-in---Physiker-in---Betriebliche-Altersvorsorge---In-Voll--oder-Teilzeit_R_338004/apply",
    "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Dsseldorf---Peter-Mller/XMLNAME--Junior--Mathematiker-in---Aktuar-in---Physiker-in---Betriebliche-Altersvorsorge---In-Voll--oder-Teilzeit_R_338004",
+   "source": "workday"
+  },
+  {
+   "id": "4a86d14c208a",
+   "company": "Oliver Wyman",
+   "title": "Oliver Wyman - Data & Analytics - Analyst / Senior Analyst - Amsterdam",
+   "type": "Junior",
+   "areas": [
+    "Analytics"
+   ],
+   "cities": [
+    "Amsterdam"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-09-02",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Amsterdam---Strawinskylaan-381/Oliver-Wyman---Data---Analytics---Analyst---Senior-Analyst---Amsterdam_R_364449-2/apply",
+   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Amsterdam---Strawinskylaan-381/Oliver-Wyman---Data---Analytics---Analyst---Senior-Analyst---Amsterdam_R_364449-2",
+   "source": "workday"
+  },
+  {
+   "id": "9fbf4e27734b",
+   "company": "Oliver Wyman",
+   "title": "Associate Placement Specialist - Placement",
+   "type": "Internship",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Copenhagen"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-10-07",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Copenhagen---Tromsogade/Associate-Placement-Specialist---Placement_R_363337-1/apply",
+   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Copenhagen---Tromsogade/Associate-Placement-Specialist---Placement_R_363337-1",
    "source": "workday"
   },
   {
@@ -4997,7 +4911,7 @@
    "title": "Praktikant:in – People Advisory (m/w/d) – Transformation Team",
    "type": "Internship",
    "areas": [
-    "Consulting"
+    "Strategy"
    ],
    "cities": [
     "Frankfurt"
@@ -5151,7 +5065,8 @@
    "title": "2027 Industrial Placement - Consulting (Business Design & Transformation) - London",
    "type": "Internship",
    "areas": [
-    "Consulting"
+    "Consulting",
+    "Strategy"
    ],
    "cities": [
     "London"
@@ -5395,6 +5310,82 @@
    "source": "smartrecruiters"
   },
   {
+   "id": "8a7a3a5c9541",
+   "company": "Ramboll Management Consulting",
+   "title": "Graduate Project Manager (Buildings) 2027",
+   "type": "Graduate",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "London"
+   ],
+   "period": "2027",
+   "deadline": null,
+   "posted": "2026-10-23",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157473995",
+   "ad_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157473995",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "2dcac0fb64b8",
+   "company": "Ramboll Management Consulting",
+   "title": "Juniorkonsult inom elkraftsystem",
+   "type": "Junior",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Malmö"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-10-23",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157436639",
+   "ad_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157436639",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "42e0b083e992",
+   "company": "Ramboll Management Consulting",
+   "title": "Juniorkonsult inom elkraftsystem",
+   "type": "Junior",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Gothenburg"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-10-23",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157434990",
+   "ad_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157434990",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "8010cef02b79",
+   "company": "Ramboll Management Consulting",
+   "title": "Juniorkonsult inom elkraftsystem",
+   "type": "Junior",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-10-23",
+   "first_seen": "2026-11-08",
+   "apply_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157436339",
+   "ad_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157436339",
+   "source": "smartrecruiters"
+  },
+  {
    "id": "ae545659b03d",
    "company": "Rasulson Consulting AB",
    "title": "Data Business Analyst",
@@ -5547,44 +5538,6 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "e2e30b7c47b7",
-   "company": "Roland Berger",
-   "title": "Werkstudent Recruitment",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-05-20",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/rolandberger/744000127505770",
-   "ad_url": "https://jobs.smartrecruiters.com/rolandberger/744000127505770",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "e2d0c6521c55",
-   "company": "Roland Berger",
-   "title": "Boost Your Consulting Skills: Graduate Consulting Club x Roland Berger",
-   "type": "Graduate",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Zurich"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-05-07",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/rolandberger/744000125062299",
-   "ad_url": "https://jobs.smartrecruiters.com/rolandberger/744000125062299",
-   "source": "smartrecruiters"
-  },
-  {
    "id": "4f5c8438325a",
    "company": "Roland Berger",
    "title": "(Junior) Consultant (all genders)",
@@ -5716,40 +5669,6 @@
    "source": "lever"
   },
   {
-   "id": "885cd88635bc",
-   "company": "SEB",
-   "title": "Junior Risk Analyst (m/w/d)",
-   "type": "Junior",
-   "areas": [],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.eu.lever.co/seb/f503cef6-aa5f-4682-923d-82036de74676/apply",
-   "ad_url": "https://jobs.eu.lever.co/seb/f503cef6-aa5f-4682-923d-82036de74676",
-   "source": "lever"
-  },
-  {
-   "id": "cfdb224af47a",
-   "company": "SEB",
-   "title": "Wealth & Asset Management Internship 2027: Growth and Market Intelligence | SEB, Gothenburg",
-   "type": "Internship",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Spring 2027",
-   "deadline": null,
-   "posted": "2026-10-09",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.eu.lever.co/seb/05935454-ba1c-45e0-828f-5b82d9d305b3/apply",
-   "ad_url": "https://jobs.eu.lever.co/seb/05935454-ba1c-45e0-828f-5b82d9d305b3",
-   "source": "lever"
-  },
-  {
    "id": "81cd81327d0b",
    "company": "SEB",
    "title": "Quantitative Valuation Analyst | SEB, Stockholm",
@@ -5826,23 +5745,6 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4485228712/",
    "ad_url": "https://www.linkedin.com/jobs/view/4485228712/",
    "source": "linkedin"
-  },
-  {
-   "id": "51b11ab72230",
-   "company": "Sandvik",
-   "title": "Master Thesis – Data-Efficient Exploration",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Jan 2027",
-   "deadline": null,
-   "posted": "2026-10-09",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs/job/Sweden-Stockholm/Master-Thesis---Data-Efficient-Exploration_R0097769-1/apply",
-   "ad_url": "https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs/job/Sweden-Stockholm/Master-Thesis---Data-Efficient-Exploration_R0097769-1",
-   "source": "workday"
   },
   {
    "id": "b1e57f16d384",
@@ -6207,40 +6109,6 @@
    "source": "indeed"
   },
   {
-   "id": "14f98422875e",
-   "company": "Vattenfall",
-   "title": "Examensarbete - Optimering av taktiska investeringsportföljen avseende anläggningstillgångar i elnätet",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-02",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/vattenfall/744000159116819",
-   "ad_url": "https://jobs.smartrecruiters.com/vattenfall/744000159116819",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "549710e49aae",
-   "company": "Vattenfall",
-   "title": "Examensarbete – Analys och utveckling av processen för riskvärdering av anläggningstillgångar",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-30",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/vattenfall/744000158766289",
-   "ad_url": "https://jobs.smartrecruiters.com/vattenfall/744000158766289",
-   "source": "smartrecruiters"
-  },
-  {
    "id": "91ae4c276afd",
    "company": "Vattenfall",
    "title": "Traineeship WarmteCarrousel",
@@ -6273,40 +6141,6 @@
    "apply_url": "https://jobs.smartrecruiters.com/vattenfall/744000158048924",
    "ad_url": "https://jobs.smartrecruiters.com/vattenfall/744000158048924",
    "source": "smartrecruiters"
-  },
-  {
-   "id": "82bc482631fa",
-   "company": "Voi",
-   "title": "Master Thesis 2027",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Spring 2027",
-   "deadline": null,
-   "posted": "2026-10-20",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://careers.voi.com/jobs/8573268-master-thesis-2027",
-   "ad_url": "https://careers.voi.com/jobs/8573268-master-thesis-2027",
-   "source": "teamtailor"
-  },
-  {
-   "id": "f96703e5f28b",
-   "company": "Volvo Group",
-   "title": "Volvo Group Graduate Program 2027 - Technology Exploration Manager",
-   "type": "Graduate",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-10-24",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://www.linkedin.com/jobs/view/4482852386/",
-   "ad_url": "https://www.linkedin.com/jobs/view/4482852386/",
-   "source": "linkedin"
   },
   {
    "id": "f376e3601beb",
@@ -6383,57 +6217,6 @@
    "source": "linkedin"
   },
   {
-   "id": "d43edc462c7d",
-   "company": "Zenseact",
-   "title": "Master Thesis Projects 2027: Planning, Decision-Making and Safety - Cluster C",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Spring 2027",
-   "deadline": null,
-   "posted": "2026-09-21",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://career.zenseact.com/jobs/8428939-master-thesis-projects-2027-planning-decision-making-and-safety-cluster-c",
-   "ad_url": "https://career.zenseact.com/jobs/8428939-master-thesis-projects-2027-planning-decision-making-and-safety-cluster-c",
-   "source": "teamtailor"
-  },
-  {
-   "id": "96edbdcecad5",
-   "company": "Zenseact",
-   "title": "Data, 3D Reconstruction & Generative AI: Master Thesis Projects 2027, Cluster B",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Spring 2027",
-   "deadline": null,
-   "posted": "2026-09-21",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://career.zenseact.com/jobs/8426085-data-3d-reconstruction-generative-ai-master-thesis-projects-2027-cluster-b",
-   "ad_url": "https://career.zenseact.com/jobs/8426085-data-3d-reconstruction-generative-ai-master-thesis-projects-2027-cluster-b",
-   "source": "teamtailor"
-  },
-  {
-   "id": "3c7c2de0d9a9",
-   "company": "Zenseact",
-   "title": "Computer Vision & Perception for AD: Master Thesis Projects 2027, Cluster A",
-   "type": "Thesis",
-   "areas": [],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Spring 2027",
-   "deadline": null,
-   "posted": "2026-09-08",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://career.zenseact.com/jobs/8337990-computer-vision-perception-for-ad-master-thesis-projects-2027-cluster-a",
-   "ad_url": "https://career.zenseact.com/jobs/8337990-computer-vision-perception-for-ad-master-thesis-projects-2027-cluster-a",
-   "source": "teamtailor"
-  },
-  {
    "id": "c034b99828ee",
    "company": "dentsu",
    "title": "Analytics Consultant",
@@ -6470,7 +6253,7 @@
   {
    "name": "Barclays",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": null
   },
   {
@@ -6524,7 +6307,7 @@
   {
    "name": "SEB",
    "ok": true,
-   "count": 124,
+   "count": 123,
    "error": null
   },
   {
@@ -6572,7 +6355,7 @@
   {
    "name": "Oliver Wyman",
    "ok": true,
-   "count": 84,
+   "count": 82,
    "error": null
   },
   {
@@ -6590,7 +6373,7 @@
   {
    "name": "Accenture (incl. Accenture Strategy, Northstream)",
    "ok": true,
-   "count": 457,
+   "count": 391,
    "error": null
   },
   {
@@ -6614,7 +6397,7 @@
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 1040,
+   "count": 1039,
    "error": null
   },
   {
@@ -6782,7 +6565,7 @@
   {
    "name": "ABB",
    "ok": true,
-   "count": 15,
+   "count": 13,
    "error": null
   },
   {
@@ -6806,13 +6589,13 @@
   {
    "name": "Vattenfall",
    "ok": true,
-   "count": 271,
+   "count": 267,
    "error": null
   },
   {
    "name": "H&M Group",
    "ok": true,
-   "count": 2051,
+   "count": 2033,
    "error": null
   },
   {
@@ -6842,7 +6625,7 @@
   {
    "name": "Maersk",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": null
   },
   {
@@ -6866,7 +6649,7 @@
   {
    "name": "Procter & Gamble",
    "ok": true,
-   "count": 29,
+   "count": 16,
    "error": null
   },
   {
@@ -6890,7 +6673,7 @@
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1354,
+   "count": 1613,
    "error": null
   }
  ],
