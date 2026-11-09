@@ -1,66 +1,6 @@
 {
- "generated": "2026-11-08",
+ "generated": "2026-11-09",
  "jobs": [
-  {
-   "id": "88229f18bc03",
-   "company": "Ernst & Young Aktiebolag",
-   "title": "Juniora Treasuryspecialister Advisory | Assurance | Stockholm",
-   "type": "Junior",
-   "areas": [
-    "Audit",
-    "Finance"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": null,
-   "deadline": "2026-11-08",
-   "posted": "2026-10-06",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://eyglobal.yello.co/jobs/-xm1OKAJ-fZGq6KwIHANNw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31561259",
-   "source": "jobtech"
-  },
-  {
-   "id": "5370dcc44e0b",
-   "company": "Grant Thornton Sweden",
-   "title": "Junior redovisningskonsult | Stockholm",
-   "type": "Junior",
-   "areas": [
-    "Consulting",
-    "Finance"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Jan 2027",
-   "deadline": "2026-11-08",
-   "posted": "2026-10-15",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://karriar.grantthornton.se/jobs/8552566-junior-redovisningskonsult-stockholm",
-   "ad_url": "https://karriar.grantthornton.se/jobs/8552566-junior-redovisningskonsult-stockholm",
-   "source": "teamtailor"
-  },
-  {
-   "id": "851b463aa35f",
-   "company": "Grant Thornton Sweden",
-   "title": "Junior redovisningskonsult | Malmö",
-   "type": "Junior",
-   "areas": [
-    "Consulting",
-    "Finance"
-   ],
-   "cities": [
-    "Malmö"
-   ],
-   "period": "Start Jan 2027",
-   "deadline": "2026-11-08",
-   "posted": "2026-10-12",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://karriar.grantthornton.se/jobs/8532198-junior-redovisningskonsult-malmo",
-   "ad_url": "https://karriar.grantthornton.se/jobs/8532198-junior-redovisningskonsult-malmo",
-   "source": "teamtailor"
-  },
   {
    "id": "5f2cf4aba156",
    "company": "Ernst & Young Aktiebolag",
@@ -732,6 +672,25 @@
    "source": "teamtailor"
   },
   {
+   "id": "9dc3f86f0ac1",
+   "company": "StudentConsulting Sweden AB (publ)",
+   "title": "Junior Controller till stort bolag i Solna!",
+   "type": "Junior",
+   "areas": [
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": "2026-12-13",
+   "posted": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "apply_url": "https://www.studentconsulting.com/sv/lediga-jobb/solna/junior-controller-till-stort-bolag-i-solna/88120",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31702302",
+   "source": "jobtech"
+  },
+  {
    "id": "49e035f5b5f8",
    "company": "Oliver Wyman",
    "title": "Oliver Wyman - Summer Internship 2027 - London",
@@ -906,6 +865,25 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4475668003/",
    "ad_url": "https://www.linkedin.com/jobs/view/4475668003/",
    "source": "linkedin"
+  },
+  {
+   "id": "82689d3ff401",
+   "company": "ABB",
+   "title": "Strategy & Business Development Intern f/m/d (80-100%)",
+   "type": "Internship",
+   "areas": [
+    "Strategy"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "apply_url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Baden-Aargau-Switzerland/Strategy---Business-Development-Intern-f-m-d--80-100--_JR00051077/apply",
+   "ad_url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Baden-Aargau-Switzerland/Strategy---Business-Development-Intern-f-m-d--80-100--_JR00051077",
+   "source": "workday"
   },
   {
    "id": "83e1326ddd87",
@@ -1544,6 +1522,26 @@
    "source": "workday"
   },
   {
+   "id": "c2941426b1e0",
+   "company": "Alantra",
+   "title": "H2 2027 Corporate Finance/M&A Intern- Zurich (German-speaking role)",
+   "type": "Internship",
+   "areas": [
+    "M&A",
+    "Finance"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": "2027",
+   "deadline": null,
+   "posted": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "apply_url": "https://alantra.wd3.myworkdayjobs.com/alantra/job/Switzerland---Zrich/H2-Corporate-Finance-M-A-Intern--Zurich--German-speaking-role-_JR504/apply",
+   "ad_url": "https://alantra.wd3.myworkdayjobs.com/alantra/job/Switzerland---Zrich/H2-Corporate-Finance-M-A-Intern--Zurich--German-speaking-role-_JR504",
+   "source": "workday"
+  },
+  {
    "id": "a139b77d4a20",
    "company": "Alantra",
    "title": "Investment Banking, M&A Junior Analyst (Frankfurt, Germany)",
@@ -1673,44 +1671,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Zurich/Investor-Relations-Intern---January-2027-I-Zurich_JR1002219/apply",
    "ad_url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Zurich/Investor-Relations-Intern---January-2027-I-Zurich_JR1002219",
-   "source": "workday"
-  },
-  {
-   "id": "8d65d9333ea2",
-   "company": "Ardian",
-   "title": "Buyout Intern - February 2027- Frankfurt (M/F)",
-   "type": "Internship",
-   "areas": [
-    "PE"
-   ],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": "Start Feb 2027",
-   "deadline": null,
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Buyout-Intern---February-2027--Frankfurt--M-F-_JR1002312/apply",
-   "ad_url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Buyout-Intern---February-2027--Frankfurt--M-F-_JR1002312",
-   "source": "workday"
-  },
-  {
-   "id": "707c9a4ace44",
-   "company": "Ardian",
-   "title": "Buyout Intern - June 2027- Frankfurt (M/F)",
-   "type": "Internship",
-   "areas": [
-    "PE"
-   ],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": "Start Jun 2027",
-   "deadline": null,
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Buyout-Intern---June-2027--Frankfurt--M-F-_JR1002314/apply",
-   "ad_url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Buyout-Intern---June-2027--Frankfurt--M-F-_JR1002314",
    "source": "workday"
   },
   {
@@ -2876,6 +2836,44 @@
    "source": "workday"
   },
   {
+   "id": "6405d48e4bfc",
+   "company": "Citi",
+   "title": "Technology - Application Development, Summer Analyst, United Kingdom - London, 2027",
+   "type": "Internship",
+   "areas": [
+    "IB"
+   ],
+   "cities": [
+    "London"
+   ],
+   "period": "Summer 2027",
+   "deadline": null,
+   "posted": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Summer-Analyst--United-Kingdom---London--2027_261007037/apply",
+   "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Summer-Analyst--United-Kingdom---London--2027_261007037",
+   "source": "workday"
+  },
+  {
+   "id": "a69fe6bfee2b",
+   "company": "Citi",
+   "title": "Technology, Application Development, Full-Time Analyst, United Kingdom - London, 2027 (2026 Summer Intern Converts Only)",
+   "type": "Internship",
+   "areas": [
+    "IB"
+   ],
+   "cities": [
+    "London"
+   ],
+   "period": "Summer 2026",
+   "deadline": null,
+   "posted": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology--Application-Development--Full-Time-Analyst--United-Kingdom---London--2027--2026-Summer-Intern-Converts-Only-_261006358/apply",
+   "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology--Application-Development--Full-Time-Analyst--United-Kingdom---London--2027--2026-Summer-Intern-Converts-Only-_261006358",
+   "source": "workday"
+  },
+  {
    "id": "227479614e12",
    "company": "Citi",
    "title": "Banking, Investment Banking, Full Time Analyst, London – United Kingdom 2027 - (Applicable for 2026 Citi Summer interns only)",
@@ -2933,25 +2931,6 @@
    "source": "workday"
   },
   {
-   "id": "eb1052c6c691",
-   "company": "Citi",
-   "title": "Banking - Investment Banking, Placement Analyst, Stockholm - Sweden, 2027 - January and July Intake",
-   "type": "Internship",
-   "areas": [
-    "IB"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-09-10",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Stockholm--Sweden/Banking---Investment-Banking--Placement-Analyst--Stockholm---Sweden--2027---January-and-July-Intake_26993463/apply",
-   "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/Stockholm--Sweden/Banking---Investment-Banking--Placement-Analyst--Stockholm---Sweden--2027---January-and-July-Intake_26993463",
-   "source": "workday"
-  },
-  {
    "id": "5d3816a89f1d",
    "company": "Citi",
    "title": "Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027",
@@ -2969,25 +2948,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Financing--Equity-Capital-Markets--Placement-Analyst--London---United-Kingdom-2027_26993441/apply",
    "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Financing--Equity-Capital-Markets--Placement-Analyst--London---United-Kingdom-2027_26993441",
-   "source": "workday"
-  },
-  {
-   "id": "707e8be81a8b",
-   "company": "Citi",
-   "title": "Junior Banker",
-   "type": "Junior",
-   "areas": [
-    "IB"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-03",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Junior-Banker_26995639/apply",
-   "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Junior-Banker_26995639",
    "source": "workday"
   },
   {
@@ -3374,25 +3334,6 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "7ac4a585eea9",
-   "company": "Deloitte Sweden",
-   "title": "Praktikvecka T5 – Lunds Universitet (HT 2026)",
-   "type": "Internship",
-   "areas": [
-    "Audit"
-   ],
-   "cities": [
-    "Malmö"
-   ],
-   "period": "Autumn 2026",
-   "deadline": null,
-   "posted": "2026-10-14",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000155495348",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000155495348",
-   "source": "smartrecruiters"
-  },
-  {
    "id": "e25ee38a5fcf",
    "company": "Deloitte Sweden",
    "title": "Juniora Revisorsassistenter till Audit & Assurance (Göteborg) – Jan 2027",
@@ -3546,25 +3487,6 @@
    "source": "workday"
   },
   {
-   "id": "6d2d3d6806ce",
-   "company": "Deutsche Bank",
-   "title": "Swiss Graduate Programme 2027_Private Bank US&EI",
-   "type": "Graduate",
-   "areas": [
-    "IB"
-   ],
-   "cities": [
-    "Zurich"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-10-08",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://db.wd3.myworkdayjobs.com/DBWebSite/job/Zrich-Prime-Tower/Swiss-Graduate-Programme-2027-Private-Bank-US-EI_R0452541/apply",
-   "ad_url": "https://db.wd3.myworkdayjobs.com/DBWebSite/job/Zrich-Prime-Tower/Swiss-Graduate-Programme-2027-Private-Bank-US-EI_R0452541",
-   "source": "workday"
-  },
-  {
    "id": "7eccdca50257",
    "company": "Deutsche Bank",
    "title": "Swiss Graduate Programme 2027_Private Bank (BLIS)",
@@ -3618,25 +3540,6 @@
    "apply_url": "https://se.indeed.com/viewjob?jk=fa739e06df633fc3",
    "ad_url": "https://se.indeed.com/viewjob?jk=fa739e06df633fc3",
    "source": "indeed"
-  },
-  {
-   "id": "848245338d53",
-   "company": "EQT",
-   "title": "Summer Analyst Programme 2027 – EQT Real Estate",
-   "type": "Internship",
-   "areas": [
-    "PE"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "Jun–Aug 2027",
-   "deadline": null,
-   "posted": "2026-10-28",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://job-boards.eu.greenhouse.io/eqtpartners/jobs/5019561101",
-   "ad_url": "https://job-boards.eu.greenhouse.io/eqtpartners/jobs/5019561101",
-   "source": "greenhouse"
   },
   {
    "id": "574aa6c026c9",
@@ -3857,26 +3760,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542/apply",
    "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542",
-   "source": "workday"
-  },
-  {
-   "id": "3808c7874fd9",
-   "company": "Houlihan Lokey",
-   "title": "3-Month Off-Cycle Internship - Corporate Finance",
-   "type": "Internship",
-   "areas": [
-    "M&A",
-    "Finance"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-27",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Amsterdam-Netherlands/XMLNAME-3-Month-Off-Cycle-Internship---Corporate-Finance_R3560/apply",
-   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Amsterdam-Netherlands/XMLNAME-3-Month-Off-Cycle-Internship---Corporate-Finance_R3560",
    "source": "workday"
   },
   {
@@ -6241,13 +6124,13 @@
   {
    "name": "Citi",
    "ok": true,
-   "count": 40,
+   "count": 38,
    "error": null
   },
   {
    "name": "Bank of America",
    "ok": true,
-   "count": 80,
+   "count": 81,
    "error": null
   },
   {
@@ -6259,7 +6142,7 @@
   {
    "name": "Deutsche Bank",
    "ok": true,
-   "count": 21,
+   "count": 19,
    "error": null
   },
   {
@@ -6283,13 +6166,13 @@
   {
    "name": "Houlihan Lokey",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": null
   },
   {
    "name": "Alantra",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": null
   },
   {
@@ -6307,13 +6190,13 @@
   {
    "name": "SEB",
    "ok": true,
-   "count": 123,
+   "count": 125,
    "error": null
   },
   {
    "name": "Swedbank",
    "ok": true,
-   "count": 59,
+   "count": 56,
    "error": null
   },
   {
@@ -6337,7 +6220,7 @@
   {
    "name": "SBAB",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": null
   },
   {
@@ -6349,13 +6232,13 @@
   {
    "name": "Skandia",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
    "name": "Oliver Wyman",
    "ok": true,
-   "count": 82,
+   "count": 80,
    "error": null
   },
   {
@@ -6367,37 +6250,37 @@
   {
    "name": "Strategy& (PwC)",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": null
   },
   {
    "name": "Accenture (incl. Accenture Strategy, Northstream)",
    "ok": true,
-   "count": 391,
+   "count": 390,
    "error": null
   },
   {
    "name": "Implement Consulting Group",
    "ok": true,
-   "count": 64,
+   "count": 68,
    "error": null
   },
   {
    "name": "PA Consulting",
    "ok": true,
-   "count": 191,
+   "count": 206,
    "error": null
   },
   {
    "name": "BearingPoint",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": null
   },
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 1039,
+   "count": 1026,
    "error": null
   },
   {
@@ -6439,19 +6322,19 @@
   {
    "name": "Deloitte Sweden",
    "ok": true,
-   "count": 134,
+   "count": 130,
    "error": null
   },
   {
    "name": "Grant Thornton Sweden",
    "ok": true,
-   "count": 26,
+   "count": 24,
    "error": null
   },
   {
    "name": "EQT",
    "ok": true,
-   "count": 13,
+   "count": 12,
    "error": null
   },
   {
@@ -6522,15 +6405,15 @@
   },
   {
    "name": "Blackstone",
-   "ok": true,
-   "count": 2,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 401: Unauthorized"
   },
   {
    "name": "Blackstone Campus",
-   "ok": true,
-   "count": 12,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 401: Unauthorized"
   },
   {
    "name": "Carlyle",
@@ -6541,7 +6424,7 @@
   {
    "name": "Ardian",
    "ok": true,
-   "count": 12,
+   "count": 10,
    "error": null
   },
   {
@@ -6565,7 +6448,7 @@
   {
    "name": "ABB",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": null
   },
   {
@@ -6577,7 +6460,7 @@
   {
    "name": "Essity",
    "ok": true,
-   "count": 10,
+   "count": 2,
    "error": null
   },
   {
@@ -6589,13 +6472,13 @@
   {
    "name": "Vattenfall",
    "ok": true,
-   "count": 267,
+   "count": 242,
    "error": null
   },
   {
    "name": "H&M Group",
    "ok": true,
-   "count": 2033,
+   "count": 2029,
    "error": null
   },
   {
@@ -6649,19 +6532,19 @@
   {
    "name": "Procter & Gamble",
    "ok": true,
-   "count": 16,
+   "count": 18,
    "error": null
   },
   {
    "name": "Voi",
    "ok": true,
-   "count": 81,
+   "count": 79,
    "error": null
   },
   {
    "name": "Kry",
    "ok": true,
-   "count": 52,
+   "count": 53,
    "error": null
   },
   {
@@ -6673,7 +6556,7 @@
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1613,
+   "count": 1598,
    "error": null
   }
  ],
