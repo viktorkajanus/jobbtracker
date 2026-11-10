@@ -1,26 +1,6 @@
 {
- "generated": "2026-11-09",
+ "generated": "2026-11-10",
  "jobs": [
-  {
-   "id": "5f2cf4aba156",
-   "company": "Ernst & Young Aktiebolag",
-   "title": "Juniora revisionskonsulter | Assurance | Göteborg",
-   "type": "Junior",
-   "areas": [
-    "Consulting",
-    "Audit"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": "2026-11-09",
-   "posted": "2026-10-27",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://eyglobal.yello.co/jobs/2lGvRDF-PqcS25aZivvyQQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31651520",
-   "source": "jobtech"
-  },
   {
    "id": "929c63c38d7e",
    "company": "HI3G Access AB",
@@ -444,6 +424,25 @@
    "source": "jobtech"
   },
   {
+   "id": "1655feb56139",
+   "company": "Arkatay Consulting AB",
+   "title": "Graduate - Managementkonsult - med inriktning försäljning / marknadsföring",
+   "type": "Graduate",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Malmö"
+   ],
+   "period": null,
+   "deadline": "2026-11-24",
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "apply_url": "https://www.arkatay.se/graduate-managementkonsult-forsaljning-marknad/",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31710093",
+   "source": "jobtech"
+  },
+  {
    "id": "0332cfcecddd",
    "company": "Accenture (incl. Accenture Strategy, Northstream)",
    "title": "Products Working Internship",
@@ -633,6 +632,25 @@
    "source": "workday"
   },
   {
+   "id": "785a0a0ee564",
+   "company": "Sodexo AB",
+   "title": "Junior driftcontroller",
+   "type": "Junior",
+   "areas": [
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": "2026-12-01",
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "apply_url": "https://se.sodexo.com/jobba-hos-oss/lediga-jobb?rmpage=job&rmjob=9250&utm_medium=talentech_publishing&utm_source=jobtip",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31708788",
+   "source": "jobtech"
+  },
+  {
    "id": "7626057904bf",
    "company": "Avanzera AB",
    "title": "Junior ekonomiassistent inom leverantörsreskontra",
@@ -649,6 +667,25 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://jobb.avanzera.se/jobb/1805/annons",
    "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31684041",
+   "source": "jobtech"
+  },
+  {
+   "id": "b2d4367cd8db",
+   "company": "MW Sverige AB",
+   "title": "Trainee inom Försvar och M&A – MW Group söker trainees till augusti 2027",
+   "type": "Graduate",
+   "areas": [
+    "M&A"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": "2026-12-10",
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "apply_url": "https://mwgroup.zerolime.se/ams/?9c05fcca-1750-4aff-8dc6-dfdf7d95acec",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31710080",
    "source": "jobtech"
   },
   {
@@ -922,25 +959,6 @@
    "source": "workday"
   },
   {
-   "id": "3b489e3f515b",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "Health Technology Internship",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-02",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078",
-   "source": "workday"
-  },
-  {
    "id": "1090788f5dc0",
    "company": "Accenture (incl. Accenture Strategy, Northstream)",
    "title": "Thesis Internship - Talent",
@@ -977,45 +995,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Finance-Transformation---Working-Internship_R00336967/apply",
    "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Finance-Transformation---Working-Internship_R00336967",
-   "source": "workday"
-  },
-  {
-   "id": "4e98f3fa56ed",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "Public Services Technology Internship",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-06",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship-2_R00358088/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship-2_R00358088",
-   "source": "workday"
-  },
-  {
-   "id": "907340bb6259",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "Health Strategy & Consulting Internship",
-   "type": "Internship",
-   "areas": [
-    "Consulting",
-    "Strategy"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-12",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Health---Public-Services---Strategy---Consulting-Internship_R00358081/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Health---Public-Services---Strategy---Consulting-Internship_R00358081",
    "source": "workday"
   },
   {
@@ -1092,26 +1071,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Thesis-Internship-AI---Data_R00366919/apply",
    "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Thesis-Internship-AI---Data_R00366919",
-   "source": "workday"
-  },
-  {
-   "id": "8cf590a3bae7",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "Public Services Strategy & Consulting Internship",
-   "type": "Internship",
-   "areas": [
-    "Consulting",
-    "Strategy"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-02",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Health---Public-Services---Strategy---Consulting-Internship-2_R00358098/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Health---Public-Services---Strategy---Consulting-Internship-2_R00358098",
    "source": "workday"
   },
   {
@@ -3045,6 +3004,25 @@
    "source": "linkedin"
   },
   {
+   "id": "5eee863bf67f",
+   "company": "Deloitte Sweden",
+   "title": "Junior Consultant till Monitor Deloitte (Stockholm) - Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000160863363",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000160863363",
+   "source": "smartrecruiters"
+  },
+  {
    "id": "c7cd42ca56e5",
    "company": "Deloitte Sweden",
    "title": "Juniora Analysts till Deloitte Digital (Stockholm) - Jan 2027",
@@ -3216,25 +3194,6 @@
    "first_seen": "2026-11-08",
    "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156878486",
    "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156878486",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "d18f3b012381",
-   "company": "Deloitte Sweden",
-   "title": "Junior Consultant till Monitor Deloitte (Stockholm) - Aug 2027",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": null,
-   "posted": "2026-10-21",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156812835",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156812835",
    "source": "smartrecruiters"
   },
   {
@@ -3635,25 +3594,6 @@
    "source": "teamtailor"
   },
   {
-   "id": "beb2acb4712b",
-   "company": "Grant Thornton Sweden",
-   "title": "Junior revisor | Stockholm | September 2027",
-   "type": "Junior",
-   "areas": [
-    "Audit"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Sep 2027",
-   "deadline": null,
-   "posted": "2026-08-26",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://karriar.grantthornton.se/jobs/8272538-junior-revisor-stockholm-september-2027",
-   "ad_url": "https://karriar.grantthornton.se/jobs/8272538-junior-revisor-stockholm-september-2027",
-   "source": "teamtailor"
-  },
-  {
    "id": "b0d285d07f8c",
    "company": "Grant Thornton Sweden",
    "title": "Associate | Transaction Advisory Services",
@@ -3671,25 +3611,6 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4485117230/",
    "ad_url": "https://www.linkedin.com/jobs/view/4485117230/",
    "source": "linkedin"
-  },
-  {
-   "id": "e8cc036f7d02",
-   "company": "H&M Group",
-   "title": "Junior Buyer - Womenswear",
-   "type": "Junior",
-   "areas": [
-    "Supply chain"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-03",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/HMGroup/744000159457059",
-   "ad_url": "https://jobs.smartrecruiters.com/HMGroup/744000159457059",
-   "source": "smartrecruiters"
   },
   {
    "id": "a156cd0fa06a",
@@ -4618,25 +4539,6 @@
    "source": "workday"
   },
   {
-   "id": "06101472a69c",
-   "company": "Oliver Wyman",
-   "title": "Junior Broker / Technical Assistant - Space Insurance Broking Team",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-27",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Tower-Place-East/Technical-Assistant---Space-Insurance-Broking-Team_R_368677/apply",
-   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Tower-Place-East/Technical-Assistant---Space-Insurance-Broking-Team_R_368677",
-   "source": "workday"
-  },
-  {
    "id": "ccd5f88f75bb",
    "company": "Oliver Wyman",
    "title": "(Junior) Mathematiker:in / Aktuar:in / Physiker:in*– Betriebliche Altersvorsorge - In Voll- oder Teilzeit",
@@ -4808,6 +4710,25 @@
    "source": "workday"
   },
   {
+   "id": "dce8e9ee2cdb",
+   "company": "PA Consulting",
+   "title": "2027 Industrial Placement - Consulting (Delivery) - London",
+   "type": "Internship",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "London"
+   ],
+   "period": "2027",
+   "deadline": null,
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000160851394",
+   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000160851394",
+   "source": "smartrecruiters"
+  },
+  {
    "id": "eeb0dab1b5a9",
    "company": "PA Consulting",
    "title": "Junior Consultants (student) within Business, Strategy & Public – start February 2027",
@@ -4847,26 +4768,6 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "b1a309afca44",
-   "company": "PA Consulting",
-   "title": "2027 Industrial Placement - Consulting (Strategy & Economics) - London",
-   "type": "Internship",
-   "areas": [
-    "Consulting",
-    "Strategy"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000157427508",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000157427508",
-   "source": "smartrecruiters"
-  },
-  {
    "id": "b27bff7ce58f",
    "company": "PA Consulting",
    "title": "2027 Industrial Placement - Consulting (Agile) - London",
@@ -4902,25 +4803,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000157424874",
    "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000157424874",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "b1b60f8adfd6",
-   "company": "PA Consulting",
-   "title": "2027 Industrial Placement - Consulting (Delivery) - London",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000157399384",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000157399384",
    "source": "smartrecruiters"
   },
   {
@@ -5172,25 +5054,6 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4487229910/",
    "ad_url": "https://www.linkedin.com/jobs/view/4487229910/",
    "source": "linkedin"
-  },
-  {
-   "id": "193cfbcf069c",
-   "company": "Ramboll Management Consulting",
-   "title": "Nature Positive Graduate Consultant 2027",
-   "type": "Graduate",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-11-02",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/Ramboll3/744000159176339",
-   "ad_url": "https://jobs.smartrecruiters.com/Ramboll3/744000159176339",
-   "source": "smartrecruiters"
   },
   {
    "id": "8a7a3a5c9541",
@@ -5457,6 +5320,44 @@
    "apply_url": "https://jobs.smartrecruiters.com/rolandberger/744000045166998",
    "ad_url": "https://jobs.smartrecruiters.com/rolandberger/744000045166998",
    "source": "smartrecruiters"
+  },
+  {
+   "id": "b754b7aee1b3",
+   "company": "Rothschild & Co",
+   "title": "Intern Business Development (12 months)",
+   "type": "Internship",
+   "areas": [
+    "Strategy"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "apply_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/Zurich/Intern-Business-Development--12-months-_JR016682/apply",
+   "ad_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/Zurich/Intern-Business-Development--12-months-_JR016682",
+   "source": "workday"
+  },
+  {
+   "id": "82753ce3ee3a",
+   "company": "Rothschild & Co",
+   "title": "Client Service Executive (Graduate / Entry Level)",
+   "type": "Graduate",
+   "areas": [
+    "M&A"
+   ],
+   "cities": [
+    "London"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-09",
+   "first_seen": "2026-11-10",
+   "apply_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/London/Client-Service-Executive--Graduate---Entry-Level-_JR016677/apply",
+   "ad_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/London/Client-Service-Executive--Graduate---Entry-Level-_JR016677",
+   "source": "workday"
   },
   {
    "id": "4aa940cbd8ba",
@@ -6124,13 +6025,13 @@
   {
    "name": "Citi",
    "ok": true,
-   "count": 38,
+   "count": 37,
    "error": null
   },
   {
    "name": "Bank of America",
    "ok": true,
-   "count": 81,
+   "count": 75,
    "error": null
   },
   {
@@ -6148,7 +6049,7 @@
   {
    "name": "Rothschild & Co",
    "ok": true,
-   "count": 2,
+   "count": 4,
    "error": null
   },
   {
@@ -6190,13 +6091,13 @@
   {
    "name": "SEB",
    "ok": true,
-   "count": 125,
+   "count": 132,
    "error": null
   },
   {
    "name": "Swedbank",
    "ok": true,
-   "count": 56,
+   "count": 58,
    "error": null
   },
   {
@@ -6214,7 +6115,7 @@
   {
    "name": "Nordnet",
    "ok": true,
-   "count": 18,
+   "count": 15,
    "error": null
   },
   {
@@ -6232,43 +6133,43 @@
   {
    "name": "Skandia",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": null
   },
   {
    "name": "Oliver Wyman",
    "ok": true,
-   "count": 80,
+   "count": 77,
    "error": null
   },
   {
    "name": "Roland Berger",
    "ok": true,
-   "count": 205,
+   "count": 206,
    "error": null
   },
   {
    "name": "Strategy& (PwC)",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": null
   },
   {
    "name": "Accenture (incl. Accenture Strategy, Northstream)",
    "ok": true,
-   "count": 390,
+   "count": 376,
    "error": null
   },
   {
    "name": "Implement Consulting Group",
    "ok": true,
-   "count": 68,
+   "count": 67,
    "error": null
   },
   {
    "name": "PA Consulting",
    "ok": true,
-   "count": 206,
+   "count": 207,
    "error": null
   },
   {
@@ -6280,7 +6181,7 @@
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 1026,
+   "count": 998,
    "error": null
   },
   {
@@ -6322,19 +6223,19 @@
   {
    "name": "Deloitte Sweden",
    "ok": true,
-   "count": 130,
+   "count": 127,
    "error": null
   },
   {
    "name": "Grant Thornton Sweden",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "error": null
   },
   {
    "name": "EQT",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": null
   },
   {
@@ -6382,7 +6283,7 @@
   {
    "name": "Investment AB Latour",
    "ok": true,
-   "count": 70,
+   "count": 69,
    "error": null
   },
   {
@@ -6400,20 +6301,20 @@
   {
    "name": "Indutrade",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": null
   },
   {
    "name": "Blackstone",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 401: Unauthorized"
+   "ok": true,
+   "count": 1,
+   "error": null
   },
   {
    "name": "Blackstone Campus",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 401: Unauthorized"
+   "ok": true,
+   "count": 12,
+   "error": null
   },
   {
    "name": "Carlyle",
@@ -6430,7 +6331,7 @@
   {
    "name": "Polestar",
    "ok": true,
-   "count": 13,
+   "count": 12,
    "error": null
   },
   {
@@ -6472,19 +6373,19 @@
   {
    "name": "Vattenfall",
    "ok": true,
-   "count": 242,
+   "count": 247,
    "error": null
   },
   {
    "name": "H&M Group",
    "ok": true,
-   "count": 2029,
+   "count": 2035,
    "error": null
   },
   {
    "name": "Spotify",
    "ok": true,
-   "count": 85,
+   "count": 86,
    "error": null
   },
   {
@@ -6508,7 +6409,7 @@
   {
    "name": "Maersk",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": null
   },
   {
@@ -6520,7 +6421,7 @@
   {
    "name": "AstraZeneca",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": null
   },
   {
@@ -6532,13 +6433,13 @@
   {
    "name": "Procter & Gamble",
    "ok": true,
-   "count": 18,
+   "count": 17,
    "error": null
   },
   {
    "name": "Voi",
    "ok": true,
-   "count": 79,
+   "count": 80,
    "error": null
   },
   {
@@ -6550,13 +6451,13 @@
   {
    "name": "Trustly",
    "ok": true,
-   "count": 44,
+   "count": 45,
    "error": null
   },
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1598,
+   "count": 1602,
    "error": null
   }
  ],
