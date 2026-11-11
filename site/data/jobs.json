@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10",
+ "generated": "2026-11-11",
  "jobs": [
   {
    "id": "929c63c38d7e",
@@ -728,6 +728,44 @@
    "source": "jobtech"
   },
   {
+   "id": "e7028490a2c3",
+   "company": "Friday Väst AB",
+   "title": "Junior Projektkoordinator inom Inköp & Supply Chain",
+   "type": "Junior",
+   "areas": [
+    "Supply chain"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-11",
+   "apply_url": "https://pnty-apply.ponty-system.se/friday?id=5394&pnty_src=platsbanken",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31712250",
+   "source": "jobtech"
+  },
+  {
+   "id": "84c3e6a3171f",
+   "company": "OIO Väst AB",
+   "title": "Junior Finance Analyst till internationellt bolag i Uppsala!",
+   "type": "Junior",
+   "areas": [
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": "2026-12-31",
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-11",
+   "apply_url": "https://pnty-apply.ponty-system.se/oio?id=1421&pnty_src=platsbanken",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31712715",
+   "source": "jobtech"
+  },
+  {
    "id": "49e035f5b5f8",
    "company": "Oliver Wyman",
    "title": "Oliver Wyman - Summer Internship 2027 - London",
@@ -801,6 +839,63 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://edgeoftalent.teamtailor.com/jobs/8652498-junior-applikationsspecialist-inom-dynamics-365-finance-operations/applications/new?promotion=2276558-arbetsformedlingen",
    "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31675139",
+   "source": "jobtech"
+  },
+  {
+   "id": "4497497647c5",
+   "company": "Academic Work Sweden AB",
+   "title": "Kort uppdrag: Junior Supply Chain Specialist till internationellt företag",
+   "type": "Junior",
+   "areas": [
+    "Supply chain"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": "2027-05-09",
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-11",
+   "apply_url": "https://www.academicwork.se/lediga-jobb/p/platsbanken/7SSC92",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31712664",
+   "source": "jobtech"
+  },
+  {
+   "id": "c08a786535b3",
+   "company": "Poolia AB",
+   "title": "Junior Associate Procurement Project Leader -  Solna",
+   "type": "Junior",
+   "areas": [
+    "Supply chain"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Dec 2026",
+   "deadline": "2027-05-09",
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-11",
+   "apply_url": "https://karriar.poolia.se/jobs/8698916-junior-associate-procurement-project-leader-solna/applications/new?promotion=2289917-arbetsformedlingen",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31711747",
+   "source": "jobtech"
+  },
+  {
+   "id": "9dfdc06b4652",
+   "company": "The Place AB",
+   "title": "Junior ekonomiassistent",
+   "type": "Junior",
+   "areas": [
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": "2027-05-10",
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "apply_url": "https://jobb.theplace.se/jobs/8695585-junior-ekonomiassistent/applications/new?promotion=2291135-arbetsformedlingen",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31714971",
    "source": "jobtech"
   },
   {
@@ -2127,6 +2222,26 @@
    "source": "linkedin"
   },
   {
+   "id": "6cfe4348979c",
+   "company": "Blackstone Campus",
+   "title": "2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)",
+   "type": "Internship",
+   "areas": [
+    "IB",
+    "Strategy"
+   ],
+   "cities": [
+    "London"
+   ],
+   "period": "Summer 2027",
+   "deadline": null,
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-07",
+   "apply_url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199/apply",
+   "ad_url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
+   "source": "workday"
+  },
+  {
    "id": "e8ae10f97e70",
    "company": "Blackstone Campus",
    "title": "2027 Blackstone Strategic Partners Off Cycle Intern (London)",
@@ -2162,26 +2277,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Private-Equity-Off-Cycle-Internship_45106/apply",
    "ad_url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Private-Equity-Off-Cycle-Internship_45106",
-   "source": "workday"
-  },
-  {
-   "id": "6cfe4348979c",
-   "company": "Blackstone Campus",
-   "title": "2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)",
-   "type": "Internship",
-   "areas": [
-    "IB",
-    "Strategy"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "Summer 2027",
-   "deadline": null,
-   "posted": "2026-07-13",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199/apply",
-   "ad_url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
    "source": "workday"
   },
   {
@@ -2887,6 +2982,25 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Copenhagen--Denmark/Banking--Corporate-Banking--Placement-Analyst--Copenhagen---Denmark--2027---January-Start_26993494/apply",
    "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/Copenhagen--Denmark/Banking--Corporate-Banking--Placement-Analyst--Copenhagen---Denmark--2027---January-Start_26993494",
+   "source": "workday"
+  },
+  {
+   "id": "eb1052c6c691",
+   "company": "Citi",
+   "title": "Banking - Investment Banking, Placement Analyst, Stockholm - Sweden, 2027 - January and July Intake",
+   "type": "Internship",
+   "areas": [
+    "IB"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "2027",
+   "deadline": null,
+   "posted": "2026-09-10",
+   "first_seen": "2026-11-11",
+   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Stockholm--Sweden/Banking---Investment-Banking--Placement-Analyst--Stockholm---Sweden--2027---January-and-July-Intake_26993463/apply",
+   "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/Stockholm--Sweden/Banking---Investment-Banking--Placement-Analyst--Stockholm---Sweden--2027---January-and-July-Intake_26993463",
    "source": "workday"
   },
   {
@@ -4406,6 +4520,25 @@
    "source": "workday"
   },
   {
+   "id": "e68d6d05edb4",
+   "company": "Oliver Wyman",
+   "title": "OLIVER WYMAN - INTERN CONSULTANT – 2027  – NETHERLANDS",
+   "type": "Internship",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Amsterdam"
+   ],
+   "period": "2027",
+   "deadline": null,
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Amsterdam---Strawinskylaan-410/OLIVER-WYMAN---INTERN-CONSULTANT---2027----NETHERLANDS_R_371974/apply",
+   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Amsterdam---Strawinskylaan-410/OLIVER-WYMAN---INTERN-CONSULTANT---2027----NETHERLANDS_R_371974",
+   "source": "workday"
+  },
+  {
    "id": "3af2b997b96d",
    "company": "Oliver Wyman",
    "title": "Oliver Wyman - Data & Analytics Intern Analyst -  Amsterdam",
@@ -4710,6 +4843,45 @@
    "source": "workday"
   },
   {
+   "id": "b0ca2682e6f1",
+   "company": "PA Consulting",
+   "title": "2027 Industrial Placement - Consulting (Business Design & Transformation) - London",
+   "type": "Internship",
+   "areas": [
+    "Consulting",
+    "Strategy"
+   ],
+   "cities": [
+    "London"
+   ],
+   "period": "2027",
+   "deadline": null,
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-11",
+   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000160874149",
+   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000160874149",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "f964029617b5",
+   "company": "PA Consulting",
+   "title": "2027 Industrial Placement - Consulting (Operations & Improvement) - London",
+   "type": "Internship",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "London"
+   ],
+   "period": "2027",
+   "deadline": null,
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-11",
+   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000160869956",
+   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000160869956",
+   "source": "smartrecruiters"
+  },
+  {
    "id": "dce8e9ee2cdb",
    "company": "PA Consulting",
    "title": "2027 Industrial Placement - Consulting (Delivery) - London",
@@ -4784,64 +4956,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000157427258",
    "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000157427258",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "cdec2e6e37b9",
-   "company": "PA Consulting",
-   "title": "2027 Industrial Placement - Consulting (Operations & Improvement) - London",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000157424874",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000157424874",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "225ed498de60",
-   "company": "PA Consulting",
-   "title": "2027 Graduate - Market & Consumer Insights - London",
-   "type": "Graduate",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-10-22",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000157050816",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000157050816",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "4e3a73a3a677",
-   "company": "PA Consulting",
-   "title": "2027 Industrial Placement - Consulting (Business Design & Transformation) - London",
-   "type": "Internship",
-   "areas": [
-    "Consulting",
-    "Strategy"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-10-22",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000157052305",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000157052305",
    "source": "smartrecruiters"
   },
   {
@@ -5341,25 +5455,6 @@
    "source": "workday"
   },
   {
-   "id": "82753ce3ee3a",
-   "company": "Rothschild & Co",
-   "title": "Client Service Executive (Graduate / Entry Level)",
-   "type": "Graduate",
-   "areas": [
-    "M&A"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-09",
-   "first_seen": "2026-11-10",
-   "apply_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/London/Client-Service-Executive--Graduate---Entry-Level-_JR016677/apply",
-   "ad_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/London/Client-Service-Executive--Graduate---Entry-Level-_JR016677",
-   "source": "workday"
-  },
-  {
    "id": "4aa940cbd8ba",
    "company": "Rothschild & Co",
    "title": "PWA Trainee",
@@ -5622,6 +5717,25 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4488002842/",
    "ad_url": "https://www.linkedin.com/jobs/view/4488002842/",
    "source": "linkedin"
+  },
+  {
+   "id": "187330fd5210",
+   "company": "Strategy& (PwC)",
+   "title": "Werkstudent:in im Bereich Compliance OGC",
+   "type": "Internship",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "apply_url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Zrich/Werkstudent-in-im-Bereich-Compliance-OGC_769606WD/apply",
+   "ad_url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Zrich/Werkstudent-in-im-Bereich-Compliance-OGC_769606WD",
+   "source": "workday"
   },
   {
    "id": "ba57ff16c258",
@@ -6031,7 +6145,7 @@
   {
    "name": "Bank of America",
    "ok": true,
-   "count": 75,
+   "count": 71,
    "error": null
   },
   {
@@ -6061,7 +6175,7 @@
   {
    "name": "PJT Partners",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": null
   },
   {
@@ -6091,7 +6205,7 @@
   {
    "name": "SEB",
    "ok": true,
-   "count": 132,
+   "count": 131,
    "error": null
   },
   {
@@ -6115,13 +6229,13 @@
   {
    "name": "Nordnet",
    "ok": true,
-   "count": 15,
+   "count": 13,
    "error": null
   },
   {
    "name": "SBAB",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": null
   },
   {
@@ -6133,25 +6247,25 @@
   {
    "name": "Skandia",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": null
   },
   {
    "name": "Oliver Wyman",
    "ok": true,
-   "count": 77,
+   "count": 79,
    "error": null
   },
   {
    "name": "Roland Berger",
    "ok": true,
-   "count": 206,
+   "count": 210,
    "error": null
   },
   {
    "name": "Strategy& (PwC)",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": null
   },
   {
@@ -6181,7 +6295,7 @@
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 998,
+   "count": 1040,
    "error": null
   },
   {
@@ -6205,7 +6319,7 @@
   {
    "name": "Optilon",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": null
   },
   {
@@ -6223,7 +6337,7 @@
   {
    "name": "Deloitte Sweden",
    "ok": true,
-   "count": 127,
+   "count": 126,
    "error": null
   },
   {
@@ -6283,7 +6397,7 @@
   {
    "name": "Investment AB Latour",
    "ok": true,
-   "count": 69,
+   "count": 70,
    "error": null
   },
   {
@@ -6331,7 +6445,7 @@
   {
    "name": "Polestar",
    "ok": true,
-   "count": 12,
+   "count": 15,
    "error": null
   },
   {
@@ -6349,13 +6463,13 @@
   {
    "name": "ABB",
    "ok": true,
-   "count": 14,
+   "count": 17,
    "error": null
   },
   {
    "name": "Sandvik",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": null
   },
   {
@@ -6373,7 +6487,7 @@
   {
    "name": "Vattenfall",
    "ok": true,
-   "count": 247,
+   "count": 250,
    "error": null
   },
   {
@@ -6385,13 +6499,13 @@
   {
    "name": "Spotify",
    "ok": true,
-   "count": 86,
+   "count": 85,
    "error": null
   },
   {
    "name": "Stegra",
    "ok": true,
-   "count": 25,
+   "count": 23,
    "error": null
   },
   {
@@ -6415,7 +6529,7 @@
   {
    "name": "Equinor",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": null
   },
   {
@@ -6433,13 +6547,13 @@
   {
    "name": "Procter & Gamble",
    "ok": true,
-   "count": 17,
+   "count": 16,
    "error": null
   },
   {
    "name": "Voi",
    "ok": true,
-   "count": 80,
+   "count": 82,
    "error": null
   },
   {
@@ -6451,13 +6565,13 @@
   {
    "name": "Trustly",
    "ok": true,
-   "count": 45,
+   "count": 43,
    "error": null
   },
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1602,
+   "count": 1681,
    "error": null
   }
  ],
