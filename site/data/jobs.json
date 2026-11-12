@@ -1,26 +1,6 @@
 {
- "generated": "2026-11-11",
+ "generated": "2026-11-12",
  "jobs": [
-  {
-   "id": "929c63c38d7e",
-   "company": "HI3G Access AB",
-   "title": "Management-trainee till 3Talent",
-   "type": "Graduate",
-   "areas": [
-    "Strategy",
-    "Finance"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Sep 2027",
-   "deadline": "2026-11-11",
-   "posted": "2026-10-21",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://easyapply.jobs/r/mKlHglm27tqWkm1iuJA1",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31624031",
-   "source": "jobtech"
-  },
   {
    "id": "3cc2b10c013d",
    "company": "Ericsson AB",
@@ -1977,25 +1957,6 @@
    "source": "workday"
   },
   {
-   "id": "0bf1496fd154",
-   "company": "Barclays",
-   "title": "Investing and Lending Off Cycle Internship Programme 2027 Frankfurt",
-   "type": "Internship",
-   "areas": [
-    "IB"
-   ],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-09-01",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Frankfurt-Taunus-Turm/Investing-and-Lending-Off-Cycle-Internship-Programme-2027-Frankfurt_JR-0000124708/apply",
-   "ad_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Frankfurt-Taunus-Turm/Investing-and-Lending-Off-Cycle-Internship-Programme-2027-Frankfurt_JR-0000124708",
-   "source": "workday"
-  },
-  {
    "id": "ed8f59f7cbc8",
    "company": "Barclays",
    "title": "International Corporate Banking Off Cycle Internship Programme 2027 Frankfurt",
@@ -3004,6 +2965,25 @@
    "source": "workday"
   },
   {
+   "id": "957e34debe5a",
+   "company": "Citi",
+   "title": "Corporate Banking Analyst - ZURICH",
+   "type": "Junior",
+   "areas": [
+    "IB"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-12",
+   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Zurich--Switzerland/Corporate-Banking-Analyst---ZURICH_261002332-1/apply",
+   "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/Zurich--Switzerland/Corporate-Banking-Analyst---ZURICH_261002332-1",
+   "source": "workday"
+  },
+  {
    "id": "5d3816a89f1d",
    "company": "Citi",
    "title": "Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027",
@@ -3503,6 +3483,25 @@
    "source": "smartrecruiters"
   },
   {
+   "id": "9388c41b20a5",
+   "company": "Deutsche Bank",
+   "title": "BeNeLux Seasonal 2027 Interns",
+   "type": "Internship",
+   "areas": [
+    "IB"
+   ],
+   "cities": [
+    "Amsterdam"
+   ],
+   "period": "2027",
+   "deadline": null,
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-12",
+   "apply_url": "https://db.wd3.myworkdayjobs.com/DBWebSite/job/Amsterdam/BeNeLux-Seasonal-2027-Interns_R0453350/apply",
+   "ad_url": "https://db.wd3.myworkdayjobs.com/DBWebSite/job/Amsterdam/BeNeLux-Seasonal-2027-Interns_R0453350",
+   "source": "workday"
+  },
+  {
    "id": "33d95ac349b2",
    "company": "Deutsche Bank",
    "title": "Wealth Management Intern – Relationship Management (f/m/x)",
@@ -3576,6 +3575,25 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://db.wd3.myworkdayjobs.com/DBWebSite/job/Zrich-Prime-Tower/Swiss-Graduate-Programme-2027-Private-Bank--BLIS-_R0450493/apply",
    "ad_url": "https://db.wd3.myworkdayjobs.com/DBWebSite/job/Zrich-Prime-Tower/Swiss-Graduate-Programme-2027-Private-Bank--BLIS-_R0450493",
+   "source": "workday"
+  },
+  {
+   "id": "4df840c6ba12",
+   "company": "Deutsche Bank",
+   "title": "Switzerland IBCM Graduate 2027 (f/m/x)",
+   "type": "Graduate",
+   "areas": [
+    "IB"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": "2027",
+   "deadline": null,
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-12",
+   "apply_url": "https://db.wd3.myworkdayjobs.com/DBWebSite/job/Zrich-Uraniastrasse-9/Switzerland-IBCM-Graduate-2027--f-m-x-_R0449975/apply",
+   "ad_url": "https://db.wd3.myworkdayjobs.com/DBWebSite/job/Zrich-Uraniastrasse-9/Switzerland-IBCM-Graduate-2027--f-m-x-_R0449975",
    "source": "workday"
   },
   {
@@ -3727,24 +3745,7 @@
    "source": "linkedin"
   },
   {
-   "id": "a156cd0fa06a",
-   "company": "H&M Group",
-   "title": "Store Manager Trainee – Amsterdam (38 uur)",
-   "type": "Graduate",
-   "areas": [],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-30",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/HMGroup/744000158701700",
-   "ad_url": "https://jobs.smartrecruiters.com/HMGroup/744000158701700",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "68d993a62563",
+   "id": "953ceb2d32e9",
    "company": "H&M Group",
    "title": "Department Manager Trainee – Amsterdam (35 uur)",
    "type": "Graduate",
@@ -3754,10 +3755,27 @@
    ],
    "period": null,
    "deadline": null,
-   "posted": "2026-10-22",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/HMGroup/744000157062979",
-   "ad_url": "https://jobs.smartrecruiters.com/HMGroup/744000157062979",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-12",
+   "apply_url": "https://jobs.smartrecruiters.com/HMGroup/744000161286481",
+   "ad_url": "https://jobs.smartrecruiters.com/HMGroup/744000161286481",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "eecb00b9471d",
+   "company": "H&M Group",
+   "title": "Store Manager Trainee – Amsterdam (38 uur)",
+   "type": "Graduate",
+   "areas": [],
+   "cities": [
+    "Amsterdam"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-12",
+   "apply_url": "https://jobs.smartrecruiters.com/HMGroup/744000161268139",
+   "ad_url": "https://jobs.smartrecruiters.com/HMGroup/744000161268139",
    "source": "smartrecruiters"
   },
   {
@@ -4317,25 +4335,6 @@
    "source": "teamtailor"
   },
   {
-   "id": "fef6f44cb2f8",
-   "company": "Nordic Capital",
-   "title": "Internship London - Spring 2027",
-   "type": "Internship",
-   "areas": [
-    "PE"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "Spring 2027",
-   "deadline": null,
-   "posted": "2026-10-22",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://career.nordiccapital.com/jobs/8588267-internship-london-spring-2027",
-   "ad_url": "https://career.nordiccapital.com/jobs/8588267-internship-london-spring-2027",
-   "source": "teamtailor"
-  },
-  {
    "id": "879ecf30e532",
    "company": "Nordic Capital",
    "title": "Copenhagen - Private Equity Internship 2027",
@@ -4798,7 +4797,7 @@
    ],
    "period": null,
    "deadline": null,
-   "posted": "2026-10-15",
+   "posted": "2026-11-12",
    "first_seen": "2026-11-07",
    "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Frankfurt---Einheit-1/Praktikant-in-Corporate-Governance-Advisory--m-w-d-_R_337288-1/apply",
    "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Frankfurt---Einheit-1/Praktikant-in-Corporate-Governance-Advisory--m-w-d-_R_337288-1",
@@ -5170,79 +5169,22 @@
    "source": "linkedin"
   },
   {
-   "id": "8a7a3a5c9541",
+   "id": "bc9b3ce6e2dd",
    "company": "Ramboll Management Consulting",
-   "title": "Graduate Project Manager (Buildings) 2027",
-   "type": "Graduate",
+   "title": "We are looking for Visual Artist interns for our studio",
+   "type": "Internship",
    "areas": [
     "Consulting"
    ],
    "cities": [
-    "London"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157473995",
-   "ad_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157473995",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "2dcac0fb64b8",
-   "company": "Ramboll Management Consulting",
-   "title": "Juniorkonsult inom elkraftsystem",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Malmö"
+    "Copenhagen"
    ],
    "period": null,
    "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157436639",
-   "ad_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157436639",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "42e0b083e992",
-   "company": "Ramboll Management Consulting",
-   "title": "Juniorkonsult inom elkraftsystem",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157434990",
-   "ad_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157434990",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "8010cef02b79",
-   "company": "Ramboll Management Consulting",
-   "title": "Juniorkonsult inom elkraftsystem",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157436339",
-   "ad_url": "https://jobs.smartrecruiters.com/Ramboll3/744000157436339",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-12",
+   "apply_url": "https://jobs.smartrecruiters.com/Ramboll3/744000161263159",
+   "ad_url": "https://jobs.smartrecruiters.com/Ramboll3/744000161263159",
    "source": "smartrecruiters"
   },
   {
@@ -5263,6 +5205,25 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4474648927/",
    "ad_url": "https://www.linkedin.com/jobs/view/4474648927/",
    "source": "linkedin"
+  },
+  {
+   "id": "1997b11b02fd",
+   "company": "Roland Berger",
+   "title": "Werkstudent Assistenz (all genders)",
+   "type": "Internship",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Frankfurt"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-12",
+   "apply_url": "https://jobs.smartrecruiters.com/rolandberger/744000161290479",
+   "ad_url": "https://jobs.smartrecruiters.com/rolandberger/744000161290479",
+   "source": "smartrecruiters"
   },
   {
    "id": "a330b9c67565",
@@ -5506,25 +5467,6 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4476030870/",
    "ad_url": "https://www.linkedin.com/jobs/view/4476030870/",
    "source": "linkedin"
-  },
-  {
-   "id": "16a01dbc02b0",
-   "company": "SEB",
-   "title": "Corporate & Investment Banking Summer Internship 2027: Client Analyst | SEB, Helsinki",
-   "type": "Internship",
-   "areas": [
-    "IB"
-   ],
-   "cities": [
-    "Helsinki"
-   ],
-   "period": "Summer 2027",
-   "deadline": null,
-   "posted": "2026-10-22",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.eu.lever.co/seb/c623d45e-ddf9-4ae8-8e10-599eb91490f4/apply",
-   "ad_url": "https://jobs.eu.lever.co/seb/c623d45e-ddf9-4ae8-8e10-599eb91490f4",
-   "source": "lever"
   },
   {
    "id": "1630b00252f4",
@@ -6139,31 +6081,31 @@
   {
    "name": "Citi",
    "ok": true,
-   "count": 37,
+   "count": 39,
    "error": null
   },
   {
    "name": "Bank of America",
    "ok": true,
-   "count": 71,
+   "count": 68,
    "error": null
   },
   {
    "name": "Barclays",
    "ok": true,
-   "count": 12,
+   "count": 15,
    "error": null
   },
   {
    "name": "Deutsche Bank",
    "ok": true,
-   "count": 19,
+   "count": 20,
    "error": null
   },
   {
    "name": "Rothschild & Co",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": null
   },
   {
@@ -6193,7 +6135,7 @@
   {
    "name": "ABG Sundal Collier",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": null
   },
   {
@@ -6205,19 +6147,19 @@
   {
    "name": "SEB",
    "ok": true,
-   "count": 131,
+   "count": 132,
    "error": null
   },
   {
    "name": "Swedbank",
    "ok": true,
-   "count": 58,
+   "count": 67,
    "error": null
   },
   {
    "name": "Mangold Fondkommission",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": null
   },
   {
@@ -6229,7 +6171,7 @@
   {
    "name": "Nordnet",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": null
   },
   {
@@ -6253,7 +6195,7 @@
   {
    "name": "Oliver Wyman",
    "ok": true,
-   "count": 79,
+   "count": 81,
    "error": null
   },
   {
@@ -6271,7 +6213,7 @@
   {
    "name": "Accenture (incl. Accenture Strategy, Northstream)",
    "ok": true,
-   "count": 376,
+   "count": 371,
    "error": null
   },
   {
@@ -6283,7 +6225,7 @@
   {
    "name": "PA Consulting",
    "ok": true,
-   "count": 207,
+   "count": 209,
    "error": null
   },
   {
@@ -6295,7 +6237,7 @@
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 1040,
+   "count": 1029,
    "error": null
   },
   {
@@ -6313,13 +6255,13 @@
   {
    "name": "Centigo",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": null
   },
   {
    "name": "Optilon",
    "ok": true,
-   "count": 4,
+   "count": 6,
    "error": null
   },
   {
@@ -6337,13 +6279,13 @@
   {
    "name": "Deloitte Sweden",
    "ok": true,
-   "count": 126,
+   "count": 125,
    "error": null
   },
   {
    "name": "Grant Thornton Sweden",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": null
   },
   {
@@ -6355,7 +6297,7 @@
   {
    "name": "Nordic Capital",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": null
   },
   {
@@ -6397,7 +6339,7 @@
   {
    "name": "Investment AB Latour",
    "ok": true,
-   "count": 70,
+   "count": 68,
    "error": null
   },
   {
@@ -6445,7 +6387,7 @@
   {
    "name": "Polestar",
    "ok": true,
-   "count": 15,
+   "count": 9,
    "error": null
   },
   {
@@ -6469,7 +6411,7 @@
   {
    "name": "Sandvik",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": null
   },
   {
@@ -6481,19 +6423,19 @@
   {
    "name": "Husqvarna Group",
    "ok": true,
-   "count": 2,
+   "count": 4,
    "error": null
   },
   {
    "name": "Vattenfall",
    "ok": true,
-   "count": 250,
+   "count": 263,
    "error": null
   },
   {
    "name": "H&M Group",
    "ok": true,
-   "count": 2035,
+   "count": 2070,
    "error": null
   },
   {
@@ -6523,7 +6465,7 @@
   {
    "name": "Maersk",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": null
   },
   {
@@ -6553,7 +6495,7 @@
   {
    "name": "Voi",
    "ok": true,
-   "count": 82,
+   "count": 80,
    "error": null
   },
   {
@@ -6565,13 +6507,13 @@
   {
    "name": "Trustly",
    "ok": true,
-   "count": 43,
+   "count": 44,
    "error": null
   },
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1681,
+   "count": 1688,
    "error": null
   }
  ],
