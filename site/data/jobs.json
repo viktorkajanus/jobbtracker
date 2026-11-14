@@ -1,25 +1,6 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "jobs": [
-  {
-   "id": "fb04eb822e81",
-   "company": "Volvo Business Services Aktiebolag",
-   "title": "Master Thesis - Data Analysis of Weather Effects",
-   "type": "Thesis",
-   "areas": [
-    "Analytics"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": null,
-   "deadline": "2026-11-13",
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44528665",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31636632",
-   "source": "jobtech"
-  },
   {
    "id": "b30939bc4719",
    "company": "Ericsson AB",
@@ -3194,25 +3175,6 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "fcc89ac160fa",
-   "company": "Deloitte Sweden",
-   "title": "Interns to M&A Transaction Services (Stockholm) – Spring/ Fall 2027",
-   "type": "Internship",
-   "areas": [
-    "M&A"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Spring 2027",
-   "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000157505348",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000157505348",
-   "source": "smartrecruiters"
-  },
-  {
    "id": "92189cbc8703",
    "company": "Deloitte Sweden",
    "title": "Juniora Analysts till Finance Transformation (Stockholm) – Aug 2027",
@@ -5322,6 +5284,25 @@
    "source": "smartrecruiters"
   },
   {
+   "id": "82753ce3ee3a",
+   "company": "Rothschild & Co",
+   "title": "Client Service Executive (Graduate / Entry Level)",
+   "type": "Graduate",
+   "areas": [
+    "M&A"
+   ],
+   "cities": [
+    "London"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-13",
+   "first_seen": "2026-11-14",
+   "apply_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/London/Client-Service-Executive--Graduate---Entry-Level-_JR016677/apply",
+   "ad_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/London/Client-Service-Executive--Graduate---Entry-Level-_JR016677",
+   "source": "workday"
+  },
+  {
    "id": "b754b7aee1b3",
    "company": "Rothschild & Co",
    "title": "Intern Business Development (12 months)",
@@ -5491,25 +5472,6 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4485228712/",
    "ad_url": "https://www.linkedin.com/jobs/view/4485228712/",
    "source": "linkedin"
-  },
-  {
-   "id": "b1e57f16d384",
-   "company": "Skandia",
-   "title": "Business Controller",
-   "type": "Junior",
-   "areas": [
-    "Finance"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-03",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://karriar.skandia.se/jobs/8660786-business-controller",
-   "ad_url": "https://karriar.skandia.se/jobs/8660786-business-controller",
-   "source": "teamtailor"
   },
   {
    "id": "a94db0e6da2b",
@@ -6005,20 +5967,20 @@
  "sources": [
   {
    "name": "Citi",
-   "ok": true,
-   "count": 40,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "name": "Bank of America",
-   "ok": true,
-   "count": 69,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "name": "Barclays",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "error": null
   },
   {
@@ -6030,26 +5992,26 @@
   {
    "name": "Rothschild & Co",
    "ok": true,
-   "count": 5,
-   "error": null
-  },
-  {
-   "name": "Moelis & Company",
-   "ok": true,
-   "count": 5,
-   "error": null
-  },
-  {
-   "name": "PJT Partners",
-   "ok": true,
    "count": 6,
    "error": null
   },
   {
+   "name": "Moelis & Company",
+   "ok": false,
+   "count": 0,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "name": "PJT Partners",
+   "ok": false,
+   "count": 0,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
    "name": "Houlihan Lokey",
-   "ok": true,
-   "count": 8,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "name": "Alantra",
@@ -6072,13 +6034,13 @@
   {
    "name": "SEB",
    "ok": true,
-   "count": 133,
+   "count": 131,
    "error": null
   },
   {
    "name": "Swedbank",
    "ok": true,
-   "count": 67,
+   "count": 59,
    "error": null
   },
   {
@@ -6119,14 +6081,14 @@
   },
   {
    "name": "Oliver Wyman",
-   "ok": true,
-   "count": 79,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "name": "Roland Berger",
    "ok": true,
-   "count": 206,
+   "count": 207,
    "error": null
   },
   {
@@ -6138,7 +6100,7 @@
   {
    "name": "Accenture (incl. Accenture Strategy, Northstream)",
    "ok": true,
-   "count": 373,
+   "count": 368,
    "error": null
   },
   {
@@ -6150,7 +6112,7 @@
   {
    "name": "PA Consulting",
    "ok": true,
-   "count": 203,
+   "count": 204,
    "error": null
   },
   {
@@ -6162,7 +6124,7 @@
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 1021,
+   "count": 1037,
    "error": null
   },
   {
@@ -6264,7 +6226,7 @@
   {
    "name": "Investment AB Latour",
    "ok": true,
-   "count": 67,
+   "count": 66,
    "error": null
   },
   {
@@ -6276,32 +6238,32 @@
   {
    "name": "Volati",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": null
   },
   {
    "name": "Indutrade",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": null
   },
   {
    "name": "Blackstone",
-   "ok": true,
-   "count": 1,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "name": "Blackstone Campus",
-   "ok": true,
-   "count": 12,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "name": "Carlyle",
-   "ok": true,
-   "count": 2,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "name": "Ardian",
@@ -6312,7 +6274,7 @@
   {
    "name": "Polestar",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": null
   },
   {
@@ -6330,7 +6292,7 @@
   {
    "name": "ABB",
    "ok": true,
-   "count": 17,
+   "count": 18,
    "error": null
   },
   {
@@ -6360,13 +6322,13 @@
   {
    "name": "H&M Group",
    "ok": true,
-   "count": 2038,
+   "count": 2029,
    "error": null
   },
   {
    "name": "Spotify",
    "ok": true,
-   "count": 86,
+   "count": 87,
    "error": null
   },
   {
@@ -6413,9 +6375,9 @@
   },
   {
    "name": "Procter & Gamble",
-   "ok": true,
-   "count": 15,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "name": "Voi",
@@ -6432,13 +6394,13 @@
   {
    "name": "Trustly",
    "ok": true,
-   "count": 42,
+   "count": 40,
    "error": null
   },
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1700,
+   "count": 1685,
    "error": null
   }
  ],
