@@ -1,25 +1,6 @@
 {
- "generated": "2026-11-15",
+ "generated": "2026-11-16",
  "jobs": [
-  {
-   "id": "c325240572d5",
-   "company": "Grant Thornton Sweden",
-   "title": "Intern | M&A Services | Stockholm",
-   "type": "Internship",
-   "areas": [
-    "M&A"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Jan 2027",
-   "deadline": "2026-11-15",
-   "posted": "2026-10-26",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://karriar.grantthornton.se/jobs/8615093-intern-m-a-services-stockholm",
-   "ad_url": "https://karriar.grantthornton.se/jobs/8615093-intern-m-a-services-stockholm",
-   "source": "teamtailor"
-  },
   {
    "id": "5e06528e9f15",
    "company": "Arla Foods AB",
@@ -403,25 +384,6 @@
    "source": "workday"
   },
   {
-   "id": "32ae21fae472",
-   "company": "Kraftsam Rekrytering & Bemanning AB",
-   "title": "Praktikant Upphandling/anbud/ansökan - Kraftsam",
-   "type": "Internship",
-   "areas": [
-    "Supply chain"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": null,
-   "deadline": "2026-11-29",
-   "posted": "2026-10-20",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://pnty-apply.ponty-system.se/kraftsam?id=1288&pnty_src=platsbanken",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31618810",
-   "source": "jobtech"
-  },
-  {
    "id": "331c7d702f35",
    "company": "A68 Redovisning AB",
    "title": "Junior redovisningsassistent / praktikant deltid – Täby centrum",
@@ -439,26 +401,6 @@
    "apply_url": "https://arbetsformedlingen.se/platsbanken/annonser/31616238",
    "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31616238",
    "source": "jobtech"
-  },
-  {
-   "id": "5b1109af9cec",
-   "company": "Knowit (incl. Knowit Insight/Experience)",
-   "title": "Examensarbete inom försvarssektorn - våren 2027",
-   "type": "Thesis",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Stockholm",
-    "Gothenburg"
-   ],
-   "period": "Spring 2027",
-   "deadline": "2026-11-30",
-   "posted": "2026-09-21",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://careersweden.knowit.se/jobs/8427274-examensarbete-inom-forsvarssektorn-varen-2027",
-   "ad_url": "https://careersweden.knowit.se/jobs/8427274-examensarbete-inom-forsvarssektorn-varen-2027",
-   "source": "teamtailor"
   },
   {
    "id": "6983fccecfc7",
@@ -2983,6 +2925,105 @@
    "source": "linkedin"
   },
   {
+   "id": "5863aa8ff4e0",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Finance Transformation (Malmö) – Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "Strategy",
+    "Finance"
+   ],
+   "cities": [
+    "Malmö"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161786983",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161786983",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "7e269023e748",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Finance Transformation (Göteborg) – Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "Strategy",
+    "Finance"
+   ],
+   "cities": [
+    "Gothenburg"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161787468",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161787468",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "2fbd1285473b",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Finance Transformation (Stockholm) – Jan 2027",
+   "type": "Junior",
+   "areas": [
+    "Strategy",
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Jan 2027",
+   "deadline": null,
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161787208",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161787208",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "83c6d09b3ba0",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Finance Transformation (Stockholm) – Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "Strategy",
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161785111",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161785111",
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "93e8a5a4ba7e",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Enterprise Technology & Performance (Stockholm) - Aug 2027",
+   "type": "Junior",
+   "areas": [
+    "Audit"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161786608",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161786608",
+   "source": "smartrecruiters"
+  },
+  {
    "id": "5eee863bf67f",
    "company": "Deloitte Sweden",
    "title": "Junior Consultant till Monitor Deloitte (Stockholm) - Aug 2027",
@@ -3040,123 +3081,6 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "f6251b9d72e1",
-   "company": "Deloitte Sweden",
-   "title": "Juniora Analysts till Finance Transformation (Malmö) – Aug 2027",
-   "type": "Junior",
-   "areas": [
-    "Strategy",
-    "Finance"
-   ],
-   "cities": [
-    "Malmö"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": null,
-   "posted": "2026-11-02",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159056048",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159056048",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "aed78153b656",
-   "company": "Deloitte Sweden",
-   "title": "Juniora Analysts till Finance Transformation (Stockholm) – Jan 2027",
-   "type": "Junior",
-   "areas": [
-    "Strategy",
-    "Finance"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Jan 2027",
-   "deadline": null,
-   "posted": "2026-11-02",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159055342",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159055342",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "635554468d45",
-   "company": "Deloitte Sweden",
-   "title": "Summer Internship - Deloitte Tax & Legal 2027 (Malmö)",
-   "type": "Internship",
-   "areas": [
-    "Audit"
-   ],
-   "cities": [
-    "Malmö"
-   ],
-   "period": "Summer 2027",
-   "deadline": null,
-   "posted": "2026-10-26",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000157824118",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000157824118",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "a942fc18d604",
-   "company": "Deloitte Sweden",
-   "title": "Summer Internship - Deloitte Tax & Legal 2027 (Göteborg)",
-   "type": "Internship",
-   "areas": [
-    "Audit"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Summer 2027",
-   "deadline": null,
-   "posted": "2026-10-26",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000157823988",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000157823988",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "436824f1c4f3",
-   "company": "Deloitte Sweden",
-   "title": "Summer Internship - Deloitte Tax & Legal 2027 (Stockholm)",
-   "type": "Internship",
-   "areas": [
-    "Audit"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Summer 2027",
-   "deadline": null,
-   "posted": "2026-10-26",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000157822339",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000157822339",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "92189cbc8703",
-   "company": "Deloitte Sweden",
-   "title": "Juniora Analysts till Finance Transformation (Stockholm) – Aug 2027",
-   "type": "Junior",
-   "areas": [
-    "Strategy",
-    "Finance"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": null,
-   "posted": "2026-10-21",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156878486",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156878486",
-   "source": "smartrecruiters"
-  },
-  {
    "id": "96764790330f",
    "company": "Deloitte Sweden",
    "title": "Deloitte Master's Thesis Hub",
@@ -3192,25 +3116,6 @@
    "first_seen": "2026-11-08",
    "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156593628",
    "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156593628",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "f66c6e140ee2",
-   "company": "Deloitte Sweden",
-   "title": "Juniora Analysts till Enterprise Technology & Performance (Stockholm) - Aug 2027",
-   "type": "Junior",
-   "areas": [
-    "Audit"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": null,
-   "posted": "2026-10-20",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156573804",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000156573804",
    "source": "smartrecruiters"
   },
   {
@@ -3307,45 +3212,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000145217301",
    "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000145217301",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "37e4cbfae3e3",
-   "company": "Deloitte Sweden",
-   "title": "Juniora Analysts till Finance Transformation (Göteborg) – Aug 2027",
-   "type": "Junior",
-   "areas": [
-    "Strategy",
-    "Finance"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": null,
-   "posted": "2026-08-18",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000143997750",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000143997750",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "499459bbcebf",
-   "company": "Deloitte Sweden",
-   "title": "Juniora konsulter till Risk, Regulatory & Forensic – Aug 2027",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": null,
-   "posted": "2026-08-10",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000142619649",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000142619649",
    "source": "smartrecruiters"
   },
   {
@@ -3571,25 +3437,6 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4486071055/",
    "ad_url": "https://www.linkedin.com/jobs/view/4486071055/",
    "source": "linkedin"
-  },
-  {
-   "id": "fe30a977a999",
-   "company": "Grant Thornton Sweden",
-   "title": "Junior revisor | Malmö | September 2027",
-   "type": "Junior",
-   "areas": [
-    "Audit"
-   ],
-   "cities": [
-    "Malmö"
-   ],
-   "period": "Start Sep 2027",
-   "deadline": null,
-   "posted": "2026-10-19",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://karriar.grantthornton.se/jobs/8569597-junior-revisor-malmo-september-2027",
-   "ad_url": "https://karriar.grantthornton.se/jobs/8569597-junior-revisor-malmo-september-2027",
-   "source": "teamtailor"
   },
   {
    "id": "b0d285d07f8c",
@@ -4768,45 +4615,6 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "eeb0dab1b5a9",
-   "company": "PA Consulting",
-   "title": "Junior Consultants (student) within Business, Strategy & Public – start February 2027",
-   "type": "Junior",
-   "areas": [
-    "Consulting",
-    "Strategy"
-   ],
-   "cities": [
-    "Copenhagen"
-   ],
-   "period": "Start Feb 2027",
-   "deadline": null,
-   "posted": "2026-10-27",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000158069082",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000158069082",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "ca008883bcd4",
-   "company": "PA Consulting",
-   "title": "Junior Consultants (student) within Data, AI & Technology – start February 2027",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Copenhagen"
-   ],
-   "period": "Start Feb 2027",
-   "deadline": null,
-   "posted": "2026-10-27",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000158048480",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000158048480",
-   "source": "smartrecruiters"
-  },
-  {
    "id": "b27bff7ce58f",
    "company": "PA Consulting",
    "title": "2027 Industrial Placement - Consulting (Agile) - London",
@@ -5265,25 +5073,6 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "82753ce3ee3a",
-   "company": "Rothschild & Co",
-   "title": "Client Service Executive (Graduate / Entry Level)",
-   "type": "Graduate",
-   "areas": [
-    "M&A"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-13",
-   "first_seen": "2026-11-14",
-   "apply_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/London/Client-Service-Executive--Graduate---Entry-Level-_JR016677/apply",
-   "ad_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/London/Client-Service-Executive--Graduate---Entry-Level-_JR016677",
-   "source": "workday"
-  },
-  {
    "id": "b754b7aee1b3",
    "company": "Rothschild & Co",
    "title": "Intern Business Development (12 months)",
@@ -5374,6 +5163,42 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://jobs.eu.lever.co/seb/9699f5bb-bd75-4b04-9b3e-663d904cbafd/apply",
    "ad_url": "https://jobs.eu.lever.co/seb/9699f5bb-bd75-4b04-9b3e-663d904cbafd",
+   "source": "lever"
+  },
+  {
+   "id": "01839273d22a",
+   "company": "SEB",
+   "title": "SEB Tech Trainee Programme 2027-28: AI Research Analyst | SEB, Stockholm",
+   "type": "Graduate",
+   "areas": [],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Sep 2027",
+   "deadline": null,
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "apply_url": "https://jobs.eu.lever.co/seb/6bb6f12e-d9ef-4a9b-9806-2cde4fee402d/apply",
+   "ad_url": "https://jobs.eu.lever.co/seb/6bb6f12e-d9ef-4a9b-9806-2cde4fee402d",
+   "source": "lever"
+  },
+  {
+   "id": "e89fadc2f621",
+   "company": "SEB",
+   "title": "SEB Tech Trainee Programme 2027-28: Full Stack Developer – Financial Crime Prevention | SEB, Stockholm",
+   "type": "Graduate",
+   "areas": [
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Sep 2027",
+   "deadline": null,
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "apply_url": "https://jobs.eu.lever.co/seb/7794dc6a-0c5d-4da5-9da3-42137fa12481/apply",
+   "ad_url": "https://jobs.eu.lever.co/seb/7794dc6a-0c5d-4da5-9da3-42137fa12481",
    "source": "lever"
   },
   {
@@ -5955,7 +5780,7 @@
   {
    "name": "Bank of America",
    "ok": true,
-   "count": 73,
+   "count": 75,
    "error": null
   },
   {
@@ -5973,7 +5798,7 @@
   {
    "name": "Rothschild & Co",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": null
   },
   {
@@ -6009,19 +5834,19 @@
   {
    "name": "Pareto Securities",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": null
   },
   {
    "name": "SEB",
    "ok": true,
-   "count": 131,
+   "count": 143,
    "error": null
   },
   {
    "name": "Swedbank",
    "ok": true,
-   "count": 56,
+   "count": 54,
    "error": null
   },
   {
@@ -6039,13 +5864,13 @@
   {
    "name": "Nordnet",
    "ok": true,
-   "count": 13,
+   "count": 11,
    "error": null
   },
   {
    "name": "SBAB",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": null
   },
   {
@@ -6057,19 +5882,19 @@
   {
    "name": "Skandia",
    "ok": true,
-   "count": 25,
+   "count": 23,
    "error": null
   },
   {
    "name": "Oliver Wyman",
    "ok": true,
-   "count": 81,
+   "count": 80,
    "error": null
   },
   {
    "name": "Roland Berger",
    "ok": true,
-   "count": 207,
+   "count": 206,
    "error": null
   },
   {
@@ -6081,7 +5906,7 @@
   {
    "name": "Accenture (incl. Accenture Strategy, Northstream)",
    "ok": true,
-   "count": 368,
+   "count": 366,
    "error": null
   },
   {
@@ -6093,19 +5918,19 @@
   {
    "name": "PA Consulting",
    "ok": true,
-   "count": 204,
+   "count": 202,
    "error": null
   },
   {
    "name": "BearingPoint",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": null
   },
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 1033,
+   "count": 1022,
    "error": null
   },
   {
@@ -6147,13 +5972,13 @@
   {
    "name": "Deloitte Sweden",
    "ok": true,
-   "count": 129,
+   "count": 119,
    "error": null
   },
   {
    "name": "Grant Thornton Sweden",
    "ok": true,
-   "count": 24,
+   "count": 20,
    "error": null
   },
   {
@@ -6201,13 +6026,13 @@
   {
    "name": "Investor AB",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": null
   },
   {
    "name": "Investment AB Latour",
    "ok": true,
-   "count": 66,
+   "count": 69,
    "error": null
   },
   {
@@ -6219,7 +6044,7 @@
   {
    "name": "Volati",
    "ok": true,
-   "count": 5,
+   "count": 7,
    "error": null
   },
   {
@@ -6255,7 +6080,7 @@
   {
    "name": "Polestar",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": null
   },
   {
@@ -6267,7 +6092,7 @@
   {
    "name": "Zenseact",
    "ok": true,
-   "count": 5,
+   "count": 2,
    "error": null
   },
   {
@@ -6297,13 +6122,13 @@
   {
    "name": "Vattenfall",
    "ok": true,
-   "count": 262,
+   "count": 223,
    "error": null
   },
   {
    "name": "H&M Group",
    "ok": true,
-   "count": 2005,
+   "count": 2011,
    "error": null
   },
   {
@@ -6315,7 +6140,7 @@
   {
    "name": "Stegra",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": null
   },
   {
@@ -6357,13 +6182,13 @@
   {
    "name": "Procter & Gamble",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "error": null
   },
   {
    "name": "Voi",
    "ok": true,
-   "count": 82,
+   "count": 81,
    "error": null
   },
   {
@@ -6381,7 +6206,7 @@
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1668,
+   "count": 1643,
    "error": null
   }
  ],
