@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16",
+ "generated": "2026-11-17",
  "jobs": [
   {
    "id": "5e06528e9f15",
@@ -420,25 +420,6 @@
    "source": "workday"
   },
   {
-   "id": "b170004e4392",
-   "company": "Procter & Gamble",
-   "title": "Supply Chain Summer Internship 2027",
-   "type": "Internship",
-   "areas": [
-    "Supply chain"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Summer 2027",
-   "deadline": "2026-12-01",
-   "posted": "2026-10-08",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://pg.wd5.myworkdayjobs.com/1000/job/STOCKHOLM-GENERAL-OFFICE/Supply-Chain-Summer-Internship-2027_R000160144/apply",
-   "ad_url": "https://pg.wd5.myworkdayjobs.com/1000/job/STOCKHOLM-GENERAL-OFFICE/Supply-Chain-Summer-Internship-2027_R000160144",
-   "source": "workday"
-  },
-  {
    "id": "785a0a0ee564",
    "company": "Sodexo AB",
    "title": "Junior driftcontroller",
@@ -455,25 +436,6 @@
    "first_seen": "2026-11-10",
    "apply_url": "https://se.sodexo.com/jobba-hos-oss/lediga-jobb?rmpage=job&rmjob=9250&utm_medium=talentech_publishing&utm_source=jobtip",
    "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31708788",
-   "source": "jobtech"
-  },
-  {
-   "id": "7626057904bf",
-   "company": "Avanzera AB",
-   "title": "Junior ekonomiassistent inom leverantörsreskontra",
-   "type": "Junior",
-   "areas": [
-    "Finance"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": null,
-   "deadline": "2026-12-03",
-   "posted": "2026-11-04",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobb.avanzera.se/jobb/1805/annons",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31684041",
    "source": "jobtech"
   },
   {
@@ -611,6 +573,44 @@
    "source": "workday"
   },
   {
+   "id": "0ddbc3bf9d0a",
+   "company": "Swerock Aktiebolag",
+   "title": "Peabs Traineeprogram 2027 inom Swerock Råvaruförsörjning",
+   "type": "Graduate",
+   "areas": [
+    "Strategy"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": "2027-01-17",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "apply_url": "https://pages.adway.ai/peab-swerock-swe/21034/stockholm-lulea/peabs-traineeprogram-2027-inom-swerock-ravaruforsorjning?utm_source=ams&utm_medium=adway&utm_campaign=6afb1a92d66b1e5cc171d3f6",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31738179",
+   "source": "jobtech"
+  },
+  {
+   "id": "ba3a70722cfc",
+   "company": "Swerock Aktiebolag",
+   "title": "Peabs Traineeprogram 2027 inom Swerock Mobil Vattenrening",
+   "type": "Graduate",
+   "areas": [
+    "Supply chain"
+   ],
+   "cities": [
+    "Malmö"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": "2027-01-17",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "apply_url": "https://pages.adway.ai/peab-swerock-swe/21033/malmo-stockholm/peabs-traineeprogram-2027-inom-swerock-mobil-vattenrening?utm_source=ams&utm_medium=adway&utm_campaign=6afb0c8a0e4024657c4dd6a8",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31737603",
+   "source": "jobtech"
+  },
+  {
    "id": "4f4ca6828a88",
    "company": "Areta Group AB",
    "title": "Junior Accountant / Redovisningsekonom",
@@ -741,6 +741,26 @@
    "first_seen": "2026-11-13",
    "apply_url": "https://jobb.jurek.se/jobs/8703398-junior-controller-till-internationellt-industribolag/applications/new?promotion=2294286-arbetsformedlingen",
    "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31725518",
+   "source": "jobtech"
+  },
+  {
+   "id": "dfe69d662bba",
+   "company": "Enora Sverige AB",
+   "title": "Junior Redovisningskonsult till Enora!",
+   "type": "Junior",
+   "areas": [
+    "Consulting",
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": "2027-05-15",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "apply_url": "https://karriar.enora.se/jobs/8749051-junior-redovisningskonsult-till-enora/applications/new?promotion=2298144-arbetsformedlingen",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31738318",
    "source": "jobtech"
   },
   {
@@ -1201,7 +1221,7 @@
    ],
    "period": "Spring 2027",
    "deadline": null,
-   "posted": "2026-11-13",
+   "posted": "2026-11-17",
    "first_seen": "2026-11-13",
    "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Graduate-2027---Supply-Chain---Engineering_R00372105/apply",
    "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Graduate-2027---Supply-Chain---Engineering_R00372105",
@@ -1245,6 +1265,26 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Operations--Supply-Chain-Junior-Consultant_R00353933/apply",
    "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Operations--Supply-Chain-Junior-Consultant_R00353933",
+   "source": "workday"
+  },
+  {
+   "id": "bc9b7d9ae007",
+   "company": "Accenture (incl. Accenture Strategy, Northstream)",
+   "title": "Industrial (Strategy) Consulting Analyst (all genders)",
+   "type": "Junior",
+   "areas": [
+    "Consulting",
+    "Strategy"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Zurich-Sihlstrasse-34/Industrial--Strategy--Consulting-Analyst--all-genders-_R00372503/apply",
+   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Zurich-Sihlstrasse-34/Industrial--Strategy--Consulting-Analyst--all-genders-_R00372503",
    "source": "workday"
   },
   {
@@ -2107,25 +2147,6 @@
    "source": "workday"
   },
   {
-   "id": "24b982e533fa",
-   "company": "Blackstone Campus",
-   "title": "2026 Blackstone Private Equity H2 Off Cycle Internship Frankfurt",
-   "type": "Internship",
-   "areas": [
-    "PE"
-   ],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": "Start Jul 2026",
-   "deadline": null,
-   "posted": "2026-04-14",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Frankfurt-Omniturm/XMLNAME-2026-Blackstone-Private-Equity-H2-Off-Cycle-Internship-Frankfurt_41376-1/apply",
-   "ad_url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Frankfurt-Omniturm/XMLNAME-2026-Blackstone-Private-Equity-H2-Off-Cycle-Internship-Frankfurt_41376-1",
-   "source": "workday"
-  },
-  {
    "id": "828fa9086c0c",
    "company": "Blackstone Campus",
    "title": "2027 Blackstone Credit and Insurance, Quant and Portfolio Analytics Summer Analyst  (London)",
@@ -2621,25 +2642,6 @@
    "source": "workday"
   },
   {
-   "id": "a15b49a302ac",
-   "company": "Citi",
-   "title": "Services - Summer Analyst, UK - London, 2027",
-   "type": "Internship",
-   "areas": [
-    "IB"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "Summer 2027",
-   "deadline": null,
-   "posted": "2026-09-17",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Services---Summer-Analyst--UK---London--2027_26995475/apply",
-   "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Services---Summer-Analyst--UK---London--2027_26995475",
-   "source": "workday"
-  },
-  {
    "id": "366060439c2f",
    "company": "Citi",
    "title": "Banking, Financing, Summer Analyst, London - United Kingdom 2027",
@@ -2962,26 +2964,6 @@
    "first_seen": "2026-11-16",
    "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161787468",
    "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161787468",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "2fbd1285473b",
-   "company": "Deloitte Sweden",
-   "title": "Juniora Analysts till Finance Transformation (Stockholm) – Jan 2027",
-   "type": "Junior",
-   "areas": [
-    "Strategy",
-    "Finance"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Jan 2027",
-   "deadline": null,
-   "posted": "2026-11-16",
-   "first_seen": "2026-11-16",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161787208",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161787208",
    "source": "smartrecruiters"
   },
   {
@@ -4310,25 +4292,6 @@
    "source": "workday"
   },
   {
-   "id": "465540bbca42",
-   "company": "Oliver Wyman",
-   "title": "Oliver Wyman - Core Consulting Group - Intern  (m/f/d) - Zurich",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Zurich"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-04-30",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1/apply",
-   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1",
-   "source": "workday"
-  },
-  {
    "id": "58ee4c1a1491",
    "company": "Oliver Wyman",
    "title": "NERA Summer Internship 2027 - London",
@@ -4345,6 +4308,25 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208/apply",
    "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208",
+   "source": "workday"
+  },
+  {
+   "id": "465540bbca42",
+   "company": "Oliver Wyman",
+   "title": "Oliver Wyman - Core Consulting Group - Intern  (m/f/d) - Zurich",
+   "type": "Internship",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-04-30",
+   "first_seen": "2026-11-07",
+   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1/apply",
+   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1",
    "source": "workday"
   },
   {
@@ -4519,25 +4501,6 @@
    "source": "workday"
   },
   {
-   "id": "f37f65fca61d",
-   "company": "Oliver Wyman",
-   "title": "Praktikant:in Strategic People Advisory (m/w/d)",
-   "type": "Internship",
-   "areas": [
-    "Strategy"
-   ],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-29",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Frankfurt---Einheit-1/Praktikant-in-Strategic-People-Advisory--m-w-d-_R_371176-1/apply",
-   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Frankfurt---Einheit-1/Praktikant-in-Strategic-People-Advisory--m-w-d-_R_371176-1",
-   "source": "workday"
-  },
-  {
    "id": "f54600cb65b7",
    "company": "Oliver Wyman",
    "title": "Praktikant:in – People Advisory (m/w/d) – Transformation Team",
@@ -4557,46 +4520,7 @@
    "source": "workday"
   },
   {
-   "id": "b0ca2682e6f1",
-   "company": "PA Consulting",
-   "title": "2027 Industrial Placement - Consulting (Business Design & Transformation) - London",
-   "type": "Internship",
-   "areas": [
-    "Consulting",
-    "Strategy"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-11-10",
-   "first_seen": "2026-11-11",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000160874149",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000160874149",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "f964029617b5",
-   "company": "PA Consulting",
-   "title": "2027 Industrial Placement - Consulting (Operations & Improvement) - London",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-11-10",
-   "first_seen": "2026-11-11",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000160869956",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000160869956",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "dce8e9ee2cdb",
+   "id": "35f9eea390cc",
    "company": "PA Consulting",
    "title": "2027 Industrial Placement - Consulting (Delivery) - London",
    "type": "Internship",
@@ -4608,14 +4532,14 @@
    ],
    "period": "2027",
    "deadline": null,
-   "posted": "2026-11-10",
-   "first_seen": "2026-11-10",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000160851394",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000160851394",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000161860489",
+   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000161860489",
    "source": "smartrecruiters"
   },
   {
-   "id": "b27bff7ce58f",
+   "id": "68241b43da4b",
    "company": "PA Consulting",
    "title": "2027 Industrial Placement - Consulting (Agile) - London",
    "type": "Internship",
@@ -4627,10 +4551,10 @@
    ],
    "period": "2027",
    "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000157427258",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000157427258",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000161855624",
+   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000161855624",
    "source": "smartrecruiters"
   },
   {
@@ -5071,25 +4995,6 @@
    "apply_url": "https://jobs.smartrecruiters.com/rolandberger/744000045166998",
    "ad_url": "https://jobs.smartrecruiters.com/rolandberger/744000045166998",
    "source": "smartrecruiters"
-  },
-  {
-   "id": "b754b7aee1b3",
-   "company": "Rothschild & Co",
-   "title": "Intern Business Development (12 months)",
-   "type": "Internship",
-   "areas": [
-    "Strategy"
-   ],
-   "cities": [
-    "Zurich"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-10",
-   "first_seen": "2026-11-10",
-   "apply_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/Zurich/Intern-Business-Development--12-months-_JR016682/apply",
-   "ad_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/Zurich/Intern-Business-Development--12-months-_JR016682",
-   "source": "workday"
   },
   {
    "id": "4aa940cbd8ba",
@@ -5642,6 +5547,23 @@
    "source": "indeed"
   },
   {
+   "id": "5ddb04385bff",
+   "company": "Vattenfall",
+   "title": "Internship – Computational Fluid Dynamics (CFD), Energy Transfer & Environment",
+   "type": "Internship",
+   "areas": [],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "apply_url": "https://jobs.smartrecruiters.com/vattenfall/744000162042980",
+   "ad_url": "https://jobs.smartrecruiters.com/vattenfall/744000162042980",
+   "source": "smartrecruiters"
+  },
+  {
    "id": "91ae4c276afd",
    "company": "Vattenfall",
    "title": "Traineeship WarmteCarrousel",
@@ -5774,19 +5696,19 @@
   {
    "name": "Citi",
    "ok": true,
-   "count": 40,
+   "count": 39,
    "error": null
   },
   {
    "name": "Bank of America",
    "ok": true,
-   "count": 75,
+   "count": 71,
    "error": null
   },
   {
    "name": "Barclays",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "error": null
   },
   {
@@ -5798,7 +5720,7 @@
   {
    "name": "Rothschild & Co",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": null
   },
   {
@@ -5840,13 +5762,13 @@
   {
    "name": "SEB",
    "ok": true,
-   "count": 143,
+   "count": 148,
    "error": null
   },
   {
    "name": "Swedbank",
    "ok": true,
-   "count": 54,
+   "count": 57,
    "error": null
   },
   {
@@ -5864,7 +5786,7 @@
   {
    "name": "Nordnet",
    "ok": true,
-   "count": 11,
+   "count": 13,
    "error": null
   },
   {
@@ -5888,13 +5810,13 @@
   {
    "name": "Oliver Wyman",
    "ok": true,
-   "count": 80,
+   "count": 77,
    "error": null
   },
   {
    "name": "Roland Berger",
    "ok": true,
-   "count": 206,
+   "count": 207,
    "error": null
   },
   {
@@ -5906,7 +5828,7 @@
   {
    "name": "Accenture (incl. Accenture Strategy, Northstream)",
    "ok": true,
-   "count": 366,
+   "count": 369,
    "error": null
   },
   {
@@ -5918,7 +5840,7 @@
   {
    "name": "PA Consulting",
    "ok": true,
-   "count": 202,
+   "count": 196,
    "error": null
   },
   {
@@ -5930,7 +5852,7 @@
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 1022,
+   "count": 1015,
    "error": null
   },
   {
@@ -5972,13 +5894,13 @@
   {
    "name": "Deloitte Sweden",
    "ok": true,
-   "count": 119,
+   "count": 116,
    "error": null
   },
   {
    "name": "Grant Thornton Sweden",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": null
   },
   {
@@ -6032,7 +5954,7 @@
   {
    "name": "Investment AB Latour",
    "ok": true,
-   "count": 69,
+   "count": 68,
    "error": null
   },
   {
@@ -6050,7 +5972,7 @@
   {
    "name": "Indutrade",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": null
   },
   {
@@ -6062,7 +5984,7 @@
   {
    "name": "Blackstone Campus",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": null
   },
   {
@@ -6110,7 +6032,7 @@
   {
    "name": "Essity",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "error": null
   },
   {
@@ -6122,13 +6044,13 @@
   {
    "name": "Vattenfall",
    "ok": true,
-   "count": 223,
+   "count": 226,
    "error": null
   },
   {
    "name": "H&M Group",
    "ok": true,
-   "count": 2011,
+   "count": 1984,
    "error": null
   },
   {
@@ -6188,13 +6110,13 @@
   {
    "name": "Voi",
    "ok": true,
-   "count": 81,
+   "count": 79,
    "error": null
   },
   {
    "name": "Kry",
    "ok": true,
-   "count": 54,
+   "count": 56,
    "error": null
   },
   {
@@ -6206,7 +6128,7 @@
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1643,
+   "count": 1672,
    "error": null
   }
  ],
