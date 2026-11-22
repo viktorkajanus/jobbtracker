@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21",
+ "generated": "2026-11-22",
  "jobs": [
   {
    "id": "b5677ba204c0",
@@ -19,121 +19,6 @@
    "apply_url": "https://se.indeed.com/viewjob?jk=715d72b3d605d359",
    "ad_url": "https://se.indeed.com/viewjob?jk=715d72b3d605d359",
    "source": "indeed"
-  },
-  {
-   "id": "e83a256d302f",
-   "company": "Volvo Business Services Aktiebolag",
-   "title": "Volvo Group Graduate Program - Business Dev. & Digitalization Engineer",
-   "type": "Graduate",
-   "areas": [
-    "Strategy"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": "2026-11-22",
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44528639",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31636646",
-   "source": "jobtech"
-  },
-  {
-   "id": "112909f80539",
-   "company": "Volvo Business Services Aktiebolag",
-   "title": "Volvo Group Graduate Program 2027 - Associate Buyer",
-   "type": "Graduate",
-   "areas": [
-    "Supply chain"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": "2026-11-22",
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44529136",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31637535",
-   "source": "jobtech"
-  },
-  {
-   "id": "acd6ddaaaf64",
-   "company": "Volvo Business Services Aktiebolag",
-   "title": "Volvo Group Graduate Program 2027 - Data Analyst",
-   "type": "Graduate",
-   "areas": [
-    "Analytics"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": "2026-11-22",
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44528695",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31636650",
-   "source": "jobtech"
-  },
-  {
-   "id": "3a2700118e53",
-   "company": "Volvo Business Services Aktiebolag",
-   "title": "Volvo Group Graduate Program 2027 - Supply Chain Developer",
-   "type": "Graduate",
-   "areas": [
-    "Supply chain"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": "2026-11-22",
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44528746",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31637088",
-   "source": "jobtech"
-  },
-  {
-   "id": "fa1da7e734f5",
-   "company": "Volvo Business Services Aktiebolag",
-   "title": "Volvo Group Graduate Program 2027 - Technology Exploration Manager",
-   "type": "Graduate",
-   "areas": [
-    "Supply chain",
-    "Strategy"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": "2026-11-22",
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44528674",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31636638",
-   "source": "jobtech"
-  },
-  {
-   "id": "23a6edb0802c",
-   "company": "Volvo Business Services Aktiebolag",
-   "title": "Volvo Group Graduate Program 2027 - Strategic Product Planner",
-   "type": "Graduate",
-   "areas": [
-    "Strategy"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": "2026-11-22",
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44528628",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31636622",
-   "source": "jobtech"
   },
   {
    "id": "a682b02a344f",
@@ -5389,6 +5274,23 @@
    "source": "smartrecruiters"
   },
   {
+   "id": "f96703e5f28b",
+   "company": "Volvo Group",
+   "title": "Volvo Group Graduate Program 2027 - Technology Exploration Manager",
+   "type": "Graduate",
+   "areas": [],
+   "cities": [
+    "Gothenburg"
+   ],
+   "period": "2027",
+   "deadline": null,
+   "posted": "2026-10-24",
+   "first_seen": "2026-11-07",
+   "apply_url": "https://www.linkedin.com/jobs/view/4482852386/",
+   "ad_url": "https://www.linkedin.com/jobs/view/4482852386/",
+   "source": "linkedin"
+  },
+  {
    "id": "f376e3601beb",
    "company": "Volvo Group",
    "title": "Volvo Group Graduate Program 2027 - Business Development & Digitalization Engineer",
@@ -5493,7 +5395,7 @@
   {
    "name": "Bank of America",
    "ok": true,
-   "count": 62,
+   "count": 61,
    "error": null
   },
   {
@@ -5607,7 +5509,7 @@
   {
    "name": "Roland Berger",
    "ok": true,
-   "count": 206,
+   "count": 205,
    "error": null
   },
   {
@@ -5643,7 +5545,7 @@
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 991,
+   "count": 988,
    "error": null
   },
   {
@@ -5745,7 +5647,7 @@
   {
    "name": "Investment AB Latour",
    "ok": true,
-   "count": 65,
+   "count": 64,
    "error": null
   },
   {
@@ -5835,13 +5737,13 @@
   {
    "name": "Vattenfall",
    "ok": true,
-   "count": 238,
+   "count": 230,
    "error": null
   },
   {
    "name": "H&M Group",
    "ok": true,
-   "count": 1894,
+   "count": 1860,
    "error": null
   },
   {
@@ -5853,7 +5755,7 @@
   {
    "name": "Stegra",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": null
   },
   {
@@ -5919,7 +5821,7 @@
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1735,
+   "count": 1707,
    "error": null
   }
  ],
