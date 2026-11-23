@@ -1,44 +1,6 @@
 {
- "generated": "2026-11-22",
+ "generated": "2026-11-23",
  "jobs": [
-  {
-   "id": "b5677ba204c0",
-   "company": "Knowit Sweden",
-   "title": "Mentorship Program – Knowit Management Consulting 2027",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "2027",
-   "deadline": "2026-11-22",
-   "posted": null,
-   "first_seen": "2026-11-07",
-   "apply_url": "https://se.indeed.com/viewjob?jk=715d72b3d605d359",
-   "ad_url": "https://se.indeed.com/viewjob?jk=715d72b3d605d359",
-   "source": "indeed"
-  },
-  {
-   "id": "a682b02a344f",
-   "company": "Volvo Business Services Aktiebolag",
-   "title": "Volvo Group Graduate Program 2027 - Associate Project & Commodity Buyer",
-   "type": "Graduate",
-   "areas": [
-    "Supply chain"
-   ],
-   "cities": [
-    "Gothenburg"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": "2026-11-22",
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://volvo-information-technology-ab.contactrh.com/jobs/9669/44529204",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31638214",
-   "source": "jobtech"
-  },
   {
    "id": "1655feb56139",
    "company": "Arkatay Consulting AB",
@@ -56,6 +18,25 @@
    "first_seen": "2026-11-10",
    "apply_url": "https://www.arkatay.se/graduate-managementkonsult-forsaljning-marknad/",
    "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31710093",
+   "source": "jobtech"
+  },
+  {
+   "id": "ecf4f1cf123f",
+   "company": "Sway Sourcing Sweden Aktiebolag",
+   "title": "Product Data & 3D Configuration Consultant (Junior to Mid-Level)",
+   "type": "Junior",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Malmö"
+   ],
+   "period": null,
+   "deadline": "2026-11-26",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "apply_url": "https://www.swaysourcing.com/jobs/8781647-product-data-3d-configuration-consultant-junior-to-mid-level/applications/new?promotion=2308645-arbetsformedlingen",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31766773",
    "source": "jobtech"
   },
   {
@@ -2392,6 +2373,26 @@
    "source": "workday"
   },
   {
+   "id": "19c74644e725",
+   "company": "Citi",
+   "title": "Banking, Financing, Debt Capital Markets, Placement Analyst, London - United Kingdom 2027",
+   "type": "Internship",
+   "areas": [
+    "IB",
+    "Finance"
+   ],
+   "cities": [
+    "London"
+   ],
+   "period": "Start Feb 2026",
+   "deadline": null,
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Financing--Debt-Capital-Markets--Placement-Analyst--London---United-Kingdom-2027_26993437/apply",
+   "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Financing--Debt-Capital-Markets--Placement-Analyst--London---United-Kingdom-2027_26993437",
+   "source": "workday"
+  },
+  {
    "id": "f64236d22053",
    "company": "Citi",
    "title": "Banking, Investment Banking – Healthcare, Placement Analyst, London – United Kingdom 2027",
@@ -2562,6 +2563,23 @@
    "source": "linkedin"
   },
   {
+   "id": "0940e7f2da96",
+   "company": "Deloitte",
+   "title": "Juniora Analysts till Enterprise Technology & Performance (Stockholm) - Aug 2027",
+   "type": "Junior",
+   "areas": [],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Aug 2027",
+   "deadline": null,
+   "posted": "2026-10-24",
+   "first_seen": "2026-11-07",
+   "apply_url": "https://www.linkedin.com/jobs/view/4481589685/",
+   "ad_url": "https://www.linkedin.com/jobs/view/4481589685/",
+   "source": "linkedin"
+  },
+  {
    "id": "02694572e543",
    "company": "Deloitte",
    "title": "Consultant & Senior Consultant | Strategy Consulting at Monitor Deloitte | Stockholm",
@@ -2580,6 +2598,25 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4465630862/",
    "ad_url": "https://www.linkedin.com/jobs/view/4465630862/",
    "source": "linkedin"
+  },
+  {
+   "id": "15a361ac9fb6",
+   "company": "Deloitte Sweden",
+   "title": "Juniora Analysts till Deloitte Digital (Stockholm) - Jan 2027",
+   "type": "Junior",
+   "areas": [
+    "Audit"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Start Jan 2027",
+   "deadline": null,
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000163206798",
+   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000163206798",
+   "source": "smartrecruiters"
   },
   {
    "id": "7048aa6e990f",
@@ -2661,25 +2698,6 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "93e8a5a4ba7e",
-   "company": "Deloitte Sweden",
-   "title": "Juniora Analysts till Enterprise Technology & Performance (Stockholm) - Aug 2027",
-   "type": "Junior",
-   "areas": [
-    "Audit"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Aug 2027",
-   "deadline": null,
-   "posted": "2026-11-16",
-   "first_seen": "2026-11-16",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161786608",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000161786608",
-   "source": "smartrecruiters"
-  },
-  {
    "id": "5eee863bf67f",
    "company": "Deloitte Sweden",
    "title": "Junior Consultant till Monitor Deloitte (Stockholm) - Aug 2027",
@@ -2696,25 +2714,6 @@
    "first_seen": "2026-11-10",
    "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000160863363",
    "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000160863363",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "c7cd42ca56e5",
-   "company": "Deloitte Sweden",
-   "title": "Juniora Analysts till Deloitte Digital (Stockholm) - Jan 2027",
-   "type": "Junior",
-   "areas": [
-    "Audit"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Start Jan 2027",
-   "deadline": null,
-   "posted": "2026-11-04",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159578609",
-   "ad_url": "https://jobs.smartrecruiters.com/DeloitteNordic/744000159578609",
    "source": "smartrecruiters"
   },
   {
@@ -3146,6 +3145,26 @@
    "source": "linkedin"
   },
   {
+   "id": "e2435b381a4a",
+   "company": "Houlihan Lokey",
+   "title": "Q2 2027 Off-Cycle Internship - Corporate Finance (Technology)",
+   "type": "Internship",
+   "areas": [
+    "M&A",
+    "Finance"
+   ],
+   "cities": [
+    "Frankfurt"
+   ],
+   "period": "Q2 2027",
+   "deadline": null,
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Technology-_R3541/apply",
+   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--Technology-_R3541",
+   "source": "workday"
+  },
+  {
    "id": "534fa738a864",
    "company": "Houlihan Lokey",
    "title": "Off-Cycle Intern - Capital Solutions, Debt Advisory (Q2, 2027)",
@@ -3204,25 +3223,6 @@
    "source": "workday"
   },
   {
-   "id": "827174fbb8b9",
-   "company": "Houlihan Lokey",
-   "title": "3 Month Internship  - Financial Restructuring (Q3 2027)",
-   "type": "Internship",
-   "areas": [
-    "Finance"
-   ],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": "Q3 2027",
-   "deadline": null,
-   "posted": "2026-09-21",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525/apply",
-   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/XMLNAME-3-Month-Internship----Financial-Restructuring--Q1--2026-_R2525",
-   "source": "workday"
-  },
-  {
    "id": "c03ebb3d4c0e",
    "company": "IK Partners",
    "title": "Off-Cycle Analyst Intern – Amsterdam",
@@ -3257,26 +3257,6 @@
    "apply_url": "https://www.linkedin.com/jobs/view/4486369333/",
    "ad_url": "https://www.linkedin.com/jobs/view/4486369333/",
    "source": "linkedin"
-  },
-  {
-   "id": "5a49d7b6a275",
-   "company": "Implement Consulting Group",
-   "title": "Junior Consultants (Supply Chain & Operations)",
-   "type": "Junior",
-   "areas": [
-    "Consulting",
-    "Supply chain"
-   ],
-   "cities": [
-    "Malmö"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-02",
-   "first_seen": "2026-11-08",
-   "apply_url": "https://jobs.smartrecruiters.com/implementconsultinggroup/744000159065764",
-   "ad_url": "https://jobs.smartrecruiters.com/implementconsultinggroup/744000159065764",
-   "source": "smartrecruiters"
   },
   {
    "id": "c5286a0ad252",
@@ -4709,25 +4689,6 @@
    "source": "workday"
   },
   {
-   "id": "322e2ef163a3",
-   "company": "Rothschild & Co",
-   "title": "Equity Research Analyst (Graduate or 1 years' experience buy/sell side)",
-   "type": "Graduate",
-   "areas": [
-    "M&A"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-18",
-   "first_seen": "2026-11-18",
-   "apply_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544/apply",
-   "ad_url": "https://rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral/job/London/Equity-Research-Analyst--1-years--experience-buy-or-sell-side-_JR016544",
-   "source": "workday"
-  },
-  {
    "id": "1d3c6b14a6b2",
    "company": "SBAB",
    "title": "Riskanalytiker - Kreditriskmodeller och Kapitaltäckning",
@@ -5389,19 +5350,19 @@
   {
    "name": "Citi",
    "ok": true,
-   "count": 36,
+   "count": 37,
    "error": null
   },
   {
    "name": "Bank of America",
    "ok": true,
-   "count": 61,
+   "count": 64,
    "error": null
   },
   {
    "name": "Barclays",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": null
   },
   {
@@ -5413,7 +5374,7 @@
   {
    "name": "Rothschild & Co",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": null
   },
   {
@@ -5443,7 +5404,7 @@
   {
    "name": "ABG Sundal Collier",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": null
   },
   {
@@ -5455,13 +5416,13 @@
   {
    "name": "SEB",
    "ok": true,
-   "count": 149,
+   "count": 138,
    "error": null
   },
   {
    "name": "Swedbank",
    "ok": true,
-   "count": 57,
+   "count": 55,
    "error": null
   },
   {
@@ -5473,13 +5434,13 @@
   {
    "name": "Avanza",
    "ok": true,
-   "count": 8,
+   "count": 6,
    "error": null
   },
   {
    "name": "Nordnet",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": null
   },
   {
@@ -5497,13 +5458,13 @@
   {
    "name": "Skandia",
    "ok": true,
-   "count": 25,
+   "count": 23,
    "error": null
   },
   {
    "name": "Oliver Wyman",
    "ok": true,
-   "count": 71,
+   "count": 73,
    "error": null
   },
   {
@@ -5521,19 +5482,19 @@
   {
    "name": "Accenture (incl. Accenture Strategy, Northstream)",
    "ok": true,
-   "count": 375,
+   "count": 373,
    "error": null
   },
   {
    "name": "Implement Consulting Group",
    "ok": true,
-   "count": 66,
+   "count": 65,
    "error": null
   },
   {
    "name": "PA Consulting",
    "ok": true,
-   "count": 199,
+   "count": 192,
    "error": null
   },
   {
@@ -5545,7 +5506,7 @@
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 988,
+   "count": 990,
    "error": null
   },
   {
@@ -5587,13 +5548,13 @@
   {
    "name": "Deloitte Sweden",
    "ok": true,
-   "count": 115,
+   "count": 116,
    "error": null
   },
   {
    "name": "Grant Thornton Sweden",
    "ok": true,
-   "count": 19,
+   "count": 20,
    "error": null
   },
   {
@@ -5629,7 +5590,7 @@
   {
    "name": "CapMan",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": null
   },
   {
@@ -5659,7 +5620,7 @@
   {
    "name": "Volati",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": null
   },
   {
@@ -5695,7 +5656,7 @@
   {
    "name": "Polestar",
    "ok": true,
-   "count": 10,
+   "count": 12,
    "error": null
   },
   {
@@ -5713,7 +5674,7 @@
   {
    "name": "ABB",
    "ok": true,
-   "count": 17,
+   "count": 12,
    "error": null
   },
   {
@@ -5737,25 +5698,25 @@
   {
    "name": "Vattenfall",
    "ok": true,
-   "count": 230,
+   "count": 191,
    "error": null
   },
   {
    "name": "H&M Group",
    "ok": true,
-   "count": 1860,
+   "count": 1822,
    "error": null
   },
   {
    "name": "Spotify",
    "ok": true,
-   "count": 91,
+   "count": 90,
    "error": null
   },
   {
    "name": "Stegra",
    "ok": true,
-   "count": 24,
+   "count": 22,
    "error": null
   },
   {
@@ -5797,31 +5758,31 @@
   {
    "name": "Procter & Gamble",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": null
   },
   {
    "name": "Voi",
    "ok": true,
-   "count": 80,
+   "count": 83,
    "error": null
   },
   {
    "name": "Kry",
    "ok": true,
-   "count": 51,
+   "count": 50,
    "error": null
   },
   {
    "name": "Trustly",
    "ok": true,
-   "count": 39,
+   "count": 40,
    "error": null
   },
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1707,
+   "count": 1701,
    "error": null
   }
  ],
