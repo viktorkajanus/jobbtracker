@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23",
+ "generated": "2026-11-24",
  "jobs": [
   {
    "id": "1655feb56139",
@@ -40,25 +40,6 @@
    "source": "jobtech"
   },
   {
-   "id": "0332cfcecddd",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "Products Working Internship",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": "2026-11-27",
-   "posted": "2026-10-28",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Products-Working-Internship_R00367736/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Products-Working-Internship_R00367736",
-   "source": "workday"
-  },
-  {
    "id": "68c8b5903d19",
    "company": "Accenture (incl. Accenture Strategy, Northstream)",
    "title": "Accenture Spring Internship 2027",
@@ -78,23 +59,23 @@
    "source": "workday"
   },
   {
-   "id": "331c7d702f35",
-   "company": "A68 Redovisning AB",
-   "title": "Junior redovisningsassistent / praktikant deltid – Täby centrum",
+   "id": "0332cfcecddd",
+   "company": "Accenture (incl. Accenture Strategy, Northstream)",
+   "title": "Products Working Internship",
    "type": "Internship",
    "areas": [
-    "Finance"
+    "Consulting"
    ],
    "cities": [
-    "Stockholm"
+    "Amsterdam"
    ],
    "period": null,
    "deadline": "2026-11-30",
-   "posted": "2026-10-19",
+   "posted": "2026-11-24",
    "first_seen": "2026-11-07",
-   "apply_url": "https://arbetsformedlingen.se/platsbanken/annonser/31616238",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31616238",
-   "source": "jobtech"
+   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Products-Working-Internship_R00367736/apply",
+   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Products-Working-Internship_R00367736",
+   "source": "workday"
   },
   {
    "id": "6983fccecfc7",
@@ -362,25 +343,6 @@
    "source": "jobtech"
   },
   {
-   "id": "9dfdc06b4652",
-   "company": "The Place AB",
-   "title": "Junior ekonomiassistent",
-   "type": "Junior",
-   "areas": [
-    "Finance"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": null,
-   "deadline": "2027-05-10",
-   "posted": "2026-11-11",
-   "first_seen": "2026-11-11",
-   "apply_url": "https://jobb.theplace.se/jobs/8695585-junior-ekonomiassistent/applications/new?promotion=2291135-arbetsformedlingen",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31714971",
-   "source": "jobtech"
-  },
-  {
    "id": "bf11c0e1a1de",
    "company": "Nordic Investin Group Aktiebolag",
    "title": "Junior Business Intelligence Developer",
@@ -436,25 +398,6 @@
    "first_seen": "2026-11-17",
    "apply_url": "https://karriar.enora.se/jobs/8749051-junior-redovisningskonsult-till-enora/applications/new?promotion=2298144-arbetsformedlingen",
    "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31738318",
-   "source": "jobtech"
-  },
-  {
-   "id": "60f24133d111",
-   "company": "Andara Group AB",
-   "title": "Junior rekryterare till kund i Haninge - konsultuppdrag",
-   "type": "Junior",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": "Summer 2027",
-   "deadline": "2027-05-17",
-   "posted": "2026-11-18",
-   "first_seen": "2026-11-19",
-   "apply_url": "https://andaraprofessionals.teamtailor.com/jobs/8663631-junior-rekryterare-till-kund-i-haninge-konsultuppdrag/applications/new?promotion=2302571-arbetsformedlingen",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31749304",
    "source": "jobtech"
   },
   {
@@ -900,26 +843,6 @@
    "first_seen": "2026-11-13",
    "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Graduate-2027---Supply-Chain---Engineering_R00372105/apply",
    "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Graduate-2027---Supply-Chain---Engineering_R00372105",
-   "source": "workday"
-  },
-  {
-   "id": "bc9b7d9ae007",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "Industrial (Strategy) Consulting Analyst (all genders)",
-   "type": "Junior",
-   "areas": [
-    "Consulting",
-    "Strategy"
-   ],
-   "cities": [
-    "Zurich"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Zurich-Sihlstrasse-34/Industrial--Strategy--Consulting-Analyst--all-genders-_R00372503/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Zurich-Sihlstrasse-34/Industrial--Strategy--Consulting-Analyst--all-genders-_R00372503",
    "source": "workday"
   },
   {
@@ -2217,25 +2140,6 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Amsterdam--Netherlands/Banking--Corporate-Banking--Summer-Analyst--Amsterdam---The-Netherlands--2027_26994567/apply",
    "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/Amsterdam--Netherlands/Banking--Corporate-Banking--Summer-Analyst--Amsterdam---The-Netherlands--2027_26994567",
-   "source": "workday"
-  },
-  {
-   "id": "29f59e314d83",
-   "company": "Citi",
-   "title": "Banking, Corporate Banking, Summer Analyst, London – United Kingdom, 2027",
-   "type": "Internship",
-   "areas": [
-    "IB"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "Summer 2027",
-   "deadline": null,
-   "posted": "2026-10-30",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Corporate-Banking--Summer-Analyst--London---United-Kingdom--2027_26991689/apply",
-   "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Corporate-Banking--Summer-Analyst--London---United-Kingdom--2027_26991689",
    "source": "workday"
   },
   {
@@ -3686,25 +3590,6 @@
    "source": "teamtailor"
   },
   {
-   "id": "9e92299a2bd9",
-   "company": "Nordic Capital",
-   "title": "Internship Oslo - Spring 2027",
-   "type": "Internship",
-   "areas": [
-    "PE"
-   ],
-   "cities": [
-    "Oslo"
-   ],
-   "period": "Spring 2027",
-   "deadline": null,
-   "posted": "2026-10-08",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://career.nordiccapital.com/jobs/8519107-internship-oslo-spring-2027",
-   "ad_url": "https://career.nordiccapital.com/jobs/8519107-internship-oslo-spring-2027",
-   "source": "teamtailor"
-  },
-  {
    "id": "91bfa847f96a",
    "company": "Nordiska",
    "title": "Credit Risk Analyst",
@@ -3908,25 +3793,6 @@
    "source": "workday"
   },
   {
-   "id": "465540bbca42",
-   "company": "Oliver Wyman",
-   "title": "Oliver Wyman - Core Consulting Group - Intern  (m/f/d) - Zurich",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Zurich"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-04-30",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1/apply",
-   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1",
-   "source": "workday"
-  },
-  {
    "id": "58ee4c1a1491",
    "company": "Oliver Wyman",
    "title": "NERA Summer Internship 2027 - London",
@@ -3943,6 +3809,25 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208/apply",
    "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---St-Botolph/NERA-Summer-Intern-2027---London_R_363208",
+   "source": "workday"
+  },
+  {
+   "id": "465540bbca42",
+   "company": "Oliver Wyman",
+   "title": "Oliver Wyman - Core Consulting Group - Intern  (m/f/d) - Zurich",
+   "type": "Internship",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-04-30",
+   "first_seen": "2026-11-07",
+   "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1/apply",
+   "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Zurich---Lowenstrasse/Oliver-Wyman---Core-Consulting-Group---Intern---m-f-d----Zurich_R_326808-1",
    "source": "workday"
   },
   {
@@ -4115,44 +4000,6 @@
    "apply_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Frankfurt---Einheit-1/Praktikant-in---People-Advisory--m-w-d----Transformation-Team_R_365564/apply",
    "ad_url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Frankfurt---Einheit-1/Praktikant-in---People-Advisory--m-w-d----Transformation-Team_R_365564",
    "source": "workday"
-  },
-  {
-   "id": "35f9eea390cc",
-   "company": "PA Consulting",
-   "title": "2027 Industrial Placement - Consulting (Delivery) - London",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000161860489",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000161860489",
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "68241b43da4b",
-   "company": "PA Consulting",
-   "title": "2027 Industrial Placement - Consulting (Agile) - London",
-   "type": "Internship",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "London"
-   ],
-   "period": "2027",
-   "deadline": null,
-   "posted": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "apply_url": "https://jobs.smartrecruiters.com/paconsulting/744000161855624",
-   "ad_url": "https://jobs.smartrecruiters.com/paconsulting/744000161855624",
-   "source": "smartrecruiters"
   },
   {
    "id": "b4d09309bdfa",
@@ -5350,19 +5197,19 @@
   {
    "name": "Citi",
    "ok": true,
-   "count": 37,
+   "count": 36,
    "error": null
   },
   {
    "name": "Bank of America",
    "ok": true,
-   "count": 64,
+   "count": 55,
    "error": null
   },
   {
    "name": "Barclays",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": null
   },
   {
@@ -5416,7 +5263,7 @@
   {
    "name": "SEB",
    "ok": true,
-   "count": 138,
+   "count": 151,
    "error": null
   },
   {
@@ -5440,7 +5287,7 @@
   {
    "name": "Nordnet",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": null
   },
   {
@@ -5452,19 +5299,19 @@
   {
    "name": "AP3",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": null
   },
   {
    "name": "Skandia",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "error": null
   },
   {
    "name": "Oliver Wyman",
    "ok": true,
-   "count": 73,
+   "count": 72,
    "error": null
   },
   {
@@ -5476,13 +5323,13 @@
   {
    "name": "Strategy& (PwC)",
    "ok": true,
-   "count": 31,
+   "count": 32,
    "error": null
   },
   {
    "name": "Accenture (incl. Accenture Strategy, Northstream)",
    "ok": true,
-   "count": 373,
+   "count": 366,
    "error": null
   },
   {
@@ -5494,7 +5341,7 @@
   {
    "name": "PA Consulting",
    "ok": true,
-   "count": 192,
+   "count": 189,
    "error": null
   },
   {
@@ -5506,7 +5353,7 @@
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 990,
+   "count": 988,
    "error": null
   },
   {
@@ -5530,7 +5377,7 @@
   {
    "name": "Optilon",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": null
   },
   {
@@ -5548,25 +5395,25 @@
   {
    "name": "Deloitte Sweden",
    "ok": true,
-   "count": 116,
+   "count": 118,
    "error": null
   },
   {
    "name": "Grant Thornton Sweden",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": null
   },
   {
    "name": "EQT",
    "ok": true,
-   "count": 13,
+   "count": 15,
    "error": null
   },
   {
    "name": "Nordic Capital",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "error": null
   },
   {
@@ -5608,7 +5455,7 @@
   {
    "name": "Investment AB Latour",
    "ok": true,
-   "count": 64,
+   "count": 63,
    "error": null
   },
   {
@@ -5656,7 +5503,7 @@
   {
    "name": "Polestar",
    "ok": true,
-   "count": 12,
+   "count": 14,
    "error": null
   },
   {
@@ -5680,13 +5527,13 @@
   {
    "name": "Sandvik",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": null
   },
   {
    "name": "Essity",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": null
   },
   {
@@ -5698,25 +5545,25 @@
   {
    "name": "Vattenfall",
    "ok": true,
-   "count": 191,
+   "count": 187,
    "error": null
   },
   {
    "name": "H&M Group",
    "ok": true,
-   "count": 1822,
+   "count": 1845,
    "error": null
   },
   {
    "name": "Spotify",
    "ok": true,
-   "count": 90,
+   "count": 88,
    "error": null
   },
   {
    "name": "Stegra",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": null
   },
   {
@@ -5764,25 +5611,25 @@
   {
    "name": "Voi",
    "ok": true,
-   "count": 83,
+   "count": 87,
    "error": null
   },
   {
    "name": "Kry",
    "ok": true,
-   "count": 50,
+   "count": 51,
    "error": null
   },
   {
    "name": "Trustly",
    "ok": true,
-   "count": 40,
+   "count": 42,
    "error": null
   },
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1701,
+   "count": 1746,
    "error": null
   }
  ],
