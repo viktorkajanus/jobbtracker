@@ -1,25 +1,6 @@
 {
- "generated": "2026-11-24",
+ "generated": "2026-11-25",
  "jobs": [
-  {
-   "id": "1655feb56139",
-   "company": "Arkatay Consulting AB",
-   "title": "Graduate - Managementkonsult - med inriktning försäljning / marknadsföring",
-   "type": "Graduate",
-   "areas": [
-    "Consulting"
-   ],
-   "cities": [
-    "Malmö"
-   ],
-   "period": null,
-   "deadline": "2026-11-24",
-   "posted": "2026-11-10",
-   "first_seen": "2026-11-10",
-   "apply_url": "https://www.arkatay.se/graduate-managementkonsult-forsaljning-marknad/",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31710093",
-   "source": "jobtech"
-  },
   {
    "id": "ecf4f1cf123f",
    "company": "Sway Sourcing Sweden Aktiebolag",
@@ -191,6 +172,44 @@
    "source": "jobtech"
   },
   {
+   "id": "36dda04f1f78",
+   "company": "Agile Resources AB",
+   "title": "Intern inköpare inom prototypinköp",
+   "type": "Internship",
+   "areas": [
+    "Supply chain"
+   ],
+   "cities": [
+    "Gothenburg"
+   ],
+   "period": null,
+   "deadline": "2026-12-24",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "apply_url": "https://recruit.agile.nu/apply/jp-55a00c65ddb925d2?source=platsbanken",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31774070",
+   "source": "jobtech"
+  },
+  {
+   "id": "91b4c024b6eb",
+   "company": "SJR in Sweden AB",
+   "title": "Junior Pricing Controller med start i december",
+   "type": "Junior",
+   "areas": [
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": "2026-12-24",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "apply_url": "https://karriar.sjr.se/jobb/2454/ansokan",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31776594",
+   "source": "jobtech"
+  },
+  {
    "id": "e7028490a2c3",
    "company": "Friday Väst AB",
    "title": "Junior Projektkoordinator inom Inköp & Supply Chain",
@@ -324,25 +343,6 @@
    "source": "jobtech"
   },
   {
-   "id": "4497497647c5",
-   "company": "Academic Work Sweden AB",
-   "title": "Kort uppdrag: Junior Supply Chain Specialist till internationellt företag",
-   "type": "Junior",
-   "areas": [
-    "Supply chain"
-   ],
-   "cities": [
-    "Stockholm"
-   ],
-   "period": null,
-   "deadline": "2027-05-09",
-   "posted": "2026-11-10",
-   "first_seen": "2026-11-11",
-   "apply_url": "https://www.academicwork.se/lediga-jobb/p/platsbanken/7SSC92",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31712664",
-   "source": "jobtech"
-  },
-  {
    "id": "bf11c0e1a1de",
    "company": "Nordic Investin Group Aktiebolag",
    "title": "Junior Business Intelligence Developer",
@@ -401,22 +401,41 @@
    "source": "jobtech"
   },
   {
-   "id": "3d565f49bd73",
+   "id": "05474726fe3b",
    "company": "Academic Work Sweden AB",
-   "title": "Junior Ekonomiassistent för omgående uppdrag",
+   "title": "Kort uppdrag: Junior Supply Chain Specialist till internationellt företag",
    "type": "Junior",
    "areas": [
-    "Finance"
+    "Supply chain"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": "Summer 2027",
+   "deadline": "2027-05-24",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "apply_url": "https://www.academicwork.se/lediga-jobb/p/platsbanken/7SSC92",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31778158",
+   "source": "jobtech"
+  },
+  {
+   "id": "a790712725f7",
+   "company": "Bravura Sverige AB",
+   "title": "Junior administratör till företag inom logistikbranschen",
+   "type": "Junior",
+   "areas": [
+    "Supply chain"
    ],
    "cities": [
     "Gothenburg"
    ],
    "period": null,
-   "deadline": "2027-05-19",
-   "posted": "2026-11-20",
-   "first_seen": "2026-11-21",
-   "apply_url": "https://www.academicwork.se/lediga-jobb/p/platsbanken/RHZIOL",
-   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31761217",
+   "deadline": "2027-05-24",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "apply_url": "https://ledigajobb.bravura.se/jobs/8794014-junior-administrator-till-foretag-inom-logistikbranschen/applications/new?promotion=2312951-arbetsformedlingen",
+   "ad_url": "https://arbetsformedlingen.se/platsbanken/annonser/31777396",
    "source": "jobtech"
   },
   {
@@ -671,44 +690,6 @@
    "source": "workday"
   },
   {
-   "id": "a1eda81a82f3",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "Supply Chain & Procurement Working Internship",
-   "type": "Internship",
-   "areas": [
-    "Supply chain"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Procurement-Working-Internship_R00364984/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Procurement-Working-Internship_R00364984",
-   "source": "workday"
-  },
-  {
-   "id": "dd7b3495b5df",
-   "company": "Accenture (incl. Accenture Strategy, Northstream)",
-   "title": "Supply Chain & Procurement Thesis Internship",
-   "type": "Thesis",
-   "areas": [
-    "Supply chain"
-   ],
-   "cities": [
-    "Amsterdam"
-   ],
-   "period": null,
-   "deadline": null,
-   "posted": "2026-10-23",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Procurement-Thesis-Internship_R00365041/apply",
-   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Procurement-Thesis-Internship_R00365041",
-   "source": "workday"
-  },
-  {
    "id": "efdee5b66ba9",
    "company": "Accenture (incl. Accenture Strategy, Northstream)",
    "title": "Werkstudent – Technology, Strategy and Transformation Internship",
@@ -744,6 +725,25 @@
    "first_seen": "2026-11-07",
    "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Technology-Strategy-and-Transformation--TS-T--Thesis-Internship_R00369024/apply",
    "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Technology-Strategy-and-Transformation--TS-T--Thesis-Internship_R00369024",
+   "source": "workday"
+  },
+  {
+   "id": "82ce541719db",
+   "company": "Accenture (incl. Accenture Strategy, Northstream)",
+   "title": "Bli med på vårt Summer Internship 2027 i Design!",
+   "type": "Internship",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Oslo"
+   ],
+   "period": "Summer 2027",
+   "deadline": null,
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-25",
+   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Bli-med-p-vrt-Summer-Internship-2027-i-Design-_R00349987/apply",
+   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Bli-med-p-vrt-Summer-Internship-2027-i-Design-_R00349987",
    "source": "workday"
   },
   {
@@ -843,6 +843,26 @@
    "first_seen": "2026-11-13",
    "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Graduate-2027---Supply-Chain---Engineering_R00372105/apply",
    "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Graduate-2027---Supply-Chain---Engineering_R00372105",
+   "source": "workday"
+  },
+  {
+   "id": "057929bb4128",
+   "company": "Accenture (incl. Accenture Strategy, Northstream)",
+   "title": "Junior SAP Finance Consultant",
+   "type": "Junior",
+   "areas": [
+    "Consulting",
+    "Finance"
+   ],
+   "cities": [
+    "Stockholm"
+   ],
+   "period": null,
+   "deadline": null,
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "apply_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Stockholm/Junior-SAP-Finance-Consultant_R00372818/apply",
+   "ad_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Stockholm/Junior-SAP-Finance-Consultant_R00372818",
    "source": "workday"
   },
   {
@@ -2328,7 +2348,7 @@
    ],
    "period": "2027",
    "deadline": null,
-   "posted": "2026-10-05",
+   "posted": "2026-11-24",
    "first_seen": "2026-11-07",
    "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Copenhagen--Denmark/Banking--Corporate-Banking--Placement-Analyst--Copenhagen---Denmark--2027---January-Start_26993494/apply",
    "ad_url": "https://citi.wd5.myworkdayjobs.com/2/job/Copenhagen--Denmark/Banking--Corporate-Banking--Placement-Analyst--Copenhagen---Denmark--2027---January-Start_26993494",
@@ -3085,26 +3105,6 @@
    "first_seen": "2026-11-15",
    "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Debt-Advisory--Q1--2027-_R3443/apply",
    "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/Off-Cycle-Intern---Capital-Solutions--Debt-Advisory--Q1--2027-_R3443",
-   "source": "workday"
-  },
-  {
-   "id": "2bb526fd16db",
-   "company": "Houlihan Lokey",
-   "title": "Q2 2027 Off-Cycle Internship - Corporate Finance (IT Services)",
-   "type": "Internship",
-   "areas": [
-    "M&A",
-    "Finance"
-   ],
-   "cities": [
-    "Frankfurt"
-   ],
-   "period": "Q2 2027",
-   "deadline": null,
-   "posted": "2026-10-30",
-   "first_seen": "2026-11-07",
-   "apply_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542/apply",
-   "ad_url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Frankfurt-Germany/Q2-2027-Off-Cycle-Internship---Corporate-Finance--IT-Services-_R3542",
    "source": "workday"
   },
   {
@@ -4779,6 +4779,25 @@
    "source": "linkedin"
   },
   {
+   "id": "80128bdb73f7",
+   "company": "Strategy& (PwC)",
+   "title": "Junior im Treuhandbereich und Wirtschaftsprüfung (KV Absolventen) – Trade, Industries & Services - Herbst 2027",
+   "type": "Junior",
+   "areas": [
+    "Consulting"
+   ],
+   "cities": [
+    "Zurich"
+   ],
+   "period": "2027",
+   "deadline": null,
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "apply_url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Zrich/Junior-im-Treuhandbereich-und-Wirtschaftsprfung--KV-Absolventen----Trade--Industries---Services---Herbst-2027_776033WD/apply",
+   "ad_url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Zrich/Junior-im-Treuhandbereich-und-Wirtschaftsprfung--KV-Absolventen----Trade--Industries---Services---Herbst-2027_776033WD",
+   "source": "workday"
+  },
+  {
    "id": "ba57ff16c258",
    "company": "Strategy& (PwC)",
    "title": "Intern in Audit – Financial Services oder Trade, Industries and Services",
@@ -5197,13 +5216,13 @@
   {
    "name": "Citi",
    "ok": true,
-   "count": 36,
+   "count": 38,
    "error": null
   },
   {
    "name": "Bank of America",
    "ok": true,
-   "count": 55,
+   "count": 56,
    "error": null
   },
   {
@@ -5263,13 +5282,13 @@
   {
    "name": "SEB",
    "ok": true,
-   "count": 151,
+   "count": 153,
    "error": null
   },
   {
    "name": "Swedbank",
    "ok": true,
-   "count": 55,
+   "count": 61,
    "error": null
   },
   {
@@ -5287,7 +5306,7 @@
   {
    "name": "Nordnet",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": null
   },
   {
@@ -5305,31 +5324,31 @@
   {
    "name": "Skandia",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": null
   },
   {
    "name": "Oliver Wyman",
    "ok": true,
-   "count": 72,
+   "count": 71,
    "error": null
   },
   {
    "name": "Roland Berger",
    "ok": true,
-   "count": 205,
+   "count": 209,
    "error": null
   },
   {
    "name": "Strategy& (PwC)",
    "ok": true,
-   "count": 32,
+   "count": 33,
    "error": null
   },
   {
    "name": "Accenture (incl. Accenture Strategy, Northstream)",
    "ok": true,
-   "count": 366,
+   "count": 354,
    "error": null
   },
   {
@@ -5341,7 +5360,7 @@
   {
    "name": "PA Consulting",
    "ok": true,
-   "count": 189,
+   "count": 183,
    "error": null
   },
   {
@@ -5353,7 +5372,7 @@
   {
    "name": "Ramboll Management Consulting",
    "ok": true,
-   "count": 988,
+   "count": 989,
    "error": null
   },
   {
@@ -5395,7 +5414,7 @@
   {
    "name": "Deloitte Sweden",
    "ok": true,
-   "count": 118,
+   "count": 119,
    "error": null
   },
   {
@@ -5455,7 +5474,7 @@
   {
    "name": "Investment AB Latour",
    "ok": true,
-   "count": 63,
+   "count": 58,
    "error": null
   },
   {
@@ -5467,13 +5486,13 @@
   {
    "name": "Volati",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": null
   },
   {
    "name": "Indutrade",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": null
   },
   {
@@ -5521,7 +5540,7 @@
   {
    "name": "ABB",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": null
   },
   {
@@ -5539,25 +5558,25 @@
   {
    "name": "Husqvarna Group",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": null
   },
   {
    "name": "Vattenfall",
    "ok": true,
-   "count": 187,
+   "count": 191,
    "error": null
   },
   {
    "name": "H&M Group",
    "ok": true,
-   "count": 1845,
+   "count": 1831,
    "error": null
   },
   {
    "name": "Spotify",
    "ok": true,
-   "count": 88,
+   "count": 92,
    "error": null
   },
   {
@@ -5587,7 +5606,7 @@
   {
    "name": "Equinor",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": null
   },
   {
@@ -5605,31 +5624,31 @@
   {
    "name": "Procter & Gamble",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": null
   },
   {
    "name": "Voi",
    "ok": true,
-   "count": 87,
+   "count": 89,
    "error": null
   },
   {
    "name": "Kry",
    "ok": true,
-   "count": 51,
+   "count": 53,
    "error": null
   },
   {
    "name": "Trustly",
    "ok": true,
-   "count": 42,
+   "count": 43,
    "error": null
   },
   {
    "name": "JobTech",
    "ok": true,
-   "count": 1746,
+   "count": 1768,
    "error": null
   }
  ],
